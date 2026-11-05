@@ -1,0 +1,22 @@
+.gradle/
+.test-home/
+**/build/
+local.properties
+*.jks
+*.keystore
+# File generati o specifici del computer, non necessari ai sorgenti.
+.idea/
+*.iml
+__pycache__/
+*.pyc
+*.apk
+*.aab
+*.apks
+*.log
+# Credenziali e dati di firma devono restare esterni al repository.
+*.env
+.env*
+*credentials*.json
+*credenziali*.json
+# La copia completa è inclusa nell’archivio sorgenti di ogni release.
+third-party/desugar-jdk-libs-2.1.5-source.zip

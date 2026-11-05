@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">स्कॅन करा. तयार करा. जतन करा.</string>
+    <string name="scan" formatted="false">स्कॅन</string>
+    <string name="create" formatted="false">तयार करा</string>
+    <string name="collection" formatted="false">संग्रह</string>
+    <string name="settings" formatted="false">सेटिंग्ज</string>
+    <string name="language" formatted="false">भाषा</string>
+    <string name="system_language" formatted="false">सिस्टमची भाषा वापरा</string>
+    <string name="back" formatted="false">मागे</string>
+    <string name="close" formatted="false">बंद करा</string>
+    <string name="cancel" formatted="false">रद्द करा</string>
+    <string name="save" formatted="false">जतन करा</string>
+    <string name="done" formatted="false">स्कॅन पूर्ण करा</string>
+    <string name="offline_badge" formatted="false">सोपे. खाजगी. ऑफलाइन.</string>
+    <string name="hero_title" formatted="false">एक छोटासा कोड.\nअसंख्य शक्यता.</string>
+    <string name="hero_subtitle" formatted="false">लिंक, कल्पना आणि संपर्क. फक्त एका स्कॅनवर.</string>
+    <string name="scan_now" formatted="false">कोड स्कॅन करा</string>
+    <string name="import_image" formatted="false">प्रतिमेतून आयात करा</string>
+    <string name="quick_create" formatted="false">झटपट तयार करा</string>
+    <string name="view_all" formatted="false">सर्व पाहा</string>
+    <string name="recent" formatted="false">तुमचे अलीकडील कोड</string>
+    <string name="empty_recent" formatted="false">तुमचा पुढचा कोड तुमची वाट पाहतोय</string>
+    <string name="empty_recent_hint" formatted="false">येथे पाहण्यासाठी कोड स्कॅन करा किंवा तयार करा.</string>
+    <string name="create_title" formatted="false">तुमच्या कल्पनांना कोड द्या.</string>
+    <string name="create_hint" formatted="false">काय शेअर करायचे ते निवडा.</string>
+    <string name="url" formatted="false">लिंक</string>
+    <string name="text" formatted="false">मजकूर</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">संपर्क</string>
+    <string name="email" formatted="false">ईमेल</string>
+    <string name="sms" formatted="false">संदेश</string>
+    <string name="phone" formatted="false">फोन</string>
+    <string name="location" formatted="false">स्थान</string>
+    <string name="event" formatted="false">कार्यक्रम</string>
+    <string name="barcode" formatted="false">बारकोड</string>
+    <string name="url_hint" formatted="false">वेबसाइट, पृष्ठ किंवा प्रोफाइल</string>
+    <string name="text_hint" formatted="false">शब्द, नोंदी आणि छोट्या कल्पना</string>
+    <string name="wifi_hint" formatted="false">नेटवर्कचा प्रवेश शेअर करा</string>
+    <string name="contact_hint" formatted="false">डिजिटल बिझनेस कार्ड</string>
+    <string name="email_hint" formatted="false">पत्ता, विषय आणि संदेश</string>
+    <string name="sms_hint" formatted="false">मजकूर संदेश तयार करा</string>
+    <string name="phone_hint" formatted="false">कॉल करण्यासाठी क्रमांक</string>
+    <string name="location_hint" formatted="false">नकाशावरील अचूक ठिकाण</string>
+    <string name="event_hint" formatted="false">कॅलेंडरसाठी कार्यक्रम</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec आणि इतर</string>
+    <string name="form_hint" formatted="false">तपशील भरा. कोड तुमच्या फोनवरच तयार होतो.</string>
+    <string name="url_field" formatted="false">वेब पत्ता</string>
+    <string name="network" formatted="false">नेटवर्कचे नाव</string>
+    <string name="password" formatted="false">पासवर्ड</string>
+    <string name="name" formatted="false">पूर्ण नाव</string>
+    <string name="phone_field" formatted="false">फोन क्रमांक</string>
+    <string name="email_field" formatted="false">ईमेल पत्ता</string>
+    <string name="company" formatted="false">कंपनी</string>
+    <string name="website" formatted="false">वेबसाइट</string>
+    <string name="subject" formatted="false">विषय</string>
+    <string name="message" formatted="false">संदेश</string>
+    <string name="latitude" formatted="false">अक्षांश</string>
+    <string name="longitude" formatted="false">रेखांश</string>
+    <string name="event_title" formatted="false">कार्यक्रमाचे नाव</string>
+    <string name="start" formatted="false">सुरुवात</string>
+    <string name="end" formatted="false">शेवट</string>
+    <string name="place" formatted="false">ठिकाण</string>
+    <string name="content" formatted="false">सामग्री</string>
+    <string name="security" formatted="false">नेटवर्क सुरक्षा</string>
+    <string name="open_network" formatted="false">खुले नेटवर्क</string>
+    <string name="hidden_network" formatted="false">लपवलेले नेटवर्क</string>
+    <string name="format" formatted="false">स्वरूप</string>
+    <string name="date_hint" formatted="false">स्वरूप: 2026-12-31 18:30 (स्थानिक वेळ)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 किंवा 13 अंक. EAN-8: 7 किंवा 8 अंक. ITF: सम संख्येने अंक. Code 39: मोठी लॅटिन अक्षरे आणि अंक.</string>
+    <string name="generate" formatted="false">कोड तयार करा</string>
+    <string name="private_hint" formatted="false">अपलोड नाही. खात्याची गरज नाही.</string>
+    <string name="invalid_input" formatted="false">तपशील आणि स्वरूप तपासा. खूप मोठा मजकूर लहान करा.</string>
+    <string name="collection_title" formatted="false">सर्वकाही जागच्या जागी.</string>
+    <string name="collection_hint" formatted="false">जतन करायचे कोड, नेहमी तुमच्यासोबत.</string>
+    <string name="search" formatted="false">सामग्री किंवा नाव शोधा</string>
+    <string name="all" formatted="false">सर्व कोड</string>
+    <string name="favorites" formatted="false">आवडते</string>
+    <string name="created" formatted="false">तयार केलेले</string>
+    <string name="scanned" formatted="false">स्कॅन केलेले</string>
+    <string name="empty_collection" formatted="false">कोड सापडला नाही</string>
+    <string name="empty_collection_hint" formatted="false">कोड तयार करा किंवा स्कॅन करा किंवा दुसरा शोध घ्या.</string>
+    <string name="your_code" formatted="false">तुमचा कोड</string>
+    <string name="result" formatted="false">कोड सापडला</string>
+    <string name="code_preview" formatted="false">कोडचे पूर्वावलोकन</string>
+    <string name="preview_unavailable" formatted="false">या सामग्रीचे पूर्वावलोकन उपलब्ध नाही.</string>
+    <string name="show_content" formatted="false">संपूर्ण सामग्री दाखवा</string>
+    <string name="copy" formatted="false">कॉपी करा</string>
+    <string name="favorite" formatted="false">आवडत्यांमध्ये जोडा</string>
+    <string name="favorited" formatted="false">आवडत्यांमध्ये आहे</string>
+    <string name="color" formatted="false">रंगांची झलक</string>
+    <string name="sage" formatted="false">सेज हिरवा</string>
+    <string name="lavender" formatted="false">लॅव्हेंडर</string>
+    <string name="cocoa" formatted="false">कोको</string>
+    <string name="ink" formatted="false">शाई</string>
+    <string name="share_image" formatted="false">प्रतिमा शेअर करा</string>
+    <string name="save_png" formatted="false">PNG प्रतिमा जतन करा</string>
+    <string name="save_svg" formatted="false">SVG व्हेक्टर जतन करा</string>
+    <string name="share_text" formatted="false">सामग्री शेअर करा</string>
+    <string name="rename" formatted="false">नाव बदला</string>
+    <string name="delete" formatted="false">हटवा</string>
+    <string name="delete_confirm" formatted="false">हा कोड हटवायचा?</string>
+    <string name="open_link" formatted="false">लिंक उघडा</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi सेटिंग्ज उघडा</string>
+    <string name="add_contact" formatted="false">संपर्कांमध्ये जोडा</string>
+    <string name="add_event" formatted="false">कॅलेंडरमध्ये जोडा</string>
+    <string name="open_map" formatted="false">नकाशात उघडा</string>
+    <string name="dial" formatted="false">डायलर उघडा</string>
+    <string name="compose" formatted="false">संदेश लिहा</string>
+    <string name="wifi_connect_hint" formatted="false">पासवर्ड कॉपी केला जाईल. Wi-Fi सेटिंग्जमध्ये नेटवर्क निवडून तो पेस्ट करा.</string>
+    <string name="open_confirm" formatted="false">दुसऱ्या ॲपमध्ये उघडण्यापूर्वी सामग्री तपासा.</string>
+    <string name="continue_action" formatted="false">पुढे जा</string>
+    <string name="settings_title" formatted="false">तुमच्या आवडीनुसार बदला.</string>
+    <string name="history_setting" formatted="false">इतिहास जतन करा</string>
+    <string name="history_hint" formatted="false">नवे कोड फोनवर आपोआप जतन करा. आवडते कोड नेहमी जतन होतात.</string>
+    <string name="vibrate_setting" formatted="false">स्कॅनवेळी कंपन</string>
+    <string name="vibrate_hint" formatted="false">कोड ओळखल्यावर सौम्य कंपन.</string>
+    <string name="privacy_title" formatted="false">तुमचे कोड तुमचेच राहतात.</string>
+    <string name="privacy_body" formatted="false">स्कॅन आणि कोड तयार करणे ऑफलाइन चालते. खाते, जाहिराती किंवा मागोवा नाही. कॅमेरा फक्त कोड वाचतो; प्रतिमा साठवल्या जात नाहीत. इतिहास ॲपमध्ये राहतो आणि हटवता येतो. शेअर करणे आणि बाह्य ॲप उघडणे तुमच्या इच्छेवर आहे.</string>
+    <string name="export_history" formatted="false">इतिहास निर्यात करा</string>
+    <string name="export_history_hint" formatted="false">JSON फाइलमध्ये कोडमधील सामग्री आणि Wi-Fi पासवर्डही असतात. ती कुठे ठेवायची ते निवडा.</string>
+    <string name="clear_history" formatted="false">संग्रह रिकामा करा</string>
+    <string name="clear_confirm" formatted="false">आवडत्यांसह सर्व जतन केलेले कोड हटवायचे? निर्यात केलेल्या फाइल त्यांच्या जागीच राहतील.</string>
+    <string name="deleted" formatted="false">संग्रह रिकामा केला</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Android साठी सुरुवातीपासून तयार केलेले. सुटसुटीत इंटरफेस आणि 40 भाषा.</string>
+    <string name="licenses" formatted="false">लायब्ररी परवाने</string>
+    <string name="scan_hint" formatted="false">कोड चौकटीत धरा. फोकससाठी टॅप करा.</string>
+    <string name="zoom" formatted="false">झूम</string>
+    <string name="flash" formatted="false">टॉर्च</string>
+    <string name="flash_on" formatted="false">टॉर्च चालू</string>
+    <string name="flash_off" formatted="false">टॉर्च बंद</string>
+    <string name="switch_camera" formatted="false">कॅमेरा बदला</string>
+    <string name="batch" formatted="false">एकापाठोपाठ स्कॅन</string>
+    <string name="batch_count" formatted="false">गोळा केलेले कोड:</string>
+    <string name="camera_permission" formatted="false">कॅमेऱ्याची परवानगी द्या</string>
+    <string name="permission_hint" formatted="false">स्कॅनसाठी ॲपच्या सेटिंग्जमध्ये कॅमेऱ्याला परवानगी द्या. मुख्य स्क्रीनवरून प्रतिमाही आयात करता येतात.</string>
+    <string name="camera_error" formatted="false">कॅमेरा उपलब्ध नाही. मागे जाऊन पुन्हा प्रयत्न करा किंवा प्रतिमा आयात करा.</string>
+    <string name="unavailable" formatted="false">हे वैशिष्ट्य या उपकरणावर उपलब्ध नाही.</string>
+    <string name="no_code" formatted="false">कोड ओळखता आला नाही. अधिक स्पष्ट प्रतिमा वापरा.</string>
+    <string name="choose_code" formatted="false">कोड निवडा</string>
+    <string name="reading_image" formatted="false">प्रतिमा वाचत आहे…</string>
+    <string name="image_error" formatted="false">प्रतिमा वाचता आली नाही. PNG किंवा JPEG फाइल वापरा.</string>
+    <string name="export_error" formatted="false">निर्यात अयशस्वी. मोकळी जागा तपासा किंवा दुसरा फोल्डर निवडा.</string>
+    <string name="saved" formatted="false">फाइल जतन केली</string>
+    <string name="copied" formatted="false">क्लिपबोर्डवर कॉपी केले</string>
+    <string name="no_handler" formatted="false">या कृतीसाठी कोणतेही ॲप उपलब्ध नाही.</string>
+</resources>

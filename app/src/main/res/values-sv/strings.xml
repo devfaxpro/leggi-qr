@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Skanna. Skapa. Spara.</string>
+    <string name="scan" formatted="false">Skanna</string>
+    <string name="create" formatted="false">Skapa</string>
+    <string name="collection" formatted="false">Samling</string>
+    <string name="settings" formatted="false">Inställningar</string>
+    <string name="language" formatted="false">Språk</string>
+    <string name="system_language" formatted="false">Följ systemet</string>
+    <string name="back" formatted="false">Tillbaka</string>
+    <string name="close" formatted="false">Stäng</string>
+    <string name="cancel" formatted="false">Avbryt</string>
+    <string name="save" formatted="false">Spara</string>
+    <string name="done" formatted="false">Avsluta skanning</string>
+    <string name="offline_badge" formatted="false">ENKELT. PRIVAT. OFFLINE.</string>
+    <string name="hero_title" formatted="false">En liten kod.\nMånga möjligheter.</string>
+    <string name="hero_subtitle" formatted="false">Länkar, idéer och kontakter. Bara en skanning bort.</string>
+    <string name="scan_now" formatted="false">Skanna en kod</string>
+    <string name="import_image" formatted="false">Importera från bild</string>
+    <string name="quick_create" formatted="false">Skapa snabbt</string>
+    <string name="view_all" formatted="false">Visa alla</string>
+    <string name="recent" formatted="false">Dina senaste koder</string>
+    <string name="empty_recent" formatted="false">Din nästa kod väntar</string>
+    <string name="empty_recent_hint" formatted="false">Skanna eller skapa en kod så visas den här.</string>
+    <string name="create_title" formatted="false">Ge dina idéer en kod.</string>
+    <string name="create_hint" formatted="false">Välj vad du vill dela.</string>
+    <string name="url" formatted="false">Länk</string>
+    <string name="text" formatted="false">Text</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Kontakt</string>
+    <string name="email" formatted="false">E-post</string>
+    <string name="sms" formatted="false">Meddelande</string>
+    <string name="phone" formatted="false">Telefon</string>
+    <string name="location" formatted="false">Plats</string>
+    <string name="event" formatted="false">Händelse</string>
+    <string name="barcode" formatted="false">Streckkod</string>
+    <string name="url_hint" formatted="false">En webbplats, sida eller profil</string>
+    <string name="text_hint" formatted="false">Ord, anteckningar och idéer</string>
+    <string name="wifi_hint" formatted="false">Dela åtkomst till ett nätverk</string>
+    <string name="contact_hint" formatted="false">Ett digitalt visitkort</string>
+    <string name="email_hint" formatted="false">Adress, ämne och meddelande</string>
+    <string name="sms_hint" formatted="false">Förbered ett sms</string>
+    <string name="phone_hint" formatted="false">Ett nummer att ringa</string>
+    <string name="location_hint" formatted="false">En exakt punkt på kartan</string>
+    <string name="event_hint" formatted="false">En händelse i kalendern</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec med flera</string>
+    <string name="form_hint" formatted="false">Fyll i uppgifterna. Koden skapas på din telefon.</string>
+    <string name="url_field" formatted="false">Webbadress</string>
+    <string name="network" formatted="false">Nätverksnamn</string>
+    <string name="password" formatted="false">Lösenord</string>
+    <string name="name" formatted="false">Fullständigt namn</string>
+    <string name="phone_field" formatted="false">Telefonnummer</string>
+    <string name="email_field" formatted="false">E-postadress</string>
+    <string name="company" formatted="false">Företag</string>
+    <string name="website" formatted="false">Webbplats</string>
+    <string name="subject" formatted="false">Ämne</string>
+    <string name="message" formatted="false">Meddelande</string>
+    <string name="latitude" formatted="false">Latitud</string>
+    <string name="longitude" formatted="false">Longitud</string>
+    <string name="event_title" formatted="false">Händelsens namn</string>
+    <string name="start" formatted="false">Start</string>
+    <string name="end" formatted="false">Slut</string>
+    <string name="place" formatted="false">Plats</string>
+    <string name="content" formatted="false">Innehåll</string>
+    <string name="security" formatted="false">Nätverkssäkerhet</string>
+    <string name="open_network" formatted="false">Öppet nätverk</string>
+    <string name="hidden_network" formatted="false">Dolt nätverk</string>
+    <string name="format" formatted="false">Format</string>
+    <string name="date_hint" formatted="false">Format: 2026-12-31 18:30 (lokal tid)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 eller 13 siffror. EAN-8: 7 eller 8 siffror. ITF: jämnt antal siffror. Code 39: versaler och siffror.</string>
+    <string name="generate" formatted="false">Skapa kod</string>
+    <string name="private_hint" formatted="false">Inga uppladdningar. Inget konto behövs.</string>
+    <string name="invalid_input" formatted="false">Kontrollera fälten och formatet. Korta ner för lång text.</string>
+    <string name="collection_title" formatted="false">Allt på sin plats.</string>
+    <string name="collection_hint" formatted="false">Koderna du vill spara, alltid med dig.</string>
+    <string name="search" formatted="false">Sök efter innehåll eller namn</string>
+    <string name="all" formatted="false">Alla koder</string>
+    <string name="favorites" formatted="false">Favoriter</string>
+    <string name="created" formatted="false">Skapade</string>
+    <string name="scanned" formatted="false">Skannade</string>
+    <string name="empty_collection" formatted="false">Inga koder hittades</string>
+    <string name="empty_collection_hint" formatted="false">Skapa eller skanna en kod, eller ändra sökningen.</string>
+    <string name="your_code" formatted="false">Din kod</string>
+    <string name="result" formatted="false">Kod hittad</string>
+    <string name="code_preview" formatted="false">Förhandsvisning av kod</string>
+    <string name="preview_unavailable" formatted="false">Förhandsvisning saknas för detta innehåll.</string>
+    <string name="show_content" formatted="false">Visa hela innehållet</string>
+    <string name="copy" formatted="false">Kopiera</string>
+    <string name="favorite" formatted="false">Favorit</string>
+    <string name="favorited" formatted="false">Sparad som favorit</string>
+    <string name="color" formatted="false">En färgklick</string>
+    <string name="sage" formatted="false">Salviagrön</string>
+    <string name="lavender" formatted="false">Lavendel</string>
+    <string name="cocoa" formatted="false">Kakao</string>
+    <string name="ink" formatted="false">Bläck</string>
+    <string name="share_image" formatted="false">Dela bild</string>
+    <string name="save_png" formatted="false">Spara PNG-bild</string>
+    <string name="save_svg" formatted="false">Spara SVG-vektor</string>
+    <string name="share_text" formatted="false">Dela innehåll</string>
+    <string name="rename" formatted="false">Byt namn</string>
+    <string name="delete" formatted="false">Radera</string>
+    <string name="delete_confirm" formatted="false">Radera den här koden?</string>
+    <string name="open_link" formatted="false">Öppna länk</string>
+    <string name="connect_wifi" formatted="false">Öppna Wi-Fi-inställningar</string>
+    <string name="add_contact" formatted="false">Lägg till i kontakter</string>
+    <string name="add_event" formatted="false">Lägg till i kalender</string>
+    <string name="open_map" formatted="false">Öppna i kartor</string>
+    <string name="dial" formatted="false">Öppna telefonappen</string>
+    <string name="compose" formatted="false">Skriv meddelande</string>
+    <string name="wifi_connect_hint" formatted="false">Lösenordet kopieras. Välj nätverket i Wi-Fi-inställningarna och klistra in det.</string>
+    <string name="open_confirm" formatted="false">Kontrollera innehållet innan du öppnar det i en annan app.</string>
+    <string name="continue_action" formatted="false">Fortsätt</string>
+    <string name="settings_title" formatted="false">På ditt sätt.</string>
+    <string name="history_setting" formatted="false">Spara historik</string>
+    <string name="history_hint" formatted="false">Spara nya koder automatiskt på telefonen. Favoriter sparas alltid.</string>
+    <string name="vibrate_setting" formatted="false">Vibrera vid skanning</string>
+    <string name="vibrate_hint" formatted="false">En diskret signal när en kod känns igen.</string>
+    <string name="privacy_title" formatted="false">Dina koder förblir dina.</string>
+    <string name="privacy_body" formatted="false">Skanning och skapande fungerar offline. Inga konton, annonser eller spårning. Kameran läser bara koder; bilder sparas inte. Historiken stannar i appen och kan raderas. Du väljer om du vill dela eller öppna andra appar.</string>
+    <string name="export_history" formatted="false">Exportera historik</string>
+    <string name="export_history_hint" formatted="false">JSON-filen innehåller kodernas innehåll, även Wi-Fi-lösenord. Välj var den ska sparas.</string>
+    <string name="clear_history" formatted="false">Töm samlingen</string>
+    <string name="clear_confirm" formatted="false">Radera alla sparade koder, även favoriter? Exporterade filer finns kvar där du sparade dem.</string>
+    <string name="deleted" formatted="false">Samlingen tömd</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Byggd från grunden för Android. Ett ljust gränssnitt på 40 språk.</string>
+    <string name="licenses" formatted="false">Bibliotekslicenser</string>
+    <string name="scan_hint" formatted="false">Rikta kameran mot koden. Tryck för att fokusera.</string>
+    <string name="zoom" formatted="false">Zoom</string>
+    <string name="flash" formatted="false">Ficklampa</string>
+    <string name="flash_on" formatted="false">Ficklampan på</string>
+    <string name="flash_off" formatted="false">Ficklampan av</string>
+    <string name="switch_camera" formatted="false">Byt kamera</string>
+    <string name="batch" formatted="false">Skanna flera koder</string>
+    <string name="batch_count" formatted="false">Samlade koder:</string>
+    <string name="camera_permission" formatted="false">Tillåt kameraåtkomst</string>
+    <string name="permission_hint" formatted="false">Aktivera kameran i appinställningarna för att skanna. Du kan fortfarande importera bilder från startsidan.</string>
+    <string name="camera_error" formatted="false">Kameran är inte tillgänglig. Gå tillbaka och försök igen eller importera en bild.</string>
+    <string name="unavailable" formatted="false">Funktionen är inte tillgänglig på enheten.</string>
+    <string name="no_code" formatted="false">Ingen kod kändes igen. Prova en tydligare bild.</string>
+    <string name="choose_code" formatted="false">Välj en kod</string>
+    <string name="reading_image" formatted="false">Läser bilden…</string>
+    <string name="image_error" formatted="false">Bilden kan inte läsas. Prova PNG eller JPEG.</string>
+    <string name="export_error" formatted="false">Exporten misslyckades. Kontrollera ledigt utrymme eller välj en annan mapp.</string>
+    <string name="saved" formatted="false">Filen sparad</string>
+    <string name="copied" formatted="false">Kopierat till urklipp</string>
+    <string name="no_handler" formatted="false">Ingen app kan utföra den här åtgärden.</string>
+</resources>

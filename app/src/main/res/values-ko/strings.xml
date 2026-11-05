@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_translations.py -->
+<resources>
+    <string name="tagline" formatted="false">스캔 · 생성 · 보관</string>
+    <string name="scan" formatted="false">스캔</string>
+    <string name="create" formatted="false">만들기</string>
+    <string name="collection" formatted="false">보관함</string>
+    <string name="settings" formatted="false">설정</string>
+    <string name="language" formatted="false">언어</string>
+    <string name="system_language" formatted="false">시스템 언어 사용</string>
+    <string name="back" formatted="false">뒤로</string>
+    <string name="close" formatted="false">닫기</string>
+    <string name="cancel" formatted="false">취소</string>
+    <string name="save" formatted="false">저장</string>
+    <string name="done" formatted="false">스캔 완료</string>
+    <string name="offline_badge" formatted="false">간편하게 · 안전하게 · 오프라인</string>
+    <string name="hero_title" formatted="false">작은 코드 하나,\n무한한 가능성.</string>
+    <string name="hero_subtitle" formatted="false">링크, 아이디어, 연결을 스캔 한 번으로.</string>
+    <string name="scan_now" formatted="false">코드 스캔하기</string>
+    <string name="import_image" formatted="false">이미지에서 가져오기</string>
+    <string name="quick_create" formatted="false">빠르게 만들기</string>
+    <string name="view_all" formatted="false">모두 보기</string>
+    <string name="recent" formatted="false">최근 코드</string>
+    <string name="empty_recent" formatted="false">새 코드를 만나 보세요</string>
+    <string name="empty_recent_hint" formatted="false">코드를 스캔하거나 만들면 여기에 표시됩니다.</string>
+    <string name="create_title" formatted="false">아이디어를 코드로.</string>
+    <string name="create_hint" formatted="false">공유할 내용을 선택하세요.</string>
+    <string name="url" formatted="false">링크</string>
+    <string name="text" formatted="false">텍스트</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">연락처</string>
+    <string name="email" formatted="false">이메일</string>
+    <string name="sms" formatted="false">메시지</string>
+    <string name="phone" formatted="false">전화</string>
+    <string name="location" formatted="false">위치</string>
+    <string name="event" formatted="false">일정</string>
+    <string name="barcode" formatted="false">바코드</string>
+    <string name="url_hint" formatted="false">웹사이트, 페이지, 프로필</string>
+    <string name="text_hint" formatted="false">글, 메모, 작은 아이디어</string>
+    <string name="wifi_hint" formatted="false">네트워크 연결 정보 공유</string>
+    <string name="contact_hint" formatted="false">디지털 명함</string>
+    <string name="email_hint" formatted="false">주소, 제목, 본문</string>
+    <string name="sms_hint" formatted="false">문자 메시지 준비</string>
+    <string name="phone_hint" formatted="false">전화할 번호</string>
+    <string name="location_hint" formatted="false">지도 위의 정확한 위치</string>
+    <string name="event_hint" formatted="false">캘린더에 추가할 일정</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec 등</string>
+    <string name="form_hint" formatted="false">정보를 입력하세요. 코드는 휴대전화에서 생성됩니다.</string>
+    <string name="url_field" formatted="false">웹 주소</string>
+    <string name="network" formatted="false">네트워크 이름</string>
+    <string name="password" formatted="false">비밀번호</string>
+    <string name="name" formatted="false">이름</string>
+    <string name="phone_field" formatted="false">전화번호</string>
+    <string name="email_field" formatted="false">이메일 주소</string>
+    <string name="company" formatted="false">회사</string>
+    <string name="website" formatted="false">웹사이트</string>
+    <string name="subject" formatted="false">제목</string>
+    <string name="message" formatted="false">메시지</string>
+    <string name="latitude" formatted="false">위도</string>
+    <string name="longitude" formatted="false">경도</string>
+    <string name="event_title" formatted="false">일정 제목</string>
+    <string name="start" formatted="false">시작</string>
+    <string name="end" formatted="false">종료</string>
+    <string name="place" formatted="false">장소</string>
+    <string name="content" formatted="false">내용</string>
+    <string name="security" formatted="false">네트워크 보안</string>
+    <string name="open_network" formatted="false">개방형 네트워크</string>
+    <string name="hidden_network" formatted="false">숨겨진 네트워크</string>
+    <string name="format" formatted="false">형식</string>
+    <string name="date_hint" formatted="false">형식: 2026-12-31 18:30 (현지 시간)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 숫자 12~13자리. EAN-8: 7~8자리. ITF: 짝수 자릿수. Code 39: 영문 대문자와 숫자.</string>
+    <string name="generate" formatted="false">코드 만들기</string>
+    <string name="private_hint" formatted="false">업로드도 회원가입도 필요 없어요.</string>
+    <string name="invalid_input" formatted="false">입력 항목과 형식을 확인하세요. 너무 긴 내용은 줄여 주세요.</string>
+    <string name="collection_title" formatted="false">모든 코드를 한곳에.</string>
+    <string name="collection_hint" formatted="false">보관한 코드를 언제든 찾아보세요.</string>
+    <string name="search" formatted="false">내용 또는 이름 검색</string>
+    <string name="all" formatted="false">모든 코드</string>
+    <string name="favorites" formatted="false">즐겨찾기</string>
+    <string name="created" formatted="false">생성한 코드</string>
+    <string name="scanned" formatted="false">스캔한 코드</string>
+    <string name="empty_collection" formatted="false">코드를 찾을 수 없어요</string>
+    <string name="empty_collection_hint" formatted="false">코드를 만들거나 스캔해 보세요. 검색어를 바꿔도 좋아요.</string>
+    <string name="your_code" formatted="false">내 코드</string>
+    <string name="result" formatted="false">스캔 결과</string>
+    <string name="code_preview" formatted="false">코드 미리보기</string>
+    <string name="preview_unavailable" formatted="false">이 내용은 미리 볼 수 없어요.</string>
+    <string name="show_content" formatted="false">전체 내용 보기</string>
+    <string name="copy" formatted="false">복사</string>
+    <string name="favorite" formatted="false">즐겨찾기</string>
+    <string name="favorited" formatted="false">즐겨찾기됨</string>
+    <string name="color" formatted="false">색상 선택</string>
+    <string name="sage" formatted="false">세이지</string>
+    <string name="lavender" formatted="false">라벤더</string>
+    <string name="cocoa" formatted="false">코코아</string>
+    <string name="ink" formatted="false">잉크</string>
+    <string name="share_image" formatted="false">이미지 공유</string>
+    <string name="save_png" formatted="false">PNG 이미지 저장</string>
+    <string name="save_svg" formatted="false">SVG 벡터 저장</string>
+    <string name="share_text" formatted="false">내용 공유</string>
+    <string name="rename" formatted="false">이름 변경</string>
+    <string name="delete" formatted="false">삭제</string>
+    <string name="delete_confirm" formatted="false">이 코드를 삭제할까요?</string>
+    <string name="open_link" formatted="false">링크 열기</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi 설정 열기</string>
+    <string name="add_contact" formatted="false">연락처에 추가</string>
+    <string name="add_event" formatted="false">캘린더에 추가</string>
+    <string name="open_map" formatted="false">지도에서 열기</string>
+    <string name="dial" formatted="false">전화 앱 열기</string>
+    <string name="compose" formatted="false">메시지 작성</string>
+    <string name="wifi_connect_hint" formatted="false">비밀번호가 복사됩니다. Wi-Fi 설정에서 네트워크를 선택하고 붙여 넣으세요.</string>
+    <string name="open_confirm" formatted="false">다른 앱에서 열기 전에 내용을 확인하세요.</string>
+    <string name="continue_action" formatted="false">계속</string>
+    <string name="settings_title" formatted="false">나에게 맞게.</string>
+    <string name="history_setting" formatted="false">기록 보관</string>
+    <string name="history_hint" formatted="false">새 코드를 휴대전화에 자동 저장해요. 즐겨찾기는 항상 저장돼요.</string>
+    <string name="vibrate_setting" formatted="false">스캔 시 진동</string>
+    <string name="vibrate_hint" formatted="false">코드를 인식하면 가벼운 진동으로 알려요.</string>
+    <string name="privacy_title" formatted="false">내 코드는 내 손안에.</string>
+    <string name="privacy_body" formatted="false">스캔과 생성은 오프라인으로 작동해요. 계정, 광고, 추적이 없어요. 카메라는 코드 읽기에만 사용하며 촬영 영상은 저장하지 않아요. 기록은 앱 안에 보관되며 삭제할 수 있어요. 공유와 외부 앱 사용은 직접 선택해요.</string>
+    <string name="export_history" formatted="false">기록 내보내기</string>
+    <string name="export_history_hint" formatted="false">JSON 파일에는 Wi-Fi 비밀번호를 포함한 코드 내용이 저장돼요. 저장할 위치를 선택하세요.</string>
+    <string name="clear_history" formatted="false">보관함 비우기</string>
+    <string name="clear_confirm" formatted="false">즐겨찾기를 포함한 모든 코드를 삭제할까요? 내보낸 파일은 원래 위치에 남아요.</string>
+    <string name="deleted" formatted="false">보관함을 비웠어요</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Android용으로 처음부터 만들었어요. 가벼운 화면과 40개 언어를 지원해요.</string>
+    <string name="licenses" formatted="false">라이브러리 라이선스</string>
+    <string name="scan_hint" formatted="false">코드를 화면에 맞추고 탭하여 초점을 맞추세요.</string>
+    <string name="zoom" formatted="false">확대</string>
+    <string name="flash" formatted="false">손전등</string>
+    <string name="flash_on" formatted="false">손전등 켜짐</string>
+    <string name="flash_off" formatted="false">손전등 꺼짐</string>
+    <string name="switch_camera" formatted="false">카메라 전환</string>
+    <string name="batch" formatted="false">연속 스캔</string>
+    <string name="batch_count" formatted="false">스캔한 코드:</string>
+    <string name="camera_permission" formatted="false">카메라 접근 허용</string>
+    <string name="permission_hint" formatted="false">스캔하려면 앱 설정에서 카메라를 허용하세요. 홈 화면에서 이미지를 가져올 수도 있어요.</string>
+    <string name="camera_error" formatted="false">카메라를 사용할 수 없어요. 돌아가서 다시 시도하거나 이미지를 가져오세요.</string>
+    <string name="unavailable" formatted="false">이 기기에서는 사용할 수 없는 기능이에요.</string>
+    <string name="no_code" formatted="false">코드를 인식하지 못했어요. 더 선명한 이미지를 사용해 보세요.</string>
+    <string name="choose_code" formatted="false">코드 선택</string>
+    <string name="reading_image" formatted="false">이미지 읽는 중…</string>
+    <string name="image_error" formatted="false">이미지를 읽을 수 없어요. PNG 또는 JPEG 파일을 사용해 보세요.</string>
+    <string name="export_error" formatted="false">내보내지 못했어요. 저장 공간을 확인하거나 다른 폴더를 선택하세요.</string>
+    <string name="saved" formatted="false">파일을 저장했어요</string>
+    <string name="copied" formatted="false">클립보드에 복사했어요</string>
+    <string name="no_handler" formatted="false">이 작업을 처리할 앱이 없어요.</string>
+</resources>

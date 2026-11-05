@@ -1,0 +1,11 @@
+<!-- SPDX-License-Identifier: GPL-3.0-only; Copyright (C) 2026 devfaxpro -->
+<resources>
+    <style name="BaseTheme.QrAll" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#386BA5</item><item name="colorPrimaryVariant">#23466D</item><item name="colorSecondary">#386BA5</item>
+        <item name="colorOnPrimary">#FFFFFF</item><item name="colorSurface">#FFFFFF</item><item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#F5F8FC</item><item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#386BA5</item>
+    </style>
+    <style name="Theme.QrAll" parent="BaseTheme.QrAll" />
+</resources>

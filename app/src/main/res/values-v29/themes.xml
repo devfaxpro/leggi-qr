@@ -1,0 +1,2 @@
+<!-- SPDX-License-Identifier: GPL-3.0-only; Copyright (C) 2026 devfaxpro -->
+<resources><style name="Theme.QrAll" parent="BaseTheme.QrAll"><item name="android:windowLightNavigationBar">true</item><item name="android:forceDarkAllowed">false</item></style></resources>

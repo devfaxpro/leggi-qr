@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">اسکین کریں۔ بنائیں۔ محفوظ کریں۔</string>
+    <string name="scan" formatted="false">اسکین</string>
+    <string name="create" formatted="false">بنائیں</string>
+    <string name="collection" formatted="false">مجموعہ</string>
+    <string name="settings" formatted="false">ترتیبات</string>
+    <string name="language" formatted="false">زبان</string>
+    <string name="system_language" formatted="false">سسٹم کی زبان استعمال کریں</string>
+    <string name="back" formatted="false">واپس</string>
+    <string name="close" formatted="false">بند کریں</string>
+    <string name="cancel" formatted="false">منسوخ کریں</string>
+    <string name="save" formatted="false">محفوظ کریں</string>
+    <string name="done" formatted="false">اسکین ختم کریں</string>
+    <string name="offline_badge" formatted="false">آسان۔ نجی۔ آف لائن۔</string>
+    <string name="hero_title" formatted="false">ایک چھوٹا سا کوڈ۔\nبے شمار امکانات۔</string>
+    <string name="hero_subtitle" formatted="false">لنکس، خیالات اور رابطے۔ صرف ایک اسکین کی دوری پر۔</string>
+    <string name="scan_now" formatted="false">کوڈ اسکین کریں</string>
+    <string name="import_image" formatted="false">تصویر سے درآمد کریں</string>
+    <string name="quick_create" formatted="false">فوری بنائیں</string>
+    <string name="view_all" formatted="false">سب دیکھیں</string>
+    <string name="recent" formatted="false">آپ کے حالیہ کوڈز</string>
+    <string name="empty_recent" formatted="false">آپ کا اگلا کوڈ منتظر ہے</string>
+    <string name="empty_recent_hint" formatted="false">یہاں دیکھنے کے لیے کوئی کوڈ اسکین کریں یا بنائیں۔</string>
+    <string name="create_title" formatted="false">اپنے خیالات کو کوڈ دیں۔</string>
+    <string name="create_hint" formatted="false">منتخب کریں کہ کیا شیئر کرنا ہے۔</string>
+    <string name="url" formatted="false">لنک</string>
+    <string name="text" formatted="false">متن</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">رابطہ</string>
+    <string name="email" formatted="false">ای میل</string>
+    <string name="sms" formatted="false">پیغام</string>
+    <string name="phone" formatted="false">فون</string>
+    <string name="location" formatted="false">مقام</string>
+    <string name="event" formatted="false">ایونٹ</string>
+    <string name="barcode" formatted="false">بارکوڈ</string>
+    <string name="url_hint" formatted="false">ویب سائٹ، صفحہ یا پروفائل</string>
+    <string name="text_hint" formatted="false">الفاظ، نوٹس اور چھوٹے خیالات</string>
+    <string name="wifi_hint" formatted="false">نیٹ ورک تک رسائی شیئر کریں</string>
+    <string name="contact_hint" formatted="false">ڈیجیٹل وزٹنگ کارڈ</string>
+    <string name="email_hint" formatted="false">پتہ، موضوع اور پیغام</string>
+    <string name="sms_hint" formatted="false">ٹیکسٹ پیغام تیار کریں</string>
+    <string name="phone_hint" formatted="false">کال کرنے کا نمبر</string>
+    <string name="location_hint" formatted="false">نقشے پر ایک درست مقام</string>
+    <string name="event_hint" formatted="false">کیلنڈر کے لیے ایونٹ</string>
+    <string name="barcode_hint" formatted="false">EAN، Code 128، Aztec اور مزید</string>
+    <string name="form_hint" formatted="false">تفصیلات درج کریں۔ کوڈ آپ کے فون پر بنتا ہے۔</string>
+    <string name="url_field" formatted="false">ویب پتہ</string>
+    <string name="network" formatted="false">نیٹ ورک کا نام</string>
+    <string name="password" formatted="false">پاس ورڈ</string>
+    <string name="name" formatted="false">پورا نام</string>
+    <string name="phone_field" formatted="false">فون نمبر</string>
+    <string name="email_field" formatted="false">ای میل پتہ</string>
+    <string name="company" formatted="false">کمپنی</string>
+    <string name="website" formatted="false">ویب سائٹ</string>
+    <string name="subject" formatted="false">موضوع</string>
+    <string name="message" formatted="false">پیغام</string>
+    <string name="latitude" formatted="false">عرض بلد</string>
+    <string name="longitude" formatted="false">طول بلد</string>
+    <string name="event_title" formatted="false">ایونٹ کا عنوان</string>
+    <string name="start" formatted="false">آغاز</string>
+    <string name="end" formatted="false">اختتام</string>
+    <string name="place" formatted="false">جگہ</string>
+    <string name="content" formatted="false">مواد</string>
+    <string name="security" formatted="false">نیٹ ورک کی سیکیورٹی</string>
+    <string name="open_network" formatted="false">کھلا نیٹ ورک</string>
+    <string name="hidden_network" formatted="false">پوشیدہ نیٹ ورک</string>
+    <string name="format" formatted="false">فارمیٹ</string>
+    <string name="date_hint" formatted="false">فارمیٹ: 2026-12-31 18:30 (مقامی وقت)</string>
+    <string name="barcode_help" formatted="false">EAN-13: ‏12 یا 13 ہندسے۔ EAN-8: ‏7 یا 8 ہندسے۔ ITF: جفت تعداد میں ہندسے۔ Code 39: بڑے لاطینی حروف اور ہندسے۔</string>
+    <string name="generate" formatted="false">کوڈ بنائیں</string>
+    <string name="private_hint" formatted="false">کچھ اپ لوڈ نہیں ہوتا۔ اکاؤنٹ درکار نہیں۔</string>
+    <string name="invalid_input" formatted="false">خانے اور فارمیٹ چیک کریں۔ بہت لمبا متن مختصر کریں۔</string>
+    <string name="collection_title" formatted="false">ہر چیز اپنی جگہ۔</string>
+    <string name="collection_hint" formatted="false">آپ کے محفوظ کردہ کوڈز، ہمیشہ آپ کے ساتھ۔</string>
+    <string name="search" formatted="false">مواد یا نام تلاش کریں</string>
+    <string name="all" formatted="false">تمام کوڈز</string>
+    <string name="favorites" formatted="false">پسندیدہ</string>
+    <string name="created" formatted="false">بنائے گئے</string>
+    <string name="scanned" formatted="false">اسکین شدہ</string>
+    <string name="empty_collection" formatted="false">کوئی کوڈ نہیں ملا</string>
+    <string name="empty_collection_hint" formatted="false">کوڈ بنائیں یا اسکین کریں، یا دوسری تلاش آزمائیں۔</string>
+    <string name="your_code" formatted="false">آپ کا کوڈ</string>
+    <string name="result" formatted="false">کوڈ مل گیا</string>
+    <string name="code_preview" formatted="false">کوڈ کا پیش منظر</string>
+    <string name="preview_unavailable" formatted="false">اس مواد کا پیش منظر دستیاب نہیں۔</string>
+    <string name="show_content" formatted="false">پورا مواد دکھائیں</string>
+    <string name="copy" formatted="false">کاپی کریں</string>
+    <string name="favorite" formatted="false">پسندیدہ میں شامل کریں</string>
+    <string name="favorited" formatted="false">پسندیدہ میں شامل</string>
+    <string name="color" formatted="false">رنگوں کا لمس</string>
+    <string name="sage" formatted="false">سیج سبز</string>
+    <string name="lavender" formatted="false">لیونڈر</string>
+    <string name="cocoa" formatted="false">کوکو</string>
+    <string name="ink" formatted="false">سیاہی</string>
+    <string name="share_image" formatted="false">تصویر شیئر کریں</string>
+    <string name="save_png" formatted="false">PNG تصویر محفوظ کریں</string>
+    <string name="save_svg" formatted="false">SVG ویکٹر محفوظ کریں</string>
+    <string name="share_text" formatted="false">مواد شیئر کریں</string>
+    <string name="rename" formatted="false">نام بدلیں</string>
+    <string name="delete" formatted="false">حذف کریں</string>
+    <string name="delete_confirm" formatted="false">یہ کوڈ حذف کریں؟</string>
+    <string name="open_link" formatted="false">لنک کھولیں</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi کی ترتیبات کھولیں</string>
+    <string name="add_contact" formatted="false">رابطوں میں شامل کریں</string>
+    <string name="add_event" formatted="false">کیلنڈر میں شامل کریں</string>
+    <string name="open_map" formatted="false">نقشے میں کھولیں</string>
+    <string name="dial" formatted="false">ڈائلر کھولیں</string>
+    <string name="compose" formatted="false">پیغام لکھیں</string>
+    <string name="wifi_connect_hint" formatted="false">پاس ورڈ کاپی ہو جائے گا۔ Wi-Fi کی ترتیبات میں نیٹ ورک منتخب کریں اور اسے پیسٹ کریں۔</string>
+    <string name="open_confirm" formatted="false">دوسری ایپ میں کھولنے سے پہلے مواد چیک کریں۔</string>
+    <string name="continue_action" formatted="false">جاری رکھیں</string>
+    <string name="settings_title" formatted="false">اپنی پسند کے مطابق بنائیں۔</string>
+    <string name="history_setting" formatted="false">ہسٹری محفوظ رکھیں</string>
+    <string name="history_hint" formatted="false">نئے کوڈز خود بخود فون پر محفوظ کریں۔ پسندیدہ کوڈز ہمیشہ محفوظ ہوتے ہیں۔</string>
+    <string name="vibrate_setting" formatted="false">اسکین پر وائبریشن</string>
+    <string name="vibrate_hint" formatted="false">کوڈ پہچانے جانے پر ہلکا سا اشارہ۔</string>
+    <string name="privacy_title" formatted="false">آپ کے کوڈز آپ ہی کے رہتے ہیں۔</string>
+    <string name="privacy_body" formatted="false">اسکین اور کوڈ بنانا آف لائن کام کرتے ہیں۔ نہ اکاؤنٹ، نہ اشتہارات، نہ ٹریکنگ۔ کیمرا صرف کوڈ پڑھتا ہے؛ تصاویر محفوظ نہیں ہوتیں۔ ہسٹری ایپ میں رہتی ہے اور حذف کی جا سکتی ہے۔ شیئر کرنا اور دوسری ایپس کھولنا آپ کی مرضی ہے۔</string>
+    <string name="export_history" formatted="false">ہسٹری برآمد کریں</string>
+    <string name="export_history_hint" formatted="false">JSON فائل میں کوڈز کا مواد، بشمول Wi-Fi پاس ورڈز، شامل ہوتا ہے۔ اسے محفوظ کرنے کی جگہ منتخب کریں۔</string>
+    <string name="clear_history" formatted="false">مجموعہ صاف کریں</string>
+    <string name="clear_confirm" formatted="false">پسندیدہ سمیت تمام محفوظ کوڈز حذف کریں؟ برآمد شدہ فائلیں اپنی جگہ رہیں گی۔</string>
+    <string name="deleted" formatted="false">مجموعہ صاف ہو گیا</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Android کے لیے ابتدا سے بنائی گئی۔ ہلکا انٹرفیس اور 40 زبانیں۔</string>
+    <string name="licenses" formatted="false">لائبریریوں کے لائسنس</string>
+    <string name="scan_hint" formatted="false">کوڈ فریم میں رکھیں۔ فوکس کے لیے تھپتھپائیں۔</string>
+    <string name="zoom" formatted="false">زوم</string>
+    <string name="flash" formatted="false">ٹارچ</string>
+    <string name="flash_on" formatted="false">ٹارچ روشن ہے</string>
+    <string name="flash_off" formatted="false">ٹارچ بند ہے</string>
+    <string name="switch_camera" formatted="false">کیمرا بدلیں</string>
+    <string name="batch" formatted="false">یکے بعد دیگرے اسکین</string>
+    <string name="batch_count" formatted="false">جمع کردہ کوڈز:</string>
+    <string name="camera_permission" formatted="false">کیمرے کی اجازت دیں</string>
+    <string name="permission_hint" formatted="false">اسکین کے لیے ایپ کی ترتیبات میں کیمرا فعال کریں۔ ہوم اسکرین سے تصاویر بھی درآمد کر سکتے ہیں۔</string>
+    <string name="camera_error" formatted="false">کیمرا دستیاب نہیں۔ واپس جا کر دوبارہ کوشش کریں یا تصویر درآمد کریں۔</string>
+    <string name="unavailable" formatted="false">یہ سہولت اس آلے پر دستیاب نہیں۔</string>
+    <string name="no_code" formatted="false">کوڈ نہیں پہچانا گیا۔ زیادہ واضح تصویر آزمائیں۔</string>
+    <string name="choose_code" formatted="false">کوڈ منتخب کریں</string>
+    <string name="reading_image" formatted="false">تصویر پڑھی جا رہی ہے…</string>
+    <string name="image_error" formatted="false">تصویر پڑھی نہیں جا سکی۔ PNG یا JPEG فائل آزمائیں۔</string>
+    <string name="export_error" formatted="false">برآمد ناکام ہوئی۔ خالی جگہ چیک کریں یا دوسرا فولڈر منتخب کریں۔</string>
+    <string name="saved" formatted="false">فائل محفوظ ہو گئی</string>
+    <string name="copied" formatted="false">کلپ بورڈ پر کاپی ہو گیا</string>
+    <string name="no_handler" formatted="false">اس کام کے لیے کوئی ایپ دستیاب نہیں۔</string>
+</resources>

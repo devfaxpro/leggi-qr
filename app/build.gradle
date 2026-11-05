@@ -1,0 +1,65 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// Copyright (C) 2026 devfaxpro
+plugins { id 'com.android.application' }
+android {
+    namespace 'app.qrall.scanner'
+    compileSdk 36
+    // Passo 1: identità stabile per aggiornare le installazioni esistenti.
+    defaultConfig {
+        applicationId 'app.qrall.scanner'
+        minSdk 24
+        targetSdk 36
+        versionCode 7
+        versionName '2.1.1'
+        resourceConfigurations += ['it', 'en', 'es', 'pt-rBR', 'fr', 'de', 'b+zh+Hans', 'ja', 'ko', 'ru', 'in', 'ms', 'cs', 'da', 'fil', 'sw', 'hu', 'nl', 'nb', 'pl', 'ro', 'fi', 'sv', 'vi', 'tr', 'el', 'bg', 'uk', 'iw', 'ur', 'ar', 'fa', 'mr', 'hi', 'bn', 'pa', 'gu', 'ta', 'te', 'th']
+    }
+    // Passo 2: le chiavi restano esterne al progetto e arrivano solo dall’ambiente.
+    signingConfigs {
+        debug { if (System.getenv('QRALL_DEBUG_KEYFILE')) storeFile file(System.getenv('QRALL_DEBUG_KEYFILE')) }
+        release {
+            if (System.getenv('ANDROID_KEYFILE')) {
+                storeFile file(System.getenv('ANDROID_KEYFILE'))
+                keyAlias System.getenv('ANDROID_KEY_ALIAS')
+                storePassword System.getenv('ANDROID_STORE_PASSWORD')
+                keyPassword System.getenv('ANDROID_KEY_PASSWORD')
+            }
+        }
+    }
+    // Passo 3: debug separato; release ottimizzata con le regole ProGuard del progetto.
+    buildTypes {
+        debug { applicationIdSuffix '.debug' }
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            if (System.getenv('ANDROID_KEYFILE')) signingConfig signingConfigs.release
+        }
+    }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17; coreLibraryDesugaringEnabled true }
+    // Tutte le lingue viaggiano insieme: il globo deve funzionare anche offline.
+    bundle { language { enableSplit = false } }
+    // Le prove usano Robolectric e una cartella locale per cache e file temporanei.
+    testOptions {
+        unitTests.includeAndroidResources = true
+        unitTests.all {
+            def testHome = new File(rootProject.projectDir, '.test-home')
+            testHome.mkdirs()
+            def testTemp = new File(testHome, 'tmp'); testTemp.mkdirs()
+            systemProperty 'user.home', testHome.absolutePath
+            systemProperty 'java.io.tmpdir', testTemp.absolutePath
+            systemProperty 'robolectric.dependency.repo.url', 'https://repo.maven.apache.org/maven2'
+        }
+    }
+}
+// Versioni esplicite delle librerie, per rendere la compilazione ripetibile.
+dependencies {
+    coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.1.5'
+    implementation 'androidx.appcompat:appcompat:1.7.1'
+    implementation 'com.google.android.material:material:1.13.0'
+    implementation 'androidx.camera:camera-camera2:1.5.3'
+    implementation 'androidx.camera:camera-lifecycle:1.5.3'
+    implementation 'androidx.camera:camera-view:1.5.3'
+    implementation 'com.google.zxing:core:3.5.4'
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation 'org.robolectric:robolectric:4.16.1'
+}

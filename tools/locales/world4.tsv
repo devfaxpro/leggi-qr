@@ -1,0 +1,144 @@
+key|id|ms|vi|th|fil
+tagline|Pindai. Buat. Simpan.|Imbas. Cipta. Simpan.|Quét. Tạo. Lưu.|สแกน สร้าง เก็บไว้|I-scan. Gumawa. Itago.
+scan|Pindai|Imbas|Quét|สแกน|I-scan
+create|Buat|Cipta|Tạo|สร้าง|Gumawa
+collection|Koleksi|Koleksi|Bộ sưu tập|คอลเล็กชัน|Koleksiyon
+settings|Setelan|Tetapan|Cài đặt|การตั้งค่า|Mga setting
+language|Bahasa|Bahasa|Ngôn ngữ|ภาษา|Wika
+system_language|Ikuti bahasa sistem|Ikut bahasa sistem|Theo ngôn ngữ hệ thống|ใช้ภาษาของระบบ|Sundin ang wika ng system
+back|Kembali|Kembali|Quay lại|ย้อนกลับ|Bumalik
+close|Tutup|Tutup|Đóng|ปิด|Isara
+cancel|Batal|Batal|Hủy|ยกเลิก|Kanselahin
+save|Simpan|Simpan|Lưu|บันทึก|I-save
+done|Selesai memindai|Selesai mengimbas|Kết thúc quét|จบการสแกน|Tapusin ang pag-scan
+offline_badge|MUDAH. PRIVAT. LURING.|MUDAH. PERIBADI. LUAR TALIAN.|ĐƠN GIẢN. RIÊNG TƯ. NGOẠI TUYẾN.|ง่าย เป็นส่วนตัว ออฟไลน์|SIMPLE. PRIBADO. OFFLINE.
+hero_title|Kode kecil.\nBanyak kemungkinan.|Kod kecil.\nPelbagai kemungkinan.|Mã nhỏ bé.\nMuôn vàn khả năng.|โค้ดเล็ก ๆ\nความเป็นไปได้มากมาย|Maliit na code.\nMaraming posibilidad.
+hero_subtitle|Tautan, ide, dan koneksi. Cukup sekali pindai.|Pautan, idea dan hubungan. Hanya satu imbasan.|Liên kết, ý tưởng và kết nối. Chỉ cần một lần quét.|ลิงก์ ไอเดีย และการเชื่อมต่อ เพียงสแกนครั้งเดียว|Mga link, ideya at koneksiyon. Isang scan lang.
+scan_now|Pindai kode|Imbas kod|Quét mã|สแกนโค้ด|Mag-scan ng code
+import_image|Impor dari gambar|Import daripada imej|Nhập từ ảnh|นำเข้าจากรูปภาพ|Mag-import mula sa larawan
+quick_create|Buat cepat|Cipta pantas|Tạo nhanh|สร้างด่วน|Mabilis na paggawa
+view_all|Lihat semua|Lihat semua|Xem tất cả|ดูทั้งหมด|Tingnan lahat
+recent|Kode terbaru Anda|Kod terkini anda|Mã gần đây của bạn|โค้ดล่าสุดของคุณ|Mga kamakailang code mo
+empty_recent|Kode berikutnya menanti|Kod seterusnya menanti|Mã tiếp theo đang chờ bạn|โค้ดถัดไปรอคุณอยู่|Naghihintay ang susunod mong code
+empty_recent_hint|Pindai atau buat kode untuk melihatnya di sini.|Imbas atau cipta kod untuk melihatnya di sini.|Quét hoặc tạo mã để xem tại đây.|สแกนหรือสร้างโค้ดเพื่อให้แสดงที่นี่|Mag-scan o gumawa ng code para makita ito rito.
+create_title|Beri kode pada ide Anda.|Berikan kod kepada idea anda.|Biến ý tưởng thành mã.|เปลี่ยนไอเดียให้เป็นโค้ด|Bigyan ng code ang mga ideya mo.
+create_hint|Pilih yang ingin dibagikan.|Pilih perkara yang ingin dikongsi.|Chọn nội dung bạn muốn chia sẻ.|เลือกสิ่งที่ต้องการแชร์|Piliin ang gusto mong ibahagi.
+url|Tautan|Pautan|Liên kết|ลิงก์|Link
+text|Teks|Teks|Văn bản|ข้อความ|Teksto
+contact|Kontak|Kenalan|Liên hệ|รายชื่อติดต่อ|Contact
+email|Email|E-mel|Email|อีเมล|Email
+sms|Pesan|Mesej|Tin nhắn|ข้อความ SMS|Mensahe
+phone|Telepon|Telefon|Điện thoại|โทรศัพท์|Telepono
+location|Lokasi|Lokasi|Vị trí|ตำแหน่ง|Lokasyon
+event|Acara|Acara|Sự kiện|กิจกรรม|Kaganapan
+barcode|Kode batang|Kod bar|Mã vạch|บาร์โค้ด|Barcode
+url_hint|Situs web, halaman, atau profil|Laman web, halaman atau profil|Trang web, trang hoặc hồ sơ|เว็บไซต์ หน้าเว็บ หรือโปรไฟล์|Website, pahina o profile
+text_hint|Kata, catatan, dan ide kecil|Perkataan, nota dan idea kecil|Lời nhắn, ghi chú và ý tưởng nhỏ|ถ้อยคำ โน้ต และไอเดียเล็ก ๆ|Mga salita, tala at munting ideya
+wifi_hint|Bagikan akses jaringan|Kongsi akses rangkaian|Chia sẻ quyền truy cập mạng|แชร์การเข้าถึงเครือข่าย|Ibahagi ang access sa network
+contact_hint|Kartu nama digital|Kad nama digital|Danh thiếp kỹ thuật số|นามบัตรดิจิทัล|Digital na business card
+email_hint|Alamat, subjek, dan pesan|Alamat, subjek dan mesej|Địa chỉ, chủ đề và nội dung|ที่อยู่ หัวเรื่อง และข้อความ|Address, paksa at mensahe
+sms_hint|Siapkan pesan teks|Sediakan mesej teks|Soạn sẵn tin nhắn|เตรียมข้อความ SMS|Maghanda ng text message
+phone_hint|Nomor untuk ditelepon|Nombor untuk dihubungi|Số điện thoại để gọi|หมายเลขที่ต้องการโทร|Numerong tatawagan
+location_hint|Titik tepat di peta|Titik tepat pada peta|Một điểm chính xác trên bản đồ|จุดที่แน่นอนบนแผนที่|Eksaktong punto sa mapa
+event_hint|Acara untuk kalender|Acara untuk kalendar|Sự kiện cho lịch|กิจกรรมสำหรับปฏิทิน|Kaganapan para sa kalendaryo
+barcode_hint|EAN, Code 128, Aztec, dan lainnya|EAN, Code 128, Aztec dan lain-lain|EAN, Code 128, Aztec và nhiều loại khác|EAN, Code 128, Aztec และอื่น ๆ|EAN, Code 128, Aztec at iba pa
+form_hint|Masukkan detail. Kode dibuat di ponsel Anda.|Masukkan butiran. Kod dicipta pada telefon anda.|Nhập thông tin. Mã được tạo ngay trên điện thoại.|กรอกรายละเอียด โค้ดจะถูกสร้างบนโทรศัพท์ของคุณ|Ilagay ang mga detalye. Sa telepono mo gagawin ang code.
+url_field|Alamat web|Alamat web|Địa chỉ web|ที่อยู่เว็บ|Web address
+network|Nama jaringan|Nama rangkaian|Tên mạng|ชื่อเครือข่าย|Pangalan ng network
+password|Kata sandi|Kata laluan|Mật khẩu|รหัสผ่าน|Password
+name|Nama lengkap|Nama penuh|Họ và tên|ชื่อเต็ม|Buong pangalan
+phone_field|Nomor telepon|Nombor telefon|Số điện thoại|หมายเลขโทรศัพท์|Numero ng telepono
+email_field|Alamat email|Alamat e-mel|Địa chỉ email|ที่อยู่อีเมล|Email address
+company|Perusahaan|Syarikat|Công ty|บริษัท|Kompanya
+website|Situs web|Laman web|Trang web|เว็บไซต์|Website
+subject|Subjek|Subjek|Chủ đề|หัวเรื่อง|Paksa
+message|Pesan|Mesej|Nội dung tin nhắn|ข้อความ|Mensahe
+latitude|Lintang|Latitud|Vĩ độ|ละติจูด|Latitud
+longitude|Bujur|Longitud|Kinh độ|ลองจิจูด|Longhitud
+event_title|Judul acara|Tajuk acara|Tên sự kiện|ชื่อกิจกรรม|Pamagat ng kaganapan
+start|Mulai|Mula|Bắt đầu|เริ่ม|Simula
+end|Selesai|Tamat|Kết thúc|สิ้นสุด|Wakas
+place|Tempat|Tempat|Địa điểm|สถานที่|Lugar
+content|Konten|Kandungan|Nội dung|เนื้อหา|Nilalaman
+security|Keamanan jaringan|Keselamatan rangkaian|Bảo mật mạng|ความปลอดภัยเครือข่าย|Seguridad ng network
+open_network|Jaringan terbuka|Rangkaian terbuka|Mạng mở|เครือข่ายเปิด|Bukas na network
+hidden_network|Jaringan tersembunyi|Rangkaian tersembunyi|Mạng ẩn|เครือข่ายที่ซ่อนอยู่|Nakatagong network
+format|Format|Format|Định dạng|รูปแบบ|Format
+date_hint|Format: 2026-12-31 18:30 (waktu setempat)|Format: 2026-12-31 18:30 (waktu tempatan)|Định dạng: 2026-12-31 18:30 (giờ địa phương)|รูปแบบ: 2026-12-31 18:30 (เวลาท้องถิ่น)|Format: 2026-12-31 18:30 (lokal na oras)
+barcode_help|EAN-13: 12 atau 13 digit. EAN-8: 7 atau 8 digit. ITF: jumlah digit genap. Code 39: huruf kapital dan angka.|EAN-13: 12 atau 13 digit. EAN-8: 7 atau 8 digit. ITF: bilangan digit genap. Code 39: huruf besar dan digit.|EAN-13: 12 hoặc 13 chữ số. EAN-8: 7 hoặc 8 chữ số. ITF: số lượng chữ số chẵn. Code 39: chữ Latin viết hoa và chữ số.|EAN-13: ตัวเลข 12 หรือ 13 หลัก EAN-8: 7 หรือ 8 หลัก ITF: จำนวนหลักเป็นเลขคู่ Code 39: ตัวอักษรละตินพิมพ์ใหญ่และตัวเลข|EAN-13: 12 o 13 digit. EAN-8: 7 o 8 digit. ITF: pares na bilang ng mga digit. Code 39: malalaking letrang Latin at mga digit.
+generate|Buat kode|Cipta kod|Tạo mã|สร้างโค้ด|Gumawa ng code
+private_hint|Tanpa unggahan. Tanpa akun.|Tiada muat naik. Tidak perlu akaun.|Không tải lên. Không cần tài khoản.|ไม่มีการอัปโหลด ไม่ต้องมีบัญชี|Walang ina-upload. Hindi kailangan ng account.
+invalid_input|Periksa isian dan format. Persingkat teks yang terlalu panjang.|Semak medan dan format. Pendekkan teks yang terlalu panjang.|Kiểm tra các trường và định dạng. Rút ngắn văn bản quá dài.|ตรวจสอบข้อมูลและรูปแบบ ย่อข้อความที่ยาวเกินไป|Suriin ang mga field at format. Paikliin ang napakahabang teksto.
+collection_title|Semua pada tempatnya.|Semuanya tersusun.|Mọi thứ đúng chỗ.|ทุกอย่างอยู่ในที่ของมัน|Lahat ay nasa tamang lugar.
+collection_hint|Kode yang ingin disimpan, selalu bersama Anda.|Kod yang ingin disimpan, sentiasa bersama anda.|Những mã bạn muốn giữ, luôn bên bạn.|โค้ดที่อยากเก็บ อยู่กับคุณเสมอ|Mga code na gusto mong itago, laging kasama mo.
+search|Cari konten atau nama|Cari kandungan atau nama|Tìm nội dung hoặc tên|ค้นหาเนื้อหาหรือชื่อ|Maghanap ng nilalaman o pangalan
+all|Semua kode|Semua kod|Tất cả mã|โค้ดทั้งหมด|Lahat ng code
+favorites|Favorit|Kegemaran|Yêu thích|รายการโปรด|Mga paborito
+created|Dibuat|Dicipta|Đã tạo|ที่สร้าง|Mga ginawa
+scanned|Dipindai|Diimbas|Đã quét|ที่สแกน|Mga na-scan
+empty_collection|Tidak ada kode ditemukan|Tiada kod ditemui|Không tìm thấy mã|ไม่พบโค้ด|Walang nahanap na code
+empty_collection_hint|Buat atau pindai kode, atau coba pencarian lain.|Cipta atau imbas kod, atau cuba carian lain.|Tạo hoặc quét mã, hoặc thử tìm kiếm khác.|สร้างหรือสแกนโค้ด หรือลองค้นหาใหม่|Gumawa o mag-scan ng code, o subukan ang ibang paghahanap.
+your_code|Kode Anda|Kod anda|Mã của bạn|โค้ดของคุณ|Code mo
+result|Kode ditemukan|Kod ditemui|Đã tìm thấy mã|พบโค้ด|May nahanap na code
+code_preview|Pratinjau kode|Pratonton kod|Xem trước mã|ตัวอย่างโค้ด|Preview ng code
+preview_unavailable|Pratinjau tidak tersedia untuk konten ini.|Pratonton tidak tersedia untuk kandungan ini.|Không thể xem trước nội dung này.|แสดงตัวอย่างเนื้อหานี้ไม่ได้|Walang preview para sa nilalamang ito.
+show_content|Tampilkan seluruh konten|Tunjukkan semua kandungan|Hiện toàn bộ nội dung|แสดงเนื้อหาทั้งหมด|Ipakita ang buong nilalaman
+copy|Salin|Salin|Sao chép|คัดลอก|Kopyahin
+favorite|Tambahkan ke favorit|Tambah ke kegemaran|Thêm vào yêu thích|เพิ่มในรายการโปรด|Idagdag sa mga paborito
+favorited|Dalam favorit|Dalam kegemaran|Đã yêu thích|อยู่ในรายการโปรด|Nasa mga paborito
+color|Sentuhan warna|Sentuhan warna|Một chút sắc màu|เติมสีสัน|Kaunting kulay
+sage|Hijau sage|Hijau sage|Xanh xô thơm|เขียวเสจ|Berdeng sage
+lavender|Lavender|Lavender|Tím oải hương|ม่วงลาเวนเดอร์|Lavender
+cocoa|Kakao|Koko|Nâu cacao|น้ำตาลโกโก้|Kakaw
+ink|Tinta|Dakwat|Mực|ดำหมึก|Tinta
+share_image|Bagikan gambar|Kongsi imej|Chia sẻ ảnh|แชร์รูปภาพ|Ibahagi ang larawan
+save_png|Simpan gambar PNG|Simpan imej PNG|Lưu ảnh PNG|บันทึกภาพ PNG|I-save ang larawang PNG
+save_svg|Simpan vektor SVG|Simpan vektor SVG|Lưu ảnh vectơ SVG|บันทึกเวกเตอร์ SVG|I-save ang SVG vector
+share_text|Bagikan konten|Kongsi kandungan|Chia sẻ nội dung|แชร์เนื้อหา|Ibahagi ang nilalaman
+rename|Ganti nama|Namakan semula|Đổi tên|เปลี่ยนชื่อ|Palitan ang pangalan
+delete|Hapus|Padam|Xóa|ลบ|Burahin
+delete_confirm|Hapus kode ini?|Padam kod ini?|Xóa mã này?|ลบโค้ดนี้หรือไม่|Burahin ang code na ito?
+open_link|Buka tautan|Buka pautan|Mở liên kết|เปิดลิงก์|Buksan ang link
+connect_wifi|Buka setelan Wi-Fi|Buka tetapan Wi-Fi|Mở cài đặt Wi-Fi|เปิดการตั้งค่า Wi-Fi|Buksan ang mga setting ng Wi-Fi
+add_contact|Tambahkan ke kontak|Tambah ke kenalan|Thêm vào danh bạ|เพิ่มในรายชื่อติดต่อ|Idagdag sa mga contact
+add_event|Tambahkan ke kalender|Tambah ke kalendar|Thêm vào lịch|เพิ่มในปฏิทิน|Idagdag sa kalendaryo
+open_map|Buka di peta|Buka dalam peta|Mở trong bản đồ|เปิดในแผนที่|Buksan sa mapa
+dial|Buka papan panggilan|Buka pendail|Mở trình quay số|เปิดแป้นโทรออก|Buksan ang dialer
+compose|Tulis pesan|Karang mesej|Soạn tin nhắn|เขียนข้อความ|Sumulat ng mensahe
+wifi_connect_hint|Kata sandi akan disalin. Pilih jaringan di setelan Wi-Fi lalu tempelkan.|Kata laluan akan disalin. Pilih rangkaian dalam tetapan Wi-Fi dan tampalkannya.|Mật khẩu sẽ được sao chép. Chọn mạng trong cài đặt Wi-Fi rồi dán mật khẩu.|ระบบจะคัดลอกรหัสผ่าน เลือกเครือข่ายในการตั้งค่า Wi-Fi แล้ววางรหัสผ่าน|Kokopyahin ang password. Piliin ang network sa mga setting ng Wi-Fi at i-paste ito.
+open_confirm|Periksa konten sebelum membukanya di aplikasi lain.|Semak kandungan sebelum membukanya dalam aplikasi lain.|Kiểm tra nội dung trước khi mở bằng ứng dụng khác.|ตรวจสอบเนื้อหาก่อนเปิดในแอปอื่น|Suriin ang nilalaman bago buksan sa ibang app.
+continue_action|Lanjutkan|Teruskan|Tiếp tục|ดำเนินการต่อ|Magpatuloy
+settings_title|Sesuaikan dengan Anda.|Sesuaikan mengikut cita rasa.|Tùy chỉnh theo ý bạn.|ปรับให้เป็นแบบคุณ|Iayon sa gusto mo.
+history_setting|Simpan riwayat|Simpan sejarah|Lưu lịch sử|เก็บประวัติ|Itago ang kasaysayan
+history_hint|Simpan kode baru otomatis di ponsel. Favorit selalu disimpan.|Simpan kod baharu secara automatik pada telefon. Kegemaran sentiasa disimpan.|Tự động lưu mã mới trên điện thoại. Mã yêu thích luôn được lưu.|บันทึกโค้ดใหม่ลงโทรศัพท์โดยอัตโนมัติ รายการโปรดจะถูกบันทึกเสมอ|Awtomatikong i-save ang mga bagong code sa telepono. Laging naka-save ang mga paborito.
+vibrate_setting|Getar saat memindai|Getar semasa mengimbas|Rung khi quét|สั่นเมื่อสแกน|Mag-vibrate kapag nag-scan
+vibrate_hint|Getaran lembut saat kode dikenali.|Getaran lembut apabila kod dikenal pasti.|Rung nhẹ khi nhận diện được mã.|สั่นเบา ๆ เมื่อพบโค้ด|Banayad na pag-vibrate kapag may nakilalang code.
+privacy_title|Kode Anda tetap milik Anda.|Kod anda kekal milik anda.|Mã của bạn vẫn là của bạn.|โค้ดของคุณยังเป็นของคุณ|Sa iyo lang ang mga code mo.
+privacy_body|Pemindaian dan pembuatan bekerja luring. Tanpa akun, iklan, atau pelacakan. Kamera hanya untuk membaca kode; gambar tidak disimpan. Riwayat tetap di aplikasi dan dapat dihapus. Berbagi dan membuka aplikasi lain adalah pilihan Anda.|Imbasan dan penciptaan kod berfungsi di luar talian. Tiada akaun, iklan atau penjejakan. Kamera hanya untuk membaca kod; imej tidak disimpan. Sejarah kekal dalam aplikasi dan boleh dipadam. Anda memilih untuk berkongsi atau membuka aplikasi lain.|Quét và tạo mã hoạt động ngoại tuyến. Không tài khoản, quảng cáo hay theo dõi. Máy ảnh chỉ dùng để đọc mã; ảnh không được lưu. Lịch sử nằm trong ứng dụng và có thể xóa. Bạn quyết định việc chia sẻ và mở ứng dụng khác.|สแกนและสร้างโค้ดได้แบบออฟไลน์ ไม่มีบัญชี โฆษณา หรือการติดตาม กล้องใช้สำหรับอ่านโค้ดเท่านั้นและไม่บันทึกภาพ ประวัติอยู่ในแอปและลบได้ คุณเลือกได้ว่าจะแชร์หรือเปิดแอปภายนอกหรือไม่|Gumagana offline ang pag-scan at paggawa. Walang account, ad o pagsubaybay. Para lang sa pagbasa ng code ang kamera; hindi sine-save ang mga larawan. Nasa app ang kasaysayan at puwedeng burahin. Ikaw ang pipili kung magbabahagi o magbubukas ng ibang app.
+export_history|Ekspor riwayat|Eksport sejarah|Xuất lịch sử|ส่งออกประวัติ|I-export ang kasaysayan
+export_history_hint|File JSON berisi konten kode, termasuk kata sandi Wi-Fi. Pilih tempat menyimpannya.|Fail JSON mengandungi kandungan kod, termasuk kata laluan Wi-Fi. Pilih tempat menyimpannya.|Tệp JSON chứa nội dung mã, kể cả mật khẩu Wi-Fi. Hãy chọn nơi lưu.|ไฟล์ JSON มีเนื้อหาของโค้ด รวมถึงรหัสผ่าน Wi-Fi เลือกที่เก็บไฟล์|Kasama sa JSON file ang nilalaman ng mga code, pati mga password ng Wi-Fi. Piliin kung saan ito itatago.
+clear_history|Kosongkan koleksi|Kosongkan koleksi|Xóa bộ sưu tập|ล้างคอลเล็กชัน|Burahin ang koleksiyon
+clear_confirm|Hapus semua kode tersimpan, termasuk favorit? File yang diekspor tetap di tempatnya.|Padam semua kod tersimpan, termasuk kegemaran? Fail yang dieksport kekal di tempatnya.|Xóa mọi mã đã lưu, kể cả yêu thích? Các tệp đã xuất vẫn ở nơi bạn lưu.|ลบโค้ดที่บันทึกทั้งหมด รวมรายการโปรดหรือไม่ ไฟล์ที่ส่งออกจะยังอยู่ในที่เดิม|Burahin ang lahat ng naka-save na code, pati mga paborito? Mananatili ang mga na-export na file sa pinaglagyan mo.
+deleted|Koleksi dikosongkan|Koleksi dikosongkan|Đã xóa bộ sưu tập|ล้างคอลเล็กชันแล้ว|Nabura ang koleksiyon
+about_body|Dibangun dari nol untuk Android. Antarmuka ringan dan 40 bahasa.|Dibina dari awal untuk Android. Antara muka ringan dan 40 bahasa.|Được xây dựng từ đầu cho Android. Giao diện nhẹ nhàng và 40 ngôn ngữ.|สร้างขึ้นใหม่สำหรับ Android อินเทอร์เฟซเรียบง่าย รองรับ 40 ภาษา|Binuo mula sa simula para sa Android. Magaan na interface at 40 wika.
+licenses|Lisensi pustaka|Lesen pustaka|Giấy phép thư viện|ใบอนุญาตไลบรารี|Mga lisensiya ng library
+scan_hint|Bingkai kode. Ketuk untuk fokus.|Letakkan kod dalam bingkai. Ketik untuk fokus.|Đưa mã vào khung. Chạm để lấy nét.|เล็งโค้ดให้อยู่ในกรอบ แตะเพื่อโฟกัส|Ilagay ang code sa frame. I-tap para mag-focus.
+zoom|Zum|Zum|Thu phóng|ซูม|Zoom
+flash|Senter|Lampu suluh|Đèn pin|ไฟฉาย|Flashlight
+flash_on|Senter menyala|Lampu suluh dihidupkan|Đèn pin bật|เปิดไฟฉายแล้ว|Bukas ang flashlight
+flash_off|Senter mati|Lampu suluh dimatikan|Đèn pin tắt|ปิดไฟฉายแล้ว|Patay ang flashlight
+switch_camera|Ganti kamera|Tukar kamera|Đổi máy ảnh|สลับกล้อง|Palitan ang kamera
+batch|Pindai beruntun|Imbasan berterusan|Quét liên tục|สแกนต่อเนื่อง|Sunod-sunod na pag-scan
+batch_count|Kode terkumpul:|Kod dikumpulkan:|Số mã đã quét:|โค้ดที่รวบรวม:|Mga nakolektang code:
+camera_permission|Izinkan akses kamera|Benarkan akses kamera|Cho phép truy cập máy ảnh|อนุญาตให้ใช้กล้อง|Payagan ang kamera
+permission_hint|Aktifkan kamera di setelan aplikasi untuk memindai. Anda juga bisa mengimpor gambar dari beranda.|Aktifkan kamera dalam tetapan aplikasi untuk mengimbas. Anda juga boleh mengimport imej dari skrin utama.|Bật quyền máy ảnh trong cài đặt ứng dụng để quét. Bạn vẫn có thể nhập ảnh từ màn hình chính.|อนุญาตกล้องในการตั้งค่าแอปเพื่อสแกน คุณยังนำเข้ารูปภาพจากหน้าหลักได้|Payagan ang kamera sa mga setting ng app para mag-scan. Puwede ka pa ring mag-import ng larawan mula sa home screen.
+camera_error|Kamera tidak tersedia. Kembali dan coba lagi, atau impor gambar.|Kamera tidak tersedia. Kembali dan cuba lagi, atau import imej.|Máy ảnh không khả dụng. Quay lại và thử lại, hoặc nhập ảnh.|ใช้กล้องไม่ได้ ย้อนกลับแล้วลองใหม่ หรือนำเข้ารูปภาพ|Hindi magamit ang kamera. Bumalik at subukan muli, o mag-import ng larawan.
+unavailable|Fitur ini tidak tersedia di perangkat ini.|Ciri ini tidak tersedia pada peranti ini.|Tính năng này không khả dụng trên thiết bị.|ฟีเจอร์นี้ไม่พร้อมใช้งานบนอุปกรณ์นี้|Hindi available ang tampok na ito sa device na ito.
+no_code|Kode tidak dikenali. Coba gambar yang lebih jelas.|Tiada kod dikenal pasti. Cuba imej yang lebih jelas.|Không nhận diện được mã. Hãy thử ảnh rõ hơn.|ไม่พบโค้ด ลองใช้รูปภาพที่ชัดขึ้น|Walang nakilalang code. Subukan ang mas malinaw na larawan.
+choose_code|Pilih kode|Pilih kod|Chọn mã|เลือกโค้ด|Pumili ng code
+reading_image|Membaca gambar…|Membaca imej…|Đang đọc ảnh…|กำลังอ่านรูปภาพ…|Binabasa ang larawan…
+image_error|Gambar tidak dapat dibaca. Coba file PNG atau JPEG.|Imej tidak dapat dibaca. Cuba fail PNG atau JPEG.|Không đọc được ảnh. Hãy thử tệp PNG hoặc JPEG.|อ่านรูปภาพไม่ได้ ลองใช้ไฟล์ PNG หรือ JPEG|Hindi mabasa ang larawan. Subukan ang PNG o JPEG file.
+export_error|Ekspor gagal. Periksa ruang kosong atau pilih folder lain.|Eksport gagal. Semak ruang kosong atau pilih folder lain.|Xuất thất bại. Kiểm tra dung lượng trống hoặc chọn thư mục khác.|ส่งออกไม่สำเร็จ ตรวจสอบพื้นที่ว่างหรือเลือกโฟลเดอร์อื่น|Hindi na-export. Suriin ang bakanteng espasyo o pumili ng ibang folder.
+saved|File disimpan|Fail disimpan|Đã lưu tệp|บันทึกไฟล์แล้ว|Na-save ang file
+copied|Disalin ke papan klip|Disalin ke papan klip|Đã sao chép vào bộ nhớ tạm|คัดลอกไปยังคลิปบอร์ดแล้ว|Nakopya sa clipboard
+no_handler|Tidak ada aplikasi untuk tindakan ini.|Tiada aplikasi untuk tindakan ini.|Không có ứng dụng cho thao tác này.|ไม่มีแอปสำหรับการดำเนินการนี้|Walang app para sa pagkilos na ito.

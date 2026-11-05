@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">I-scan. Gumawa. Itago.</string>
+    <string name="scan" formatted="false">I-scan</string>
+    <string name="create" formatted="false">Gumawa</string>
+    <string name="collection" formatted="false">Koleksiyon</string>
+    <string name="settings" formatted="false">Mga setting</string>
+    <string name="language" formatted="false">Wika</string>
+    <string name="system_language" formatted="false">Sundin ang wika ng system</string>
+    <string name="back" formatted="false">Bumalik</string>
+    <string name="close" formatted="false">Isara</string>
+    <string name="cancel" formatted="false">Kanselahin</string>
+    <string name="save" formatted="false">I-save</string>
+    <string name="done" formatted="false">Tapusin ang pag-scan</string>
+    <string name="offline_badge" formatted="false">SIMPLE. PRIBADO. OFFLINE.</string>
+    <string name="hero_title" formatted="false">Maliit na code.\nMaraming posibilidad.</string>
+    <string name="hero_subtitle" formatted="false">Mga link, ideya at koneksiyon. Isang scan lang.</string>
+    <string name="scan_now" formatted="false">Mag-scan ng code</string>
+    <string name="import_image" formatted="false">Mag-import mula sa larawan</string>
+    <string name="quick_create" formatted="false">Mabilis na paggawa</string>
+    <string name="view_all" formatted="false">Tingnan lahat</string>
+    <string name="recent" formatted="false">Mga kamakailang code mo</string>
+    <string name="empty_recent" formatted="false">Naghihintay ang susunod mong code</string>
+    <string name="empty_recent_hint" formatted="false">Mag-scan o gumawa ng code para makita ito rito.</string>
+    <string name="create_title" formatted="false">Bigyan ng code ang mga ideya mo.</string>
+    <string name="create_hint" formatted="false">Piliin ang gusto mong ibahagi.</string>
+    <string name="url" formatted="false">Link</string>
+    <string name="text" formatted="false">Teksto</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Contact</string>
+    <string name="email" formatted="false">Email</string>
+    <string name="sms" formatted="false">Mensahe</string>
+    <string name="phone" formatted="false">Telepono</string>
+    <string name="location" formatted="false">Lokasyon</string>
+    <string name="event" formatted="false">Kaganapan</string>
+    <string name="barcode" formatted="false">Barcode</string>
+    <string name="url_hint" formatted="false">Website, pahina o profile</string>
+    <string name="text_hint" formatted="false">Mga salita, tala at munting ideya</string>
+    <string name="wifi_hint" formatted="false">Ibahagi ang access sa network</string>
+    <string name="contact_hint" formatted="false">Digital na business card</string>
+    <string name="email_hint" formatted="false">Address, paksa at mensahe</string>
+    <string name="sms_hint" formatted="false">Maghanda ng text message</string>
+    <string name="phone_hint" formatted="false">Numerong tatawagan</string>
+    <string name="location_hint" formatted="false">Eksaktong punto sa mapa</string>
+    <string name="event_hint" formatted="false">Kaganapan para sa kalendaryo</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec at iba pa</string>
+    <string name="form_hint" formatted="false">Ilagay ang mga detalye. Sa telepono mo gagawin ang code.</string>
+    <string name="url_field" formatted="false">Web address</string>
+    <string name="network" formatted="false">Pangalan ng network</string>
+    <string name="password" formatted="false">Password</string>
+    <string name="name" formatted="false">Buong pangalan</string>
+    <string name="phone_field" formatted="false">Numero ng telepono</string>
+    <string name="email_field" formatted="false">Email address</string>
+    <string name="company" formatted="false">Kompanya</string>
+    <string name="website" formatted="false">Website</string>
+    <string name="subject" formatted="false">Paksa</string>
+    <string name="message" formatted="false">Mensahe</string>
+    <string name="latitude" formatted="false">Latitud</string>
+    <string name="longitude" formatted="false">Longhitud</string>
+    <string name="event_title" formatted="false">Pamagat ng kaganapan</string>
+    <string name="start" formatted="false">Simula</string>
+    <string name="end" formatted="false">Wakas</string>
+    <string name="place" formatted="false">Lugar</string>
+    <string name="content" formatted="false">Nilalaman</string>
+    <string name="security" formatted="false">Seguridad ng network</string>
+    <string name="open_network" formatted="false">Bukas na network</string>
+    <string name="hidden_network" formatted="false">Nakatagong network</string>
+    <string name="format" formatted="false">Format</string>
+    <string name="date_hint" formatted="false">Format: 2026-12-31 18:30 (lokal na oras)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 o 13 digit. EAN-8: 7 o 8 digit. ITF: pares na bilang ng mga digit. Code 39: malalaking letrang Latin at mga digit.</string>
+    <string name="generate" formatted="false">Gumawa ng code</string>
+    <string name="private_hint" formatted="false">Walang ina-upload. Hindi kailangan ng account.</string>
+    <string name="invalid_input" formatted="false">Suriin ang mga field at format. Paikliin ang napakahabang teksto.</string>
+    <string name="collection_title" formatted="false">Lahat ay nasa tamang lugar.</string>
+    <string name="collection_hint" formatted="false">Mga code na gusto mong itago, laging kasama mo.</string>
+    <string name="search" formatted="false">Maghanap ng nilalaman o pangalan</string>
+    <string name="all" formatted="false">Lahat ng code</string>
+    <string name="favorites" formatted="false">Mga paborito</string>
+    <string name="created" formatted="false">Mga ginawa</string>
+    <string name="scanned" formatted="false">Mga na-scan</string>
+    <string name="empty_collection" formatted="false">Walang nahanap na code</string>
+    <string name="empty_collection_hint" formatted="false">Gumawa o mag-scan ng code, o subukan ang ibang paghahanap.</string>
+    <string name="your_code" formatted="false">Code mo</string>
+    <string name="result" formatted="false">May nahanap na code</string>
+    <string name="code_preview" formatted="false">Preview ng code</string>
+    <string name="preview_unavailable" formatted="false">Walang preview para sa nilalamang ito.</string>
+    <string name="show_content" formatted="false">Ipakita ang buong nilalaman</string>
+    <string name="copy" formatted="false">Kopyahin</string>
+    <string name="favorite" formatted="false">Idagdag sa mga paborito</string>
+    <string name="favorited" formatted="false">Nasa mga paborito</string>
+    <string name="color" formatted="false">Kaunting kulay</string>
+    <string name="sage" formatted="false">Berdeng sage</string>
+    <string name="lavender" formatted="false">Lavender</string>
+    <string name="cocoa" formatted="false">Kakaw</string>
+    <string name="ink" formatted="false">Tinta</string>
+    <string name="share_image" formatted="false">Ibahagi ang larawan</string>
+    <string name="save_png" formatted="false">I-save ang larawang PNG</string>
+    <string name="save_svg" formatted="false">I-save ang SVG vector</string>
+    <string name="share_text" formatted="false">Ibahagi ang nilalaman</string>
+    <string name="rename" formatted="false">Palitan ang pangalan</string>
+    <string name="delete" formatted="false">Burahin</string>
+    <string name="delete_confirm" formatted="false">Burahin ang code na ito?</string>
+    <string name="open_link" formatted="false">Buksan ang link</string>
+    <string name="connect_wifi" formatted="false">Buksan ang mga setting ng Wi-Fi</string>
+    <string name="add_contact" formatted="false">Idagdag sa mga contact</string>
+    <string name="add_event" formatted="false">Idagdag sa kalendaryo</string>
+    <string name="open_map" formatted="false">Buksan sa mapa</string>
+    <string name="dial" formatted="false">Buksan ang dialer</string>
+    <string name="compose" formatted="false">Sumulat ng mensahe</string>
+    <string name="wifi_connect_hint" formatted="false">Kokopyahin ang password. Piliin ang network sa mga setting ng Wi-Fi at i-paste ito.</string>
+    <string name="open_confirm" formatted="false">Suriin ang nilalaman bago buksan sa ibang app.</string>
+    <string name="continue_action" formatted="false">Magpatuloy</string>
+    <string name="settings_title" formatted="false">Iayon sa gusto mo.</string>
+    <string name="history_setting" formatted="false">Itago ang kasaysayan</string>
+    <string name="history_hint" formatted="false">Awtomatikong i-save ang mga bagong code sa telepono. Laging naka-save ang mga paborito.</string>
+    <string name="vibrate_setting" formatted="false">Mag-vibrate kapag nag-scan</string>
+    <string name="vibrate_hint" formatted="false">Banayad na pag-vibrate kapag may nakilalang code.</string>
+    <string name="privacy_title" formatted="false">Sa iyo lang ang mga code mo.</string>
+    <string name="privacy_body" formatted="false">Gumagana offline ang pag-scan at paggawa. Walang account, ad o pagsubaybay. Para lang sa pagbasa ng code ang kamera; hindi sine-save ang mga larawan. Nasa app ang kasaysayan at puwedeng burahin. Ikaw ang pipili kung magbabahagi o magbubukas ng ibang app.</string>
+    <string name="export_history" formatted="false">I-export ang kasaysayan</string>
+    <string name="export_history_hint" formatted="false">Kasama sa JSON file ang nilalaman ng mga code, pati mga password ng Wi-Fi. Piliin kung saan ito itatago.</string>
+    <string name="clear_history" formatted="false">Burahin ang koleksiyon</string>
+    <string name="clear_confirm" formatted="false">Burahin ang lahat ng naka-save na code, pati mga paborito? Mananatili ang mga na-export na file sa pinaglagyan mo.</string>
+    <string name="deleted" formatted="false">Nabura ang koleksiyon</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Binuo mula sa simula para sa Android. Magaan na interface at 40 wika.</string>
+    <string name="licenses" formatted="false">Mga lisensiya ng library</string>
+    <string name="scan_hint" formatted="false">Ilagay ang code sa frame. I-tap para mag-focus.</string>
+    <string name="zoom" formatted="false">Zoom</string>
+    <string name="flash" formatted="false">Flashlight</string>
+    <string name="flash_on" formatted="false">Bukas ang flashlight</string>
+    <string name="flash_off" formatted="false">Patay ang flashlight</string>
+    <string name="switch_camera" formatted="false">Palitan ang kamera</string>
+    <string name="batch" formatted="false">Sunod-sunod na pag-scan</string>
+    <string name="batch_count" formatted="false">Mga nakolektang code:</string>
+    <string name="camera_permission" formatted="false">Payagan ang kamera</string>
+    <string name="permission_hint" formatted="false">Payagan ang kamera sa mga setting ng app para mag-scan. Puwede ka pa ring mag-import ng larawan mula sa home screen.</string>
+    <string name="camera_error" formatted="false">Hindi magamit ang kamera. Bumalik at subukan muli, o mag-import ng larawan.</string>
+    <string name="unavailable" formatted="false">Hindi available ang tampok na ito sa device na ito.</string>
+    <string name="no_code" formatted="false">Walang nakilalang code. Subukan ang mas malinaw na larawan.</string>
+    <string name="choose_code" formatted="false">Pumili ng code</string>
+    <string name="reading_image" formatted="false">Binabasa ang larawan…</string>
+    <string name="image_error" formatted="false">Hindi mabasa ang larawan. Subukan ang PNG o JPEG file.</string>
+    <string name="export_error" formatted="false">Hindi na-export. Suriin ang bakanteng espasyo o pumili ng ibang folder.</string>
+    <string name="saved" formatted="false">Na-save ang file</string>
+    <string name="copied" formatted="false">Nakopya sa clipboard</string>
+    <string name="no_handler" formatted="false">Walang app para sa pagkilos na ito.</string>
+</resources>

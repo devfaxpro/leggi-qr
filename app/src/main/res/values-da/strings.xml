@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Scan. Opret. Gem.</string>
+    <string name="scan" formatted="false">Scan</string>
+    <string name="create" formatted="false">Opret</string>
+    <string name="collection" formatted="false">Samling</string>
+    <string name="settings" formatted="false">Indstillinger</string>
+    <string name="language" formatted="false">Sprog</string>
+    <string name="system_language" formatted="false">Følg systemet</string>
+    <string name="back" formatted="false">Tilbage</string>
+    <string name="close" formatted="false">Luk</string>
+    <string name="cancel" formatted="false">Annuller</string>
+    <string name="save" formatted="false">Gem</string>
+    <string name="done" formatted="false">Afslut scanning</string>
+    <string name="offline_badge" formatted="false">ENKELT. PRIVAT. OFFLINE.</string>
+    <string name="hero_title" formatted="false">En lille kode.\nMange muligheder.</string>
+    <string name="hero_subtitle" formatted="false">Links, idéer og kontakter. Kun en scanning væk.</string>
+    <string name="scan_now" formatted="false">Scan en kode</string>
+    <string name="import_image" formatted="false">Importér fra billede</string>
+    <string name="quick_create" formatted="false">Hurtig oprettelse</string>
+    <string name="view_all" formatted="false">Se alle</string>
+    <string name="recent" formatted="false">Dine seneste koder</string>
+    <string name="empty_recent" formatted="false">Din næste kode venter</string>
+    <string name="empty_recent_hint" formatted="false">Scan eller opret en kode, så vises den her.</string>
+    <string name="create_title" formatted="false">Giv dine idéer en kode.</string>
+    <string name="create_hint" formatted="false">Vælg, hvad du vil dele.</string>
+    <string name="url" formatted="false">Link</string>
+    <string name="text" formatted="false">Tekst</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Kontakt</string>
+    <string name="email" formatted="false">E-mail</string>
+    <string name="sms" formatted="false">Besked</string>
+    <string name="phone" formatted="false">Telefon</string>
+    <string name="location" formatted="false">Placering</string>
+    <string name="event" formatted="false">Begivenhed</string>
+    <string name="barcode" formatted="false">Stregkode</string>
+    <string name="url_hint" formatted="false">Et websted, en side eller profil</string>
+    <string name="text_hint" formatted="false">Ord, noter og idéer</string>
+    <string name="wifi_hint" formatted="false">Del adgang til et netværk</string>
+    <string name="contact_hint" formatted="false">Et digitalt visitkort</string>
+    <string name="email_hint" formatted="false">Adresse, emne og besked</string>
+    <string name="sms_hint" formatted="false">Forbered en sms</string>
+    <string name="phone_hint" formatted="false">Et nummer at ringe til</string>
+    <string name="location_hint" formatted="false">Et præcist punkt på kortet</string>
+    <string name="event_hint" formatted="false">En begivenhed til kalenderen</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec og flere</string>
+    <string name="form_hint" formatted="false">Udfyld oplysningerne. Koden oprettes på din telefon.</string>
+    <string name="url_field" formatted="false">Webadresse</string>
+    <string name="network" formatted="false">Netværksnavn</string>
+    <string name="password" formatted="false">Adgangskode</string>
+    <string name="name" formatted="false">Fulde navn</string>
+    <string name="phone_field" formatted="false">Telefonnummer</string>
+    <string name="email_field" formatted="false">E-mailadresse</string>
+    <string name="company" formatted="false">Virksomhed</string>
+    <string name="website" formatted="false">Websted</string>
+    <string name="subject" formatted="false">Emne</string>
+    <string name="message" formatted="false">Besked</string>
+    <string name="latitude" formatted="false">Breddegrad</string>
+    <string name="longitude" formatted="false">Længdegrad</string>
+    <string name="event_title" formatted="false">Begivenhedens titel</string>
+    <string name="start" formatted="false">Start</string>
+    <string name="end" formatted="false">Slut</string>
+    <string name="place" formatted="false">Sted</string>
+    <string name="content" formatted="false">Indhold</string>
+    <string name="security" formatted="false">Netværkssikkerhed</string>
+    <string name="open_network" formatted="false">Åbent netværk</string>
+    <string name="hidden_network" formatted="false">Skjult netværk</string>
+    <string name="format" formatted="false">Format</string>
+    <string name="date_hint" formatted="false">Format: 2026-12-31 18:30 (lokal tid)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 eller 13 cifre. EAN-8: 7 eller 8 cifre. ITF: lige antal cifre. Code 39: store bogstaver og cifre.</string>
+    <string name="generate" formatted="false">Opret kode</string>
+    <string name="private_hint" formatted="false">Ingen uploads. Ingen konto nødvendig.</string>
+    <string name="invalid_input" formatted="false">Kontrollér felterne og formatet. Forkort for lang tekst.</string>
+    <string name="collection_title" formatted="false">Alt på sin plads.</string>
+    <string name="collection_hint" formatted="false">De koder, du vil gemme, altid med dig.</string>
+    <string name="search" formatted="false">Søg efter indhold eller navn</string>
+    <string name="all" formatted="false">Alle koder</string>
+    <string name="favorites" formatted="false">Favoritter</string>
+    <string name="created" formatted="false">Oprettede</string>
+    <string name="scanned" formatted="false">Scannede</string>
+    <string name="empty_collection" formatted="false">Ingen koder fundet</string>
+    <string name="empty_collection_hint" formatted="false">Opret eller scan en kode, eller prøv en anden søgning.</string>
+    <string name="your_code" formatted="false">Din kode</string>
+    <string name="result" formatted="false">Kode fundet</string>
+    <string name="code_preview" formatted="false">Forhåndsvisning af kode</string>
+    <string name="preview_unavailable" formatted="false">Indholdet kan ikke forhåndsvises.</string>
+    <string name="show_content" formatted="false">Vis alt indhold</string>
+    <string name="copy" formatted="false">Kopiér</string>
+    <string name="favorite" formatted="false">Favorit</string>
+    <string name="favorited" formatted="false">Gemt som favorit</string>
+    <string name="color" formatted="false">Et strejf af farve</string>
+    <string name="sage" formatted="false">Salviegrøn</string>
+    <string name="lavender" formatted="false">Lavendel</string>
+    <string name="cocoa" formatted="false">Kakao</string>
+    <string name="ink" formatted="false">Blæk</string>
+    <string name="share_image" formatted="false">Del billede</string>
+    <string name="save_png" formatted="false">Gem PNG-billede</string>
+    <string name="save_svg" formatted="false">Gem SVG-vektor</string>
+    <string name="share_text" formatted="false">Del indhold</string>
+    <string name="rename" formatted="false">Omdøb</string>
+    <string name="delete" formatted="false">Slet</string>
+    <string name="delete_confirm" formatted="false">Slet denne kode?</string>
+    <string name="open_link" formatted="false">Åbn link</string>
+    <string name="connect_wifi" formatted="false">Åbn Wi-Fi-indstillinger</string>
+    <string name="add_contact" formatted="false">Føj til kontakter</string>
+    <string name="add_event" formatted="false">Føj til kalender</string>
+    <string name="open_map" formatted="false">Åbn i kort</string>
+    <string name="dial" formatted="false">Åbn opkaldstastatur</string>
+    <string name="compose" formatted="false">Skriv besked</string>
+    <string name="wifi_connect_hint" formatted="false">Adgangskoden kopieres. Vælg netværket i Wi-Fi-indstillingerne, og indsæt den.</string>
+    <string name="open_confirm" formatted="false">Kontrollér indholdet, før du åbner det i en anden app.</string>
+    <string name="continue_action" formatted="false">Fortsæt</string>
+    <string name="settings_title" formatted="false">På din måde.</string>
+    <string name="history_setting" formatted="false">Gem historik</string>
+    <string name="history_hint" formatted="false">Gem nye koder automatisk på telefonen. Favoritter gemmes altid.</string>
+    <string name="vibrate_setting" formatted="false">Vibrér ved scanning</string>
+    <string name="vibrate_hint" formatted="false">Et diskret signal, når en kode genkendes.</string>
+    <string name="privacy_title" formatted="false">Dine koder forbliver dine.</string>
+    <string name="privacy_body" formatted="false">Scanning og oprettelse virker offline. Ingen konto, reklamer eller sporing. Kameraet læser kun koder; billeder gemmes ikke. Historikken bliver i appen og kan slettes. Du vælger selv deling og brug af andre apps.</string>
+    <string name="export_history" formatted="false">Eksportér historik</string>
+    <string name="export_history_hint" formatted="false">JSON-filen indeholder kodernes indhold, også Wi-Fi-adgangskoder. Vælg en gemmeplacering.</string>
+    <string name="clear_history" formatted="false">Ryd samlingen</string>
+    <string name="clear_confirm" formatted="false">Slet alle gemte koder, også favoritter? Eksporterede filer bliver, hvor du gemte dem.</string>
+    <string name="deleted" formatted="false">Samlingen ryddet</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Bygget fra bunden til Android. En lys brugerflade på 40 sprog.</string>
+    <string name="licenses" formatted="false">Bibliotekslicenser</string>
+    <string name="scan_hint" formatted="false">Indram koden. Tryk for at fokusere.</string>
+    <string name="zoom" formatted="false">Zoom</string>
+    <string name="flash" formatted="false">Lommelygte</string>
+    <string name="flash_on" formatted="false">Lommelygte tændt</string>
+    <string name="flash_off" formatted="false">Lommelygte slukket</string>
+    <string name="switch_camera" formatted="false">Skift kamera</string>
+    <string name="batch" formatted="false">Scan flere koder</string>
+    <string name="batch_count" formatted="false">Indsamlede koder:</string>
+    <string name="camera_permission" formatted="false">Tillad kameraadgang</string>
+    <string name="permission_hint" formatted="false">Aktivér kameraet i appindstillingerne for at scanne. Du kan stadig importere billeder fra startskærmen.</string>
+    <string name="camera_error" formatted="false">Kameraet er utilgængeligt. Gå tilbage og prøv igen, eller importér et billede.</string>
+    <string name="unavailable" formatted="false">Funktionen er ikke tilgængelig på denne enhed.</string>
+    <string name="no_code" formatted="false">Ingen kode genkendt. Prøv et tydeligere billede.</string>
+    <string name="choose_code" formatted="false">Vælg en kode</string>
+    <string name="reading_image" formatted="false">Læser billede…</string>
+    <string name="image_error" formatted="false">Billedet kan ikke læses. Prøv PNG eller JPEG.</string>
+    <string name="export_error" formatted="false">Eksport mislykkedes. Kontrollér ledig plads, eller vælg en anden mappe.</string>
+    <string name="saved" formatted="false">Filen er gemt</string>
+    <string name="copied" formatted="false">Kopieret til udklipsholder</string>
+    <string name="no_handler" formatted="false">Ingen app kan udføre denne handling.</string>
+</resources>

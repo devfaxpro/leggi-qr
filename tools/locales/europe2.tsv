@@ -1,0 +1,144 @@
+key|sv|da|fi|nb|el
+tagline|Skanna. Skapa. Spara.|Scan. Opret. Gem.|Skannaa. Luo. Tallenna.|Skann. Opprett. Behold.|Σάρωσε. Δημιούργησε. Αποθήκευσε.
+scan|Skanna|Scan|Skannaa|Skann|Σάρωση
+create|Skapa|Opret|Luo|Opprett|Δημιουργία
+collection|Samling|Samling|Kokoelma|Samling|Συλλογή
+settings|Inställningar|Indstillinger|Asetukset|Innstillinger|Ρυθμίσεις
+language|Språk|Sprog|Kieli|Språk|Γλώσσα
+system_language|Följ systemet|Følg systemet|Järjestelmän kieli|Følg systemet|Γλώσσα συστήματος
+back|Tillbaka|Tilbage|Takaisin|Tilbake|Πίσω
+close|Stäng|Luk|Sulje|Lukk|Κλείσιμο
+cancel|Avbryt|Annuller|Peruuta|Avbryt|Ακύρωση
+save|Spara|Gem|Tallenna|Lagre|Αποθήκευση
+done|Avsluta skanning|Afslut scanning|Lopeta skannaus|Avslutt skanning|Τέλος σάρωσης
+offline_badge|ENKELT. PRIVAT. OFFLINE.|ENKELT. PRIVAT. OFFLINE.|HELPPO. YKSITYINEN. OFFLINE.|ENKELT. PRIVAT. OFFLINE.|ΑΠΛΑ. ΙΔΙΩΤΙΚΑ. ΕΚΤΟΣ ΣΥΝΔΕΣΗΣ.
+hero_title|En liten kod.\nMånga möjligheter.|En lille kode.\nMange muligheder.|Pieni koodi.\nPaljon mahdollisuuksia.|En liten kode.\nMange muligheter.|Ένας μικρός κωδικός.\nΠολλές δυνατότητες.
+hero_subtitle|Länkar, idéer och kontakter. Bara en skanning bort.|Links, idéer og kontakter. Kun en scanning væk.|Linkit, ideat ja yhteydet. Vain skannauksen päässä.|Lenker, ideer og kontakter. Bare en skanning unna.|Σύνδεσμοι, ιδέες και επαφές. Μόλις μια σάρωση μακριά.
+scan_now|Skanna en kod|Scan en kode|Skannaa koodi|Skann en kode|Σάρωση κωδικού
+import_image|Importera från bild|Importér fra billede|Tuo kuvasta|Importer fra bilde|Εισαγωγή από εικόνα
+quick_create|Skapa snabbt|Hurtig oprettelse|Pikaluonti|Hurtigoppretting|Γρήγορη δημιουργία
+view_all|Visa alla|Se alle|Näytä kaikki|Se alle|Προβολή όλων
+recent|Dina senaste koder|Dine seneste koder|Viimeisimmät koodisi|Dine siste koder|Πρόσφατοι κωδικοί
+empty_recent|Din nästa kod väntar|Din næste kode venter|Seuraava koodisi odottaa|Din neste kode venter|Ο επόμενος κωδικός σε περιμένει
+empty_recent_hint|Skanna eller skapa en kod så visas den här.|Scan eller opret en kode, så vises den her.|Skannaa tai luo koodi, niin löydät sen täältä.|Skann eller opprett en kode, så vises den her.|Σάρωσε ή δημιούργησε έναν κωδικό για να εμφανιστεί εδώ.
+create_title|Ge dina idéer en kod.|Giv dine idéer en kode.|Anna ideoillesi koodi.|Gi ideene dine en kode.|Δώσε στις ιδέες σου έναν κωδικό.
+create_hint|Välj vad du vill dela.|Vælg, hvad du vil dele.|Valitse, mitä haluat jakaa.|Velg hva du vil dele.|Διάλεξε τι θέλεις να μοιραστείς.
+url|Länk|Link|Linkki|Lenke|Σύνδεσμος
+text|Text|Tekst|Teksti|Tekst|Κείμενο
+contact|Kontakt|Kontakt|Yhteystieto|Kontakt|Επαφή
+email|E-post|E-mail|Sähköposti|E-post|Email
+sms|Meddelande|Besked|Viesti|Melding|Μήνυμα
+phone|Telefon|Telefon|Puhelin|Telefon|Τηλέφωνο
+location|Plats|Placering|Sijainti|Posisjon|Τοποθεσία
+event|Händelse|Begivenhed|Tapahtuma|Hendelse|Συμβάν
+barcode|Streckkod|Stregkode|Viivakoodi|Strekkode|Γραμμωτός κώδικας
+url_hint|En webbplats, sida eller profil|Et websted, en side eller profil|Verkkosivusto, sivu tai profiili|Et nettsted, en side eller profil|Ιστότοπος, σελίδα ή προφίλ
+text_hint|Ord, anteckningar och idéer|Ord, noter og idéer|Sanoja, muistiinpanoja ja ideoita|Ord, notater og ideer|Λέξεις, σημειώσεις και ιδέες
+wifi_hint|Dela åtkomst till ett nätverk|Del adgang til et netværk|Jaa verkkoyhteys|Del tilgang til et nettverk|Κοινή χρήση πρόσβασης σε δίκτυο
+contact_hint|Ett digitalt visitkort|Et digitalt visitkort|Digitaalinen käyntikortti|Et digitalt visittkort|Ψηφιακή επαγγελματική κάρτα
+email_hint|Adress, ämne och meddelande|Adresse, emne og besked|Osoite, aihe ja viesti|Adresse, emne og melding|Διεύθυνση, θέμα και μήνυμα
+sms_hint|Förbered ett sms|Forbered en sms|Valmistele tekstiviesti|Klargjør en SMS|Προετοιμασία SMS
+phone_hint|Ett nummer att ringa|Et nummer at ringe til|Numero, johon soittaa|Et nummer å ringe|Αριθμός για κλήση
+location_hint|En exakt punkt på kartan|Et præcist punkt på kortet|Tarkka paikka kartalla|Et nøyaktig punkt på kartet|Ακριβές σημείο στον χάρτη
+event_hint|En händelse i kalendern|En begivenhed til kalenderen|Tapahtuma kalenteriin|En hendelse til kalenderen|Συμβάν για το ημερολόγιο
+barcode_hint|EAN, Code 128, Aztec med flera|EAN, Code 128, Aztec og flere|EAN, Code 128, Aztec ja muita|EAN, Code 128, Aztec og flere|EAN, Code 128, Aztec και άλλα
+form_hint|Fyll i uppgifterna. Koden skapas på din telefon.|Udfyld oplysningerne. Koden oprettes på din telefon.|Anna tiedot. Koodi luodaan puhelimessasi.|Fyll inn opplysningene. Koden lages på telefonen din.|Συμπλήρωσε τα στοιχεία. Ο κωδικός δημιουργείται στο τηλέφωνό σου.
+url_field|Webbadress|Webadresse|Verkko-osoite|Nettadresse|Διεύθυνση ιστού
+network|Nätverksnamn|Netværksnavn|Verkon nimi|Nettverksnavn|Όνομα δικτύου
+password|Lösenord|Adgangskode|Salasana|Passord|Κωδικός πρόσβασης
+name|Fullständigt namn|Fulde navn|Koko nimi|Fullt navn|Ονοματεπώνυμο
+phone_field|Telefonnummer|Telefonnummer|Puhelinnumero|Telefonnummer|Αριθμός τηλεφώνου
+email_field|E-postadress|E-mailadresse|Sähköpostiosoite|E-postadresse|Διεύθυνση email
+company|Företag|Virksomhed|Yritys|Firma|Εταιρεία
+website|Webbplats|Websted|Verkkosivusto|Nettsted|Ιστότοπος
+subject|Ämne|Emne|Aihe|Emne|Θέμα
+message|Meddelande|Besked|Viesti|Melding|Μήνυμα
+latitude|Latitud|Breddegrad|Leveysaste|Breddegrad|Γεωγραφικό πλάτος
+longitude|Longitud|Længdegrad|Pituusaste|Lengdegrad|Γεωγραφικό μήκος
+event_title|Händelsens namn|Begivenhedens titel|Tapahtuman nimi|Hendelsens tittel|Τίτλος συμβάντος
+start|Start|Start|Alku|Start|Έναρξη
+end|Slut|Slut|Loppu|Slutt|Λήξη
+place|Plats|Sted|Paikka|Sted|Χώρος
+content|Innehåll|Indhold|Sisältö|Innhold|Περιεχόμενο
+security|Nätverkssäkerhet|Netværkssikkerhed|Verkon suojaus|Nettverkssikkerhet|Ασφάλεια δικτύου
+open_network|Öppet nätverk|Åbent netværk|Avoin verkko|Åpent nettverk|Ανοιχτό δίκτυο
+hidden_network|Dolt nätverk|Skjult netværk|Piilotettu verkko|Skjult nettverk|Κρυφό δίκτυο
+format|Format|Format|Muoto|Format|Μορφή
+date_hint|Format: 2026-12-31 18:30 (lokal tid)|Format: 2026-12-31 18:30 (lokal tid)|Muoto: 2026-12-31 18:30 (paikallinen aika)|Format: 2026-12-31 18:30 (lokal tid)|Μορφή: 2026-12-31 18:30 (τοπική ώρα)
+barcode_help|EAN-13: 12 eller 13 siffror. EAN-8: 7 eller 8 siffror. ITF: jämnt antal siffror. Code 39: versaler och siffror.|EAN-13: 12 eller 13 cifre. EAN-8: 7 eller 8 cifre. ITF: lige antal cifre. Code 39: store bogstaver og cifre.|EAN-13: 12 tai 13 numeroa. EAN-8: 7 tai 8 numeroa. ITF: parillinen määrä numeroita. Code 39: isot kirjaimet ja numerot.|EAN-13: 12 eller 13 sifre. EAN-8: 7 eller 8 sifre. ITF: partall antall sifre. Code 39: store bokstaver og sifre.|EAN-13: 12 ή 13 ψηφία. EAN-8: 7 ή 8 ψηφία. ITF: άρτιος αριθμός ψηφίων. Code 39: κεφαλαία γράμματα και ψηφία.
+generate|Skapa kod|Opret kode|Luo koodi|Opprett kode|Δημιουργία κωδικού
+private_hint|Inga uppladdningar. Inget konto behövs.|Ingen uploads. Ingen konto nødvendig.|Ei latauksia palvelimelle. Ei tiliä.|Ingen opplasting. Ingen konto nødvendig.|Χωρίς μεταφόρτωση δεδομένων ή λογαριασμό.
+invalid_input|Kontrollera fälten och formatet. Korta ner för lång text.|Kontrollér felterne og formatet. Forkort for lang tekst.|Tarkista kentät ja muoto. Lyhennä liian pitkää tekstiä.|Kontroller feltene og formatet. Forkort for lang tekst.|Έλεγξε τα πεδία και τη μορφή. Συντόμευσε το πολύ μεγάλο κείμενο.
+collection_title|Allt på sin plats.|Alt på sin plads.|Kaikki paikoillaan.|Alt på sin plass.|Όλα στη θέση τους.
+collection_hint|Koderna du vill spara, alltid med dig.|De koder, du vil gemme, altid med dig.|Tallennetut koodisi aina mukanasi.|Kodene du vil beholde, alltid med deg.|Οι κωδικοί που θέλεις να κρατήσεις, πάντα μαζί σου.
+search|Sök efter innehåll eller namn|Søg efter indhold eller navn|Hae sisältöä tai nimeä|Søk etter innhold eller navn|Αναζήτηση περιεχομένου ή ονόματος
+all|Alla koder|Alle koder|Kaikki koodit|Alle koder|Όλοι οι κωδικοί
+favorites|Favoriter|Favoritter|Suosikit|Favoritter|Αγαπημένα
+created|Skapade|Oprettede|Luodut|Opprettet|Δημιουργημένοι
+scanned|Skannade|Scannede|Skannatut|Skannet|Σαρωμένοι
+empty_collection|Inga koder hittades|Ingen koder fundet|Koodeja ei löytynyt|Ingen koder funnet|Δεν βρέθηκαν κωδικοί
+empty_collection_hint|Skapa eller skanna en kod, eller ändra sökningen.|Opret eller scan en kode, eller prøv en anden søgning.|Luo tai skannaa koodi tai muuta hakua.|Opprett eller skann en kode, eller endre søket.|Δημιούργησε ή σάρωσε κωδικό ή δοκίμασε άλλη αναζήτηση.
+your_code|Din kod|Din kode|Oma koodisi|Din kode|Ο κωδικός σου
+result|Kod hittad|Kode fundet|Koodi löytyi|Kode funnet|Βρέθηκε κωδικός
+code_preview|Förhandsvisning av kod|Forhåndsvisning af kode|Koodin esikatselu|Forhåndsvisning av kode|Προεπισκόπηση κωδικού
+preview_unavailable|Förhandsvisning saknas för detta innehåll.|Indholdet kan ikke forhåndsvises.|Sisällön esikatselu ei ole käytettävissä.|Innholdet kan ikke forhåndsvises.|Δεν διατίθεται προεπισκόπηση για αυτό το περιεχόμενο.
+show_content|Visa hela innehållet|Vis alt indhold|Näytä koko sisältö|Vis alt innhold|Προβολή πλήρους περιεχομένου
+copy|Kopiera|Kopiér|Kopioi|Kopier|Αντιγραφή
+favorite|Favorit|Favorit|Suosikiksi|Favoritt|Στα αγαπημένα
+favorited|Sparad som favorit|Gemt som favorit|Suosikeissa|Lagret som favoritt|Στα αγαπημένα
+color|En färgklick|Et strejf af farve|Ripaus väriä|Et snev av farge|Μια πινελιά χρώματος
+sage|Salviagrön|Salviegrøn|Salvianvihreä|Salviegrønn|Φασκόμηλο
+lavender|Lavendel|Lavendel|Laventeli|Lavendel|Λεβάντα
+cocoa|Kakao|Kakao|Kaakao|Kakao|Κακάο
+ink|Bläck|Blæk|Muste|Blekk|Μελάνι
+share_image|Dela bild|Del billede|Jaa kuva|Del bilde|Κοινή χρήση εικόνας
+save_png|Spara PNG-bild|Gem PNG-billede|Tallenna PNG-kuva|Lagre PNG-bilde|Αποθήκευση εικόνας PNG
+save_svg|Spara SVG-vektor|Gem SVG-vektor|Tallenna SVG-vektori|Lagre SVG-vektor|Αποθήκευση SVG
+share_text|Dela innehåll|Del indhold|Jaa sisältö|Del innhold|Κοινή χρήση περιεχομένου
+rename|Byt namn|Omdøb|Nimeä uudelleen|Gi nytt navn|Μετονομασία
+delete|Radera|Slet|Poista|Slett|Διαγραφή
+delete_confirm|Radera den här koden?|Slet denne kode?|Poistetaanko tämä koodi?|Slette denne koden?|Διαγραφή αυτού του κωδικού;
+open_link|Öppna länk|Åbn link|Avaa linkki|Åpne lenke|Άνοιγμα συνδέσμου
+connect_wifi|Öppna Wi-Fi-inställningar|Åbn Wi-Fi-indstillinger|Avaa Wi-Fi-asetukset|Åpne Wi-Fi-innstillinger|Άνοιγμα ρυθμίσεων Wi-Fi
+add_contact|Lägg till i kontakter|Føj til kontakter|Lisää yhteystietoihin|Legg til i kontakter|Προσθήκη στις επαφές
+add_event|Lägg till i kalender|Føj til kalender|Lisää kalenteriin|Legg til i kalender|Προσθήκη στο ημερολόγιο
+open_map|Öppna i kartor|Åbn i kort|Avaa kartoissa|Åpne i kart|Άνοιγμα στους χάρτες
+dial|Öppna telefonappen|Åbn opkaldstastatur|Avaa numerovalitsin|Åpne talltastaturet|Άνοιγμα πληκτρολογίου κλήσης
+compose|Skriv meddelande|Skriv besked|Kirjoita viesti|Skriv melding|Σύνταξη μηνύματος
+wifi_connect_hint|Lösenordet kopieras. Välj nätverket i Wi-Fi-inställningarna och klistra in det.|Adgangskoden kopieres. Vælg netværket i Wi-Fi-indstillingerne, og indsæt den.|Salasana kopioidaan. Valitse verkko Wi-Fi-asetuksissa ja liitä salasana.|Passordet kopieres. Velg nettverket i Wi-Fi-innstillingene, og lim det inn.|Ο κωδικός πρόσβασης θα αντιγραφεί. Διάλεξε το δίκτυο στις ρυθμίσεις Wi-Fi και επικόλλησέ τον.
+open_confirm|Kontrollera innehållet innan du öppnar det i en annan app.|Kontrollér indholdet, før du åbner det i en anden app.|Tarkista sisältö ennen avaamista toisessa sovelluksessa.|Kontroller innholdet før du åpner det i en annen app.|Έλεγξε το περιεχόμενο πριν το ανοίξεις σε άλλη εφαρμογή.
+continue_action|Fortsätt|Fortsæt|Jatka|Fortsett|Συνέχεια
+settings_title|På ditt sätt.|På din måde.|Sinun tavallasi.|På din måte.|Στα μέτρα σου.
+history_setting|Spara historik|Gem historik|Säilytä historia|Behold historikk|Διατήρηση ιστορικού
+history_hint|Spara nya koder automatiskt på telefonen. Favoriter sparas alltid.|Gem nye koder automatisk på telefonen. Favoritter gemmes altid.|Tallenna uudet koodit automaattisesti puhelimeen. Suosikit tallennetaan aina.|Lagre nye koder automatisk på telefonen. Favoritter lagres alltid.|Αυτόματη αποθήκευση νέων κωδικών στο τηλέφωνο. Τα αγαπημένα αποθηκεύονται πάντα.
+vibrate_setting|Vibrera vid skanning|Vibrér ved scanning|Värinä skannattaessa|Vibrer ved skanning|Δόνηση κατά τη σάρωση
+vibrate_hint|En diskret signal när en kod känns igen.|Et diskret signal, når en kode genkendes.|Hienovarainen merkki, kun koodi tunnistetaan.|Et diskret signal når en kode gjenkjennes.|Μια διακριτική ένδειξη όταν αναγνωρίζεται κωδικός.
+privacy_title|Dina koder förblir dina.|Dine koder forbliver dine.|Koodisi pysyvät ominasi.|Kodene dine forblir dine.|Οι κωδικοί σου μένουν δικοί σου.
+privacy_body|Skanning och skapande fungerar offline. Inga konton, annonser eller spårning. Kameran läser bara koder; bilder sparas inte. Historiken stannar i appen och kan raderas. Du väljer om du vill dela eller öppna andra appar.|Scanning og oprettelse virker offline. Ingen konto, reklamer eller sporing. Kameraet læser kun koder; billeder gemmes ikke. Historikken bliver i appen og kan slettes. Du vælger selv deling og brug af andre apps.|Skannaus ja luonti toimivat offline-tilassa. Ei tiliä, mainoksia tai seurantaa. Kamera vain lukee koodit; kuvia ei tallenneta. Historia säilyy sovelluksessa ja sen voi poistaa. Päätät itse jakamisesta ja muiden sovellusten käytöstä.|Skanning og oppretting fungerer offline. Ingen konto, reklame eller sporing. Kameraet leser bare koder; bilder lagres ikke. Historikken blir i appen og kan slettes. Du velger selv deling og bruk av andre apper.|Η σάρωση και η δημιουργία λειτουργούν εκτός σύνδεσης. Χωρίς λογαριασμό, διαφημίσεις ή παρακολούθηση. Η κάμερα διαβάζει μόνο κωδικούς· οι εικόνες δεν αποθηκεύονται. Το ιστορικό μένει στην εφαρμογή και διαγράφεται όποτε θέλεις. Εσύ επιλέγεις την κοινή χρήση και τις άλλες εφαρμογές.
+export_history|Exportera historik|Eksportér historik|Vie historia|Eksporter historikk|Εξαγωγή ιστορικού
+export_history_hint|JSON-filen innehåller kodernas innehåll, även Wi-Fi-lösenord. Välj var den ska sparas.|JSON-filen indeholder kodernes indhold, også Wi-Fi-adgangskoder. Vælg en gemmeplacering.|JSON-tiedosto sisältää koodien tiedot, myös Wi-Fi-salasanat. Valitse tallennuspaikka.|JSON-filen inneholder kodenes innhold, også Wi-Fi-passord. Velg lagringssted.|Το αρχείο JSON περιέχει τα δεδομένα των κωδικών, μαζί με τυχόν κωδικούς Wi-Fi. Διάλεξε πού θα αποθηκευτεί.
+clear_history|Töm samlingen|Ryd samlingen|Tyhjennä kokoelma|Tøm samlingen|Εκκαθάριση συλλογής
+clear_confirm|Radera alla sparade koder, även favoriter? Exporterade filer finns kvar där du sparade dem.|Slet alle gemte koder, også favoritter? Eksporterede filer bliver, hvor du gemte dem.|Poistetaanko kaikki tallennetut koodit, myös suosikit? Viedyt tiedostot jäävät tallennuspaikkoihinsa.|Slette alle lagrede koder, også favoritter? Eksporterte filer blir der du lagret dem.|Διαγραφή όλων των κωδικών, μαζί με τα αγαπημένα; Τα εξαγόμενα αρχεία παραμένουν εκεί όπου τα αποθήκευσες.
+deleted|Samlingen tömd|Samlingen ryddet|Kokoelma tyhjennetty|Samlingen tømt|Η συλλογή εκκαθαρίστηκε
+about_body|Byggd från grunden för Android. Ett ljust gränssnitt på 40 språk.|Bygget fra bunden til Android. En lys brugerflade på 40 sprog.|Tehty alusta alkaen Androidille. Vaalea käyttöliittymä 40 kielellä.|Bygget fra bunnen for Android. Et lyst grensesnitt på 40 språk.|Δημιουργήθηκε από την αρχή για Android. Φωτεινό περιβάλλον σε 40 γλώσσες.
+licenses|Bibliotekslicenser|Bibliotekslicenser|Kirjastojen lisenssit|Biblioteklisenser|Άδειες βιβλιοθηκών
+scan_hint|Rikta kameran mot koden. Tryck för att fokusera.|Indram koden. Tryk for at fokusere.|Kohdista koodiin. Tarkenna napauttamalla.|Rett kameraet mot koden. Trykk for å fokusere.|Στρέψε την κάμερα στον κωδικό. Πάτησε για εστίαση.
+zoom|Zoom|Zoom|Zoomaus|Zoom|Μεγέθυνση
+flash|Ficklampa|Lommelygte|Taskulamppu|Lommelykt|Φακός
+flash_on|Ficklampan på|Lommelygte tændt|Taskulamppu päällä|Lommelykt på|Ο φακός άναψε
+flash_off|Ficklampan av|Lommelygte slukket|Taskulamppu pois|Lommelykt av|Ο φακός έσβησε
+switch_camera|Byt kamera|Skift kamera|Vaihda kameraa|Bytt kamera|Αλλαγή κάμερας
+batch|Skanna flera koder|Scan flere koder|Usean koodin skannaus|Skann flere koder|Πολλαπλή σάρωση
+batch_count|Samlade koder:|Indsamlede koder:|Kerätyt koodit:|Samlede koder:|Κωδικοί που συλλέχθηκαν:
+camera_permission|Tillåt kameraåtkomst|Tillad kameraadgang|Salli kameran käyttö|Tillat kameratilgang|Να επιτρέπεται η κάμερα
+permission_hint|Aktivera kameran i appinställningarna för att skanna. Du kan fortfarande importera bilder från startsidan.|Aktivér kameraet i appindstillingerne for at scanne. Du kan stadig importere billeder fra startskærmen.|Salli kamera sovelluksen asetuksissa skannausta varten. Voit yhä tuoda kuvia aloitusnäkymästä.|Aktiver kameraet i appinnstillingene for å skanne. Du kan fortsatt importere bilder fra startsiden.|Ενεργοποίησε την κάμερα στις ρυθμίσεις της εφαρμογής για σάρωση. Μπορείς ακόμα να εισάγεις εικόνες από την αρχική οθόνη.
+camera_error|Kameran är inte tillgänglig. Gå tillbaka och försök igen eller importera en bild.|Kameraet er utilgængeligt. Gå tilbage og prøv igen, eller importér et billede.|Kamera ei ole käytettävissä. Palaa ja yritä uudelleen tai tuo kuva.|Kameraet er utilgjengelig. Gå tilbake og prøv igjen, eller importer et bilde.|Η κάμερα δεν είναι διαθέσιμη. Επέστρεψε και δοκίμασε ξανά ή εισήγαγε εικόνα.
+unavailable|Funktionen är inte tillgänglig på enheten.|Funktionen er ikke tilgængelig på denne enhed.|Toiminto ei ole käytettävissä tällä laitteella.|Funksjonen er ikke tilgjengelig på denne enheten.|Αυτή η λειτουργία δεν είναι διαθέσιμη στη συσκευή.
+no_code|Ingen kod kändes igen. Prova en tydligare bild.|Ingen kode genkendt. Prøv et tydeligere billede.|Koodia ei tunnistettu. Kokeile selkeämpää kuvaa.|Ingen kode gjenkjent. Prøv et tydeligere bilde.|Δεν αναγνωρίστηκε κωδικός. Δοκίμασε καθαρότερη εικόνα.
+choose_code|Välj en kod|Vælg en kode|Valitse koodi|Velg en kode|Επιλογή κωδικού
+reading_image|Läser bilden…|Læser billede…|Luetaan kuvaa…|Leser bilde…|Ανάγνωση εικόνας…
+image_error|Bilden kan inte läsas. Prova PNG eller JPEG.|Billedet kan ikke læses. Prøv PNG eller JPEG.|Kuvaa ei voi lukea. Kokeile PNG- tai JPEG-tiedostoa.|Bildet kan ikke leses. Prøv PNG eller JPEG.|Δεν είναι δυνατή η ανάγνωση της εικόνας. Δοκίμασε PNG ή JPEG.
+export_error|Exporten misslyckades. Kontrollera ledigt utrymme eller välj en annan mapp.|Eksport mislykkedes. Kontrollér ledig plads, eller vælg en anden mappe.|Vienti epäonnistui. Tarkista vapaa tila tai valitse toinen kansio.|Eksporten mislyktes. Kontroller ledig plass eller velg en annen mappe.|Η εξαγωγή απέτυχε. Έλεγξε τον διαθέσιμο χώρο ή διάλεξε άλλο φάκελο.
+saved|Filen sparad|Filen er gemt|Tiedosto tallennettu|Filen er lagret|Το αρχείο αποθηκεύτηκε
+copied|Kopierat till urklipp|Kopieret til udklipsholder|Kopioitu leikepöydälle|Kopiert til utklippstavlen|Αντιγράφηκε στο πρόχειρο
+no_handler|Ingen app kan utföra den här åtgärden.|Ingen app kan udføre denne handling.|Toiminnolle ei löydy sovellusta.|Ingen app kan utføre denne handlingen.|Δεν υπάρχει εφαρμογή για αυτή την ενέργεια.

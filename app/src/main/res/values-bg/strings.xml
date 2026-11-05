@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Сканирай. Създай. Запази.</string>
+    <string name="scan" formatted="false">Сканиране</string>
+    <string name="create" formatted="false">Създаване</string>
+    <string name="collection" formatted="false">Колекция</string>
+    <string name="settings" formatted="false">Настройки</string>
+    <string name="language" formatted="false">Език</string>
+    <string name="system_language" formatted="false">Език на системата</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="close" formatted="false">Затвори</string>
+    <string name="cancel" formatted="false">Отказ</string>
+    <string name="save" formatted="false">Запази</string>
+    <string name="done" formatted="false">Завърши сканирането</string>
+    <string name="offline_badge" formatted="false">ЛЕСНО. ПОВЕРИТЕЛНО. ОФЛАЙН.</string>
+    <string name="hero_title" formatted="false">Малък код.\nБезброй възможности.</string>
+    <string name="hero_subtitle" formatted="false">Връзки, идеи и контакти. Само с едно сканиране.</string>
+    <string name="scan_now" formatted="false">Сканирай код</string>
+    <string name="import_image" formatted="false">Импортирай от изображение</string>
+    <string name="quick_create" formatted="false">Бързо създаване</string>
+    <string name="view_all" formatted="false">Виж всички</string>
+    <string name="recent" formatted="false">Последните ти кодове</string>
+    <string name="empty_recent" formatted="false">Следващият ти код те очаква</string>
+    <string name="empty_recent_hint" formatted="false">Сканирай или създай код, за да го намериш тук.</string>
+    <string name="create_title" formatted="false">Дай код на идеите си.</string>
+    <string name="create_hint" formatted="false">Избери какво да споделиш.</string>
+    <string name="url" formatted="false">Връзка</string>
+    <string name="text" formatted="false">Текст</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Контакт</string>
+    <string name="email" formatted="false">Имейл</string>
+    <string name="sms" formatted="false">Съобщение</string>
+    <string name="phone" formatted="false">Телефон</string>
+    <string name="location" formatted="false">Местоположение</string>
+    <string name="event" formatted="false">Събитие</string>
+    <string name="barcode" formatted="false">Баркод</string>
+    <string name="url_hint" formatted="false">Сайт, страница или профил</string>
+    <string name="text_hint" formatted="false">Думи, бележки и малки идеи</string>
+    <string name="wifi_hint" formatted="false">Сподели достъп до мрежа</string>
+    <string name="contact_hint" formatted="false">Цифрова визитка</string>
+    <string name="email_hint" formatted="false">Адрес, тема и съобщение</string>
+    <string name="sms_hint" formatted="false">Подготви текстово съобщение</string>
+    <string name="phone_hint" formatted="false">Номер за обаждане</string>
+    <string name="location_hint" formatted="false">Точна точка на картата</string>
+    <string name="event_hint" formatted="false">Събитие за календара</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec и други</string>
+    <string name="form_hint" formatted="false">Въведи данните. Кодът се създава на телефона.</string>
+    <string name="url_field" formatted="false">Уеб адрес</string>
+    <string name="network" formatted="false">Име на мрежата</string>
+    <string name="password" formatted="false">Парола</string>
+    <string name="name" formatted="false">Пълно име</string>
+    <string name="phone_field" formatted="false">Телефонен номер</string>
+    <string name="email_field" formatted="false">Имейл адрес</string>
+    <string name="company" formatted="false">Фирма</string>
+    <string name="website" formatted="false">Уебсайт</string>
+    <string name="subject" formatted="false">Тема</string>
+    <string name="message" formatted="false">Съобщение</string>
+    <string name="latitude" formatted="false">Географска ширина</string>
+    <string name="longitude" formatted="false">Географска дължина</string>
+    <string name="event_title" formatted="false">Заглавие на събитието</string>
+    <string name="start" formatted="false">Начало</string>
+    <string name="end" formatted="false">Край</string>
+    <string name="place" formatted="false">Място</string>
+    <string name="content" formatted="false">Съдържание</string>
+    <string name="security" formatted="false">Защита на мрежата</string>
+    <string name="open_network" formatted="false">Отворена мрежа</string>
+    <string name="hidden_network" formatted="false">Скрита мрежа</string>
+    <string name="format" formatted="false">Формат</string>
+    <string name="date_hint" formatted="false">Формат: 2026-12-31 18:30 (местно време)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 или 13 цифри. EAN-8: 7 или 8 цифри. ITF: четен брой цифри. Code 39: главни букви и цифри.</string>
+    <string name="generate" formatted="false">Създай код</string>
+    <string name="private_hint" formatted="false">Без качване. Не е нужен акаунт.</string>
+    <string name="invalid_input" formatted="false">Провери полетата и формата. Съкрати твърде дългия текст.</string>
+    <string name="collection_title" formatted="false">Всичко е на мястото си.</string>
+    <string name="collection_hint" formatted="false">Кодовете, които искаш да запазиш, винаги с теб.</string>
+    <string name="search" formatted="false">Търси по съдържание или име</string>
+    <string name="all" formatted="false">Всички кодове</string>
+    <string name="favorites" formatted="false">Любими</string>
+    <string name="created" formatted="false">Създадени</string>
+    <string name="scanned" formatted="false">Сканирани</string>
+    <string name="empty_collection" formatted="false">Няма намерени кодове</string>
+    <string name="empty_collection_hint" formatted="false">Създай или сканирай код, или опитай друго търсене.</string>
+    <string name="your_code" formatted="false">Твоят код</string>
+    <string name="result" formatted="false">Намерен код</string>
+    <string name="code_preview" formatted="false">Преглед на кода</string>
+    <string name="preview_unavailable" formatted="false">Няма преглед за това съдържание.</string>
+    <string name="show_content" formatted="false">Покажи цялото съдържание</string>
+    <string name="copy" formatted="false">Копирай</string>
+    <string name="favorite" formatted="false">Добави в любими</string>
+    <string name="favorited" formatted="false">В любими</string>
+    <string name="color" formatted="false">Малко цвят</string>
+    <string name="sage" formatted="false">Салвия</string>
+    <string name="lavender" formatted="false">Лавандула</string>
+    <string name="cocoa" formatted="false">Какао</string>
+    <string name="ink" formatted="false">Мастило</string>
+    <string name="share_image" formatted="false">Сподели изображение</string>
+    <string name="save_png" formatted="false">Запази PNG изображение</string>
+    <string name="save_svg" formatted="false">Запази SVG вектор</string>
+    <string name="share_text" formatted="false">Сподели съдържание</string>
+    <string name="rename" formatted="false">Преименувай</string>
+    <string name="delete" formatted="false">Изтрий</string>
+    <string name="delete_confirm" formatted="false">Да се изтрие ли този код?</string>
+    <string name="open_link" formatted="false">Отвори връзката</string>
+    <string name="connect_wifi" formatted="false">Отвори настройките за Wi-Fi</string>
+    <string name="add_contact" formatted="false">Добави в контактите</string>
+    <string name="add_event" formatted="false">Добави в календара</string>
+    <string name="open_map" formatted="false">Отвори в карти</string>
+    <string name="dial" formatted="false">Отвори набирача</string>
+    <string name="compose" formatted="false">Напиши съобщение</string>
+    <string name="wifi_connect_hint" formatted="false">Паролата ще бъде копирана. Избери мрежата в настройките за Wi-Fi и я постави.</string>
+    <string name="open_confirm" formatted="false">Провери съдържанието, преди да го отвориш в друго приложение.</string>
+    <string name="continue_action" formatted="false">Продължи</string>
+    <string name="settings_title" formatted="false">Направи го свое.</string>
+    <string name="history_setting" formatted="false">Пази историята</string>
+    <string name="history_hint" formatted="false">Новите кодове се запазват автоматично на телефона. Любимите винаги се запазват.</string>
+    <string name="vibrate_setting" formatted="false">Вибрация при сканиране</string>
+    <string name="vibrate_hint" formatted="false">Лек сигнал при разпознаване на код.</string>
+    <string name="privacy_title" formatted="false">Твоите кодове остават твои.</string>
+    <string name="privacy_body" formatted="false">Сканирането и създаването работят офлайн. Без акаунт, реклами или проследяване. Камерата се използва само за четене на кодове; изображенията не се съхраняват. Историята остава в приложението и може да се изтрие. Ти избираш дали да споделяш и да отваряш външни приложения.</string>
+    <string name="export_history" formatted="false">Експортирай историята</string>
+    <string name="export_history_hint" formatted="false">JSON файлът включва съдържанието на кодовете, включително пароли за Wi-Fi. Избери къде да го съхраниш.</string>
+    <string name="clear_history" formatted="false">Изчисти колекцията</string>
+    <string name="clear_confirm" formatted="false">Да се изтрият ли всички запазени кодове, включително любимите? Експортираните файлове ще останат там, където са запазени.</string>
+    <string name="deleted" formatted="false">Колекцията е изчистена</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Създадено от нулата за Android. Лек интерфейс и 40 езика.</string>
+    <string name="licenses" formatted="false">Лицензи на библиотеките</string>
+    <string name="scan_hint" formatted="false">Постави кода в кадър. Докосни за фокусиране.</string>
+    <string name="zoom" formatted="false">Мащаб</string>
+    <string name="flash" formatted="false">Фенерче</string>
+    <string name="flash_on" formatted="false">Фенерчето е включено</string>
+    <string name="flash_off" formatted="false">Фенерчето е изключено</string>
+    <string name="switch_camera" formatted="false">Смени камерата</string>
+    <string name="batch" formatted="false">Групово сканиране</string>
+    <string name="batch_count" formatted="false">Събрани кодове:</string>
+    <string name="camera_permission" formatted="false">Разреши достъп до камерата</string>
+    <string name="permission_hint" formatted="false">За сканиране разреши камерата в настройките на приложението. Можеш да импортираш изображения от началния екран.</string>
+    <string name="camera_error" formatted="false">Камерата е недостъпна. Върни се и опитай пак или импортирай изображение.</string>
+    <string name="unavailable" formatted="false">Тази функция не е налична на устройството.</string>
+    <string name="no_code" formatted="false">Не е разпознат код. Опитай с по-ясно изображение.</string>
+    <string name="choose_code" formatted="false">Избери код</string>
+    <string name="reading_image" formatted="false">Прочитане на изображението…</string>
+    <string name="image_error" formatted="false">Изображението не може да се прочете. Опитай PNG или JPEG файл.</string>
+    <string name="export_error" formatted="false">Неуспешно експортиране. Провери свободното място или избери друга папка.</string>
+    <string name="saved" formatted="false">Файлът е запазен</string>
+    <string name="copied" formatted="false">Копирано в клипборда</string>
+    <string name="no_handler" formatted="false">Няма приложение за това действие.</string>
+</resources>

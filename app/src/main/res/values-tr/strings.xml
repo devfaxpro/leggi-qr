@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Tara. Oluştur. Sakla.</string>
+    <string name="scan" formatted="false">Tara</string>
+    <string name="create" formatted="false">Oluştur</string>
+    <string name="collection" formatted="false">Koleksiyon</string>
+    <string name="settings" formatted="false">Ayarlar</string>
+    <string name="language" formatted="false">Dil</string>
+    <string name="system_language" formatted="false">Sistem dilini kullan</string>
+    <string name="back" formatted="false">Geri</string>
+    <string name="close" formatted="false">Kapat</string>
+    <string name="cancel" formatted="false">İptal</string>
+    <string name="save" formatted="false">Kaydet</string>
+    <string name="done" formatted="false">Taramayı bitir</string>
+    <string name="offline_badge" formatted="false">BASİT. GİZLİ. ÇEVRİMDIŞI.</string>
+    <string name="hero_title" formatted="false">Küçük bir kod.\nSayısız olasılık.</string>
+    <string name="hero_subtitle" formatted="false">Bağlantılar, fikirler ve insanlar. Bir tarama uzağınızda.</string>
+    <string name="scan_now" formatted="false">Kod tara</string>
+    <string name="import_image" formatted="false">Görselden içe aktar</string>
+    <string name="quick_create" formatted="false">Hızlı oluştur</string>
+    <string name="view_all" formatted="false">Tümünü gör</string>
+    <string name="recent" formatted="false">Son kodlarınız</string>
+    <string name="empty_recent" formatted="false">Sıradaki kodunuz sizi bekliyor</string>
+    <string name="empty_recent_hint" formatted="false">Burada görmek için bir kod tarayın veya oluşturun.</string>
+    <string name="create_title" formatted="false">Fikirlerinize bir kod verin.</string>
+    <string name="create_hint" formatted="false">Paylaşmak istediğiniz şeyi seçin.</string>
+    <string name="url" formatted="false">Bağlantı</string>
+    <string name="text" formatted="false">Metin</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Kişi</string>
+    <string name="email" formatted="false">E-posta</string>
+    <string name="sms" formatted="false">Mesaj</string>
+    <string name="phone" formatted="false">Telefon</string>
+    <string name="location" formatted="false">Konum</string>
+    <string name="event" formatted="false">Etkinlik</string>
+    <string name="barcode" formatted="false">Barkod</string>
+    <string name="url_hint" formatted="false">Web sitesi, sayfa veya profil</string>
+    <string name="text_hint" formatted="false">Sözcükler, notlar ve küçük fikirler</string>
+    <string name="wifi_hint" formatted="false">Ağ erişimini paylaşın</string>
+    <string name="contact_hint" formatted="false">Dijital kartvizit</string>
+    <string name="email_hint" formatted="false">Adres, konu ve mesaj</string>
+    <string name="sms_hint" formatted="false">Kısa mesaj hazırlayın</string>
+    <string name="phone_hint" formatted="false">Aranacak numara</string>
+    <string name="location_hint" formatted="false">Haritada kesin bir nokta</string>
+    <string name="event_hint" formatted="false">Takvim etkinliği</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec ve dahası</string>
+    <string name="form_hint" formatted="false">Bilgileri girin. Kodunuz telefonunuzda oluşturulur.</string>
+    <string name="url_field" formatted="false">Web adresi</string>
+    <string name="network" formatted="false">Ağ adı</string>
+    <string name="password" formatted="false">Parola</string>
+    <string name="name" formatted="false">Ad soyad</string>
+    <string name="phone_field" formatted="false">Telefon numarası</string>
+    <string name="email_field" formatted="false">E-posta adresi</string>
+    <string name="company" formatted="false">Şirket</string>
+    <string name="website" formatted="false">Web sitesi</string>
+    <string name="subject" formatted="false">Konu</string>
+    <string name="message" formatted="false">Mesaj</string>
+    <string name="latitude" formatted="false">Enlem</string>
+    <string name="longitude" formatted="false">Boylam</string>
+    <string name="event_title" formatted="false">Etkinlik adı</string>
+    <string name="start" formatted="false">Başlangıç</string>
+    <string name="end" formatted="false">Bitiş</string>
+    <string name="place" formatted="false">Yer</string>
+    <string name="content" formatted="false">İçerik</string>
+    <string name="security" formatted="false">Ağ güvenliği</string>
+    <string name="open_network" formatted="false">Açık ağ</string>
+    <string name="hidden_network" formatted="false">Gizli ağ</string>
+    <string name="format" formatted="false">Biçim</string>
+    <string name="date_hint" formatted="false">Biçim: 2026-12-31 18:30 (yerel saat)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 veya 13 rakam. EAN-8: 7 veya 8 rakam. ITF: çift sayıda rakam. Code 39: büyük harfler ve rakamlar.</string>
+    <string name="generate" formatted="false">Kod oluştur</string>
+    <string name="private_hint" formatted="false">Yükleme yok. Hesap gerekmez.</string>
+    <string name="invalid_input" formatted="false">Alanları ve biçimi kontrol edin. Çok uzun metinleri kısaltın.</string>
+    <string name="collection_title" formatted="false">Her şey yerli yerinde.</string>
+    <string name="collection_hint" formatted="false">Saklamak istediğiniz kodlar hep yanınızda.</string>
+    <string name="search" formatted="false">İçerik veya ad ara</string>
+    <string name="all" formatted="false">Tüm kodlar</string>
+    <string name="favorites" formatted="false">Favoriler</string>
+    <string name="created" formatted="false">Oluşturulanlar</string>
+    <string name="scanned" formatted="false">Tarananlar</string>
+    <string name="empty_collection" formatted="false">Kod bulunamadı</string>
+    <string name="empty_collection_hint" formatted="false">Kod oluşturun, tarayın veya başka bir arama deneyin.</string>
+    <string name="your_code" formatted="false">Kodunuz</string>
+    <string name="result" formatted="false">Kod bulundu</string>
+    <string name="code_preview" formatted="false">Kod önizlemesi</string>
+    <string name="preview_unavailable" formatted="false">Bu içerik için önizleme yok.</string>
+    <string name="show_content" formatted="false">Tüm içeriği göster</string>
+    <string name="copy" formatted="false">Kopyala</string>
+    <string name="favorite" formatted="false">Favorilere ekle</string>
+    <string name="favorited" formatted="false">Favorilerde</string>
+    <string name="color" formatted="false">Biraz renk katın</string>
+    <string name="sage" formatted="false">Adaçayı</string>
+    <string name="lavender" formatted="false">Lavanta</string>
+    <string name="cocoa" formatted="false">Kakao</string>
+    <string name="ink" formatted="false">Mürekkep</string>
+    <string name="share_image" formatted="false">Görseli paylaş</string>
+    <string name="save_png" formatted="false">PNG görseli kaydet</string>
+    <string name="save_svg" formatted="false">SVG vektörünü kaydet</string>
+    <string name="share_text" formatted="false">İçeriği paylaş</string>
+    <string name="rename" formatted="false">Yeniden adlandır</string>
+    <string name="delete" formatted="false">Sil</string>
+    <string name="delete_confirm" formatted="false">Bu kod silinsin mi?</string>
+    <string name="open_link" formatted="false">Bağlantıyı aç</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi ayarlarını aç</string>
+    <string name="add_contact" formatted="false">Kişilere ekle</string>
+    <string name="add_event" formatted="false">Takvime ekle</string>
+    <string name="open_map" formatted="false">Haritalarda aç</string>
+    <string name="dial" formatted="false">Numara çeviriciyi aç</string>
+    <string name="compose" formatted="false">Mesaj yaz</string>
+    <string name="wifi_connect_hint" formatted="false">Parola kopyalanacak. Wi-Fi ayarlarında ağı seçip parolayı yapıştırın.</string>
+    <string name="open_confirm" formatted="false">Başka uygulamada açmadan önce içeriği kontrol edin.</string>
+    <string name="continue_action" formatted="false">Devam et</string>
+    <string name="settings_title" formatted="false">Kendinize göre ayarlayın.</string>
+    <string name="history_setting" formatted="false">Geçmişi sakla</string>
+    <string name="history_hint" formatted="false">Yeni kodları telefonunuza otomatik kaydeder. Favoriler her zaman kaydedilir.</string>
+    <string name="vibrate_setting" formatted="false">Tarama titreşimi</string>
+    <string name="vibrate_hint" formatted="false">Kod tanındığında hafif bir titreşim.</string>
+    <string name="privacy_title" formatted="false">Kodlarınız size ait kalır.</string>
+    <string name="privacy_body" formatted="false">Tarama ve oluşturma çevrimdışı çalışır. Hesap, reklam veya takip yoktur. Kamera yalnızca kod okumak için kullanılır; görüntüler saklanmaz. Geçmiş uygulamada kalır ve silinebilir. Paylaşmak ve başka uygulamaları açmak sizin seçiminizdir.</string>
+    <string name="export_history" formatted="false">Geçmişi dışa aktar</string>
+    <string name="export_history_hint" formatted="false">JSON dosyası Wi-Fi parolaları dahil kod içeriklerini barındırır. Nerede saklayacağınızı seçin.</string>
+    <string name="clear_history" formatted="false">Koleksiyonu temizle</string>
+    <string name="clear_confirm" formatted="false">Favoriler dahil tüm kayıtlı kodlar silinsin mi? Dışa aktarılan dosyalar kaydedildikleri yerde kalır.</string>
+    <string name="deleted" formatted="false">Koleksiyon temizlendi</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Android için sıfırdan geliştirildi. Sade arayüz ve 40 dil.</string>
+    <string name="licenses" formatted="false">Kütüphane lisansları</string>
+    <string name="scan_hint" formatted="false">Kodu kadraja alın. Odaklamak için dokunun.</string>
+    <string name="zoom" formatted="false">Yakınlaştırma</string>
+    <string name="flash" formatted="false">Fener</string>
+    <string name="flash_on" formatted="false">Fener açık</string>
+    <string name="flash_off" formatted="false">Fener kapalı</string>
+    <string name="switch_camera" formatted="false">Kamerayı değiştir</string>
+    <string name="batch" formatted="false">Toplu tarama</string>
+    <string name="batch_count" formatted="false">Toplanan kodlar:</string>
+    <string name="camera_permission" formatted="false">Kamera erişimine izin ver</string>
+    <string name="permission_hint" formatted="false">Taramak için uygulama ayarlarından kameraya izin verin. Ana ekrandan görsel de aktarabilirsiniz.</string>
+    <string name="camera_error" formatted="false">Kamera kullanılamıyor. Geri dönüp tekrar deneyin veya görsel aktarın.</string>
+    <string name="unavailable" formatted="false">Bu özellik bu cihazda kullanılamıyor.</string>
+    <string name="no_code" formatted="false">Kod tanınamadı. Daha net bir görsel deneyin.</string>
+    <string name="choose_code" formatted="false">Kod seçin</string>
+    <string name="reading_image" formatted="false">Görsel okunuyor…</string>
+    <string name="image_error" formatted="false">Görsel okunamadı. PNG veya JPEG dosyası deneyin.</string>
+    <string name="export_error" formatted="false">Dışa aktarma başarısız. Boş alanı kontrol edin veya başka klasör seçin.</string>
+    <string name="saved" formatted="false">Dosya kaydedildi</string>
+    <string name="copied" formatted="false">Panoya kopyalandı</string>
+    <string name="no_handler" formatted="false">Bu işlem için uygun uygulama yok.</string>
+</resources>

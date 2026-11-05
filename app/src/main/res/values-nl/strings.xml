@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Scan. Maak. Bewaar.</string>
+    <string name="scan" formatted="false">Scannen</string>
+    <string name="create" formatted="false">Maken</string>
+    <string name="collection" formatted="false">Verzameling</string>
+    <string name="settings" formatted="false">Instellingen</string>
+    <string name="language" formatted="false">Taal</string>
+    <string name="system_language" formatted="false">Systeemtaal volgen</string>
+    <string name="back" formatted="false">Terug</string>
+    <string name="close" formatted="false">Sluiten</string>
+    <string name="cancel" formatted="false">Annuleren</string>
+    <string name="save" formatted="false">Opslaan</string>
+    <string name="done" formatted="false">Scannen afronden</string>
+    <string name="offline_badge" formatted="false">EENVOUDIG. PRIVÉ. OFFLINE.</string>
+    <string name="hero_title" formatted="false">Een kleine code.\nVol mogelijkheden.</string>
+    <string name="hero_subtitle" formatted="false">Links, ideeën en contacten. Eén scan is genoeg.</string>
+    <string name="scan_now" formatted="false">Een code scannen</string>
+    <string name="import_image" formatted="false">Importeren uit afbeelding</string>
+    <string name="quick_create" formatted="false">Snel maken</string>
+    <string name="view_all" formatted="false">Alles bekijken</string>
+    <string name="recent" formatted="false">Je recente codes</string>
+    <string name="empty_recent" formatted="false">Je volgende code wacht</string>
+    <string name="empty_recent_hint" formatted="false">Scan of maak een code om die hier te vinden.</string>
+    <string name="create_title" formatted="false">Geef je ideeën een code.</string>
+    <string name="create_hint" formatted="false">Kies wat je wilt delen.</string>
+    <string name="url" formatted="false">Link</string>
+    <string name="text" formatted="false">Tekst</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Contact</string>
+    <string name="email" formatted="false">E-mail</string>
+    <string name="sms" formatted="false">Bericht</string>
+    <string name="phone" formatted="false">Telefoon</string>
+    <string name="location" formatted="false">Locatie</string>
+    <string name="event" formatted="false">Afspraak</string>
+    <string name="barcode" formatted="false">Streepjescode</string>
+    <string name="url_hint" formatted="false">Een website, pagina of profiel</string>
+    <string name="text_hint" formatted="false">Woorden, notities en ideeën</string>
+    <string name="wifi_hint" formatted="false">Deel toegang tot een netwerk</string>
+    <string name="contact_hint" formatted="false">Een digitaal visitekaartje</string>
+    <string name="email_hint" formatted="false">Adres, onderwerp en bericht</string>
+    <string name="sms_hint" formatted="false">Stel een sms op</string>
+    <string name="phone_hint" formatted="false">Een nummer om te bellen</string>
+    <string name="location_hint" formatted="false">Een exacte plek op de kaart</string>
+    <string name="event_hint" formatted="false">Een afspraak voor de agenda</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec en meer</string>
+    <string name="form_hint" formatted="false">Vul de gegevens in. De code wordt op je telefoon gemaakt.</string>
+    <string name="url_field" formatted="false">Webadres</string>
+    <string name="network" formatted="false">Netwerknaam</string>
+    <string name="password" formatted="false">Wachtwoord</string>
+    <string name="name" formatted="false">Volledige naam</string>
+    <string name="phone_field" formatted="false">Telefoonnummer</string>
+    <string name="email_field" formatted="false">E-mailadres</string>
+    <string name="company" formatted="false">Bedrijf</string>
+    <string name="website" formatted="false">Website</string>
+    <string name="subject" formatted="false">Onderwerp</string>
+    <string name="message" formatted="false">Bericht</string>
+    <string name="latitude" formatted="false">Breedtegraad</string>
+    <string name="longitude" formatted="false">Lengtegraad</string>
+    <string name="event_title" formatted="false">Titel van afspraak</string>
+    <string name="start" formatted="false">Begin</string>
+    <string name="end" formatted="false">Einde</string>
+    <string name="place" formatted="false">Plaats</string>
+    <string name="content" formatted="false">Inhoud</string>
+    <string name="security" formatted="false">Netwerkbeveiliging</string>
+    <string name="open_network" formatted="false">Open netwerk</string>
+    <string name="hidden_network" formatted="false">Verborgen netwerk</string>
+    <string name="format" formatted="false">Formaat</string>
+    <string name="date_hint" formatted="false">Formaat: 2026-12-31 18:30 (lokale tijd)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 of 13 cijfers. EAN-8: 7 of 8 cijfers. ITF: even aantal cijfers. Code 39: hoofdletters en cijfers.</string>
+    <string name="generate" formatted="false">Code maken</string>
+    <string name="private_hint" formatted="false">Geen uploads. Geen account nodig.</string>
+    <string name="invalid_input" formatted="false">Controleer de velden en het formaat. Kort te lange tekst in.</string>
+    <string name="collection_title" formatted="false">Alles op zijn plek.</string>
+    <string name="collection_hint" formatted="false">De codes die je wilt bewaren, altijd bij je.</string>
+    <string name="search" formatted="false">Zoek op inhoud of naam</string>
+    <string name="all" formatted="false">Alle codes</string>
+    <string name="favorites" formatted="false">Favorieten</string>
+    <string name="created" formatted="false">Gemaakt</string>
+    <string name="scanned" formatted="false">Gescand</string>
+    <string name="empty_collection" formatted="false">Geen codes gevonden</string>
+    <string name="empty_collection_hint" formatted="false">Maak of scan een code, of zoek iets anders.</string>
+    <string name="your_code" formatted="false">Je code</string>
+    <string name="result" formatted="false">Code gevonden</string>
+    <string name="code_preview" formatted="false">Codevoorbeeld</string>
+    <string name="preview_unavailable" formatted="false">Geen voorbeeld beschikbaar voor deze inhoud.</string>
+    <string name="show_content" formatted="false">Volledige inhoud tonen</string>
+    <string name="copy" formatted="false">Kopiëren</string>
+    <string name="favorite" formatted="false">Favoriet</string>
+    <string name="favorited" formatted="false">In favorieten</string>
+    <string name="color" formatted="false">Een vleugje kleur</string>
+    <string name="sage" formatted="false">Saliegroen</string>
+    <string name="lavender" formatted="false">Lavendel</string>
+    <string name="cocoa" formatted="false">Cacao</string>
+    <string name="ink" formatted="false">Inktzwart</string>
+    <string name="share_image" formatted="false">Afbeelding delen</string>
+    <string name="save_png" formatted="false">PNG-afbeelding opslaan</string>
+    <string name="save_svg" formatted="false">SVG-vector opslaan</string>
+    <string name="share_text" formatted="false">Inhoud delen</string>
+    <string name="rename" formatted="false">Naam wijzigen</string>
+    <string name="delete" formatted="false">Verwijderen</string>
+    <string name="delete_confirm" formatted="false">Deze code verwijderen?</string>
+    <string name="open_link" formatted="false">Link openen</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi-instellingen openen</string>
+    <string name="add_contact" formatted="false">Toevoegen aan contacten</string>
+    <string name="add_event" formatted="false">Toevoegen aan agenda</string>
+    <string name="open_map" formatted="false">Openen in kaarten</string>
+    <string name="dial" formatted="false">Kiezer openen</string>
+    <string name="compose" formatted="false">Bericht opstellen</string>
+    <string name="wifi_connect_hint" formatted="false">Het wachtwoord wordt gekopieerd. Kies het netwerk in de Wi-Fi-instellingen en plak het.</string>
+    <string name="open_confirm" formatted="false">Controleer de inhoud voordat je die in een andere app opent.</string>
+    <string name="continue_action" formatted="false">Doorgaan</string>
+    <string name="settings_title" formatted="false">Helemaal van jou.</string>
+    <string name="history_setting" formatted="false">Geschiedenis bewaren</string>
+    <string name="history_hint" formatted="false">Nieuwe codes automatisch op je telefoon bewaren. Favorieten worden altijd opgeslagen.</string>
+    <string name="vibrate_setting" formatted="false">Trillen bij scannen</string>
+    <string name="vibrate_hint" formatted="false">Een zacht signaal als een code wordt herkend.</string>
+    <string name="privacy_title" formatted="false">Je codes blijven van jou.</string>
+    <string name="privacy_body" formatted="false">Scannen en maken werkt offline. Geen account, advertenties of tracking. De camera leest alleen codes; beelden worden niet bewaard. De geschiedenis blijft in de app en kan worden gewist. Jij kiest of je deelt of andere apps opent.</string>
+    <string name="export_history" formatted="false">Geschiedenis exporteren</string>
+    <string name="export_history_hint" formatted="false">Het JSON-bestand bevat de code-inhoud, ook eventuele Wi-Fi-wachtwoorden. Kies waar je het bewaart.</string>
+    <string name="clear_history" formatted="false">Verzameling wissen</string>
+    <string name="clear_confirm" formatted="false">Alle opgeslagen codes verwijderen, ook favorieten? Geëxporteerde bestanden blijven op hun plek.</string>
+    <string name="deleted" formatted="false">Verzameling gewist</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Vanaf nul gemaakt voor Android. Een lichte interface in 40 talen.</string>
+    <string name="licenses" formatted="false">Bibliotheeklicenties</string>
+    <string name="scan_hint" formatted="false">Richt op de code. Tik om scherp te stellen.</string>
+    <string name="zoom" formatted="false">Zoom</string>
+    <string name="flash" formatted="false">Zaklamp</string>
+    <string name="flash_on" formatted="false">Zaklamp aan</string>
+    <string name="flash_off" formatted="false">Zaklamp uit</string>
+    <string name="switch_camera" formatted="false">Camera wisselen</string>
+    <string name="batch" formatted="false">Meerdere codes scannen</string>
+    <string name="batch_count" formatted="false">Verzamelde codes:</string>
+    <string name="camera_permission" formatted="false">Cameratoegang toestaan</string>
+    <string name="permission_hint" formatted="false">Schakel de camera in bij de app-instellingen om te scannen. Afbeeldingen importeren kan nog steeds vanaf het startscherm.</string>
+    <string name="camera_error" formatted="false">Camera niet beschikbaar. Ga terug en probeer opnieuw, of importeer een afbeelding.</string>
+    <string name="unavailable" formatted="false">Deze functie is niet beschikbaar op dit apparaat.</string>
+    <string name="no_code" formatted="false">Geen code herkend. Probeer een duidelijkere afbeelding.</string>
+    <string name="choose_code" formatted="false">Kies een code</string>
+    <string name="reading_image" formatted="false">Afbeelding lezen…</string>
+    <string name="image_error" formatted="false">Deze afbeelding kan niet worden gelezen. Probeer PNG of JPEG.</string>
+    <string name="export_error" formatted="false">Exporteren mislukt. Controleer de vrije ruimte of kies een andere map.</string>
+    <string name="saved" formatted="false">Bestand opgeslagen</string>
+    <string name="copied" formatted="false">Gekopieerd naar klembord</string>
+    <string name="no_handler" formatted="false">Geen app beschikbaar voor deze actie.</string>
+</resources>

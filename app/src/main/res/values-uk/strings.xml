@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Скануйте. Створюйте. Зберігайте.</string>
+    <string name="scan" formatted="false">Сканувати</string>
+    <string name="create" formatted="false">Створити</string>
+    <string name="collection" formatted="false">Колекція</string>
+    <string name="settings" formatted="false">Налаштування</string>
+    <string name="language" formatted="false">Мова</string>
+    <string name="system_language" formatted="false">Мова системи</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="close" formatted="false">Закрити</string>
+    <string name="cancel" formatted="false">Скасувати</string>
+    <string name="save" formatted="false">Зберегти</string>
+    <string name="done" formatted="false">Завершити сканування</string>
+    <string name="offline_badge" formatted="false">ПРОСТО. ПРИВАТНО. ОФЛАЙН.</string>
+    <string name="hero_title" formatted="false">Маленький код.\nБезліч можливостей.</string>
+    <string name="hero_subtitle" formatted="false">Посилання, ідеї та зв’язки. Лише одне сканування.</string>
+    <string name="scan_now" formatted="false">Сканувати код</string>
+    <string name="import_image" formatted="false">Імпортувати із зображення</string>
+    <string name="quick_create" formatted="false">Швидке створення</string>
+    <string name="view_all" formatted="false">Переглянути всі</string>
+    <string name="recent" formatted="false">Ваші останні коди</string>
+    <string name="empty_recent" formatted="false">Ваш наступний код чекає</string>
+    <string name="empty_recent_hint" formatted="false">Скануйте або створіть код, щоб побачити його тут.</string>
+    <string name="create_title" formatted="false">Дайте ідеям код.</string>
+    <string name="create_hint" formatted="false">Виберіть, чим поділитися.</string>
+    <string name="url" formatted="false">Посилання</string>
+    <string name="text" formatted="false">Текст</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Контакт</string>
+    <string name="email" formatted="false">Ел. пошта</string>
+    <string name="sms" formatted="false">Повідомлення</string>
+    <string name="phone" formatted="false">Телефон</string>
+    <string name="location" formatted="false">Місце</string>
+    <string name="event" formatted="false">Подія</string>
+    <string name="barcode" formatted="false">Штрихкод</string>
+    <string name="url_hint" formatted="false">Вебсайт, сторінка чи профіль</string>
+    <string name="text_hint" formatted="false">Слова, нотатки та ідеї</string>
+    <string name="wifi_hint" formatted="false">Поділіться доступом до мережі</string>
+    <string name="contact_hint" formatted="false">Цифрова візитівка</string>
+    <string name="email_hint" formatted="false">Адреса, тема та повідомлення</string>
+    <string name="sms_hint" formatted="false">Підготуйте SMS</string>
+    <string name="phone_hint" formatted="false">Номер для дзвінка</string>
+    <string name="location_hint" formatted="false">Точна точка на карті</string>
+    <string name="event_hint" formatted="false">Подія для календаря</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec та інші</string>
+    <string name="form_hint" formatted="false">Введіть дані. Код створюється на телефоні.</string>
+    <string name="url_field" formatted="false">Вебадреса</string>
+    <string name="network" formatted="false">Назва мережі</string>
+    <string name="password" formatted="false">Пароль</string>
+    <string name="name" formatted="false">Ім’я та прізвище</string>
+    <string name="phone_field" formatted="false">Номер телефону</string>
+    <string name="email_field" formatted="false">Адреса ел. пошти</string>
+    <string name="company" formatted="false">Компанія</string>
+    <string name="website" formatted="false">Вебсайт</string>
+    <string name="subject" formatted="false">Тема</string>
+    <string name="message" formatted="false">Повідомлення</string>
+    <string name="latitude" formatted="false">Широта</string>
+    <string name="longitude" formatted="false">Довгота</string>
+    <string name="event_title" formatted="false">Назва події</string>
+    <string name="start" formatted="false">Початок</string>
+    <string name="end" formatted="false">Кінець</string>
+    <string name="place" formatted="false">Місце</string>
+    <string name="content" formatted="false">Вміст</string>
+    <string name="security" formatted="false">Захист мережі</string>
+    <string name="open_network" formatted="false">Відкрита мережа</string>
+    <string name="hidden_network" formatted="false">Прихована мережа</string>
+    <string name="format" formatted="false">Формат</string>
+    <string name="date_hint" formatted="false">Формат: 2026-12-31 18:30 (місцевий час)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 або 13 цифр. EAN-8: 7 або 8 цифр. ITF: парна кількість цифр. Code 39: великі літери та цифри.</string>
+    <string name="generate" formatted="false">Створити код</string>
+    <string name="private_hint" formatted="false">Без завантаження в мережу. Без облікового запису.</string>
+    <string name="invalid_input" formatted="false">Перевірте поля й формат. Скоротіть надто довгий текст.</string>
+    <string name="collection_title" formatted="false">Усе на своєму місці.</string>
+    <string name="collection_hint" formatted="false">Потрібні коди завжди з вами.</string>
+    <string name="search" formatted="false">Пошук за вмістом чи назвою</string>
+    <string name="all" formatted="false">Усі коди</string>
+    <string name="favorites" formatted="false">Обране</string>
+    <string name="created" formatted="false">Створені</string>
+    <string name="scanned" formatted="false">Відскановані</string>
+    <string name="empty_collection" formatted="false">Кодів не знайдено</string>
+    <string name="empty_collection_hint" formatted="false">Створіть або скануйте код чи змініть пошук.</string>
+    <string name="your_code" formatted="false">Ваш код</string>
+    <string name="result" formatted="false">Знайдений код</string>
+    <string name="code_preview" formatted="false">Перегляд коду</string>
+    <string name="preview_unavailable" formatted="false">Попередній перегляд недоступний.</string>
+    <string name="show_content" formatted="false">Показати весь вміст</string>
+    <string name="copy" formatted="false">Копіювати</string>
+    <string name="favorite" formatted="false">До обраного</string>
+    <string name="favorited" formatted="false">В обраному</string>
+    <string name="color" formatted="false">Додайте кольору</string>
+    <string name="sage" formatted="false">Шавлія</string>
+    <string name="lavender" formatted="false">Лаванда</string>
+    <string name="cocoa" formatted="false">Какао</string>
+    <string name="ink" formatted="false">Чорнило</string>
+    <string name="share_image" formatted="false">Поділитися зображенням</string>
+    <string name="save_png" formatted="false">Зберегти PNG</string>
+    <string name="save_svg" formatted="false">Зберегти вектор SVG</string>
+    <string name="share_text" formatted="false">Поділитися вмістом</string>
+    <string name="rename" formatted="false">Перейменувати</string>
+    <string name="delete" formatted="false">Видалити</string>
+    <string name="delete_confirm" formatted="false">Видалити цей код?</string>
+    <string name="open_link" formatted="false">Відкрити посилання</string>
+    <string name="connect_wifi" formatted="false">Відкрити налаштування Wi-Fi</string>
+    <string name="add_contact" formatted="false">Додати до контактів</string>
+    <string name="add_event" formatted="false">Додати до календаря</string>
+    <string name="open_map" formatted="false">Відкрити на карті</string>
+    <string name="dial" formatted="false">Відкрити набір номера</string>
+    <string name="compose" formatted="false">Написати повідомлення</string>
+    <string name="wifi_connect_hint" formatted="false">Пароль буде скопійовано. Виберіть мережу в налаштуваннях Wi-Fi та вставте його.</string>
+    <string name="open_confirm" formatted="false">Перевірте вміст, перш ніж відкривати його в іншій програмі.</string>
+    <string name="continue_action" formatted="false">Продовжити</string>
+    <string name="settings_title" formatted="false">Налаштуйте під себе.</string>
+    <string name="history_setting" formatted="false">Зберігати історію</string>
+    <string name="history_hint" formatted="false">Нові коди автоматично зберігаються на телефоні. Обране зберігається завжди.</string>
+    <string name="vibrate_setting" formatted="false">Вібрація при скануванні</string>
+    <string name="vibrate_hint" formatted="false">Легкий сигнал, коли код розпізнано.</string>
+    <string name="privacy_title" formatted="false">Ваші коди належать вам.</string>
+    <string name="privacy_body" formatted="false">Сканування та створення працюють офлайн. Без облікового запису, реклами чи відстеження. Камера лише читає коди; зображення не зберігаються. Історія залишається в програмі, її можна видалити. Лише ви вирішуєте, чи ділитися даними та відкривати інші програми.</string>
+    <string name="export_history" formatted="false">Експортувати історію</string>
+    <string name="export_history_hint" formatted="false">Файл JSON містить вміст кодів, зокрема паролі Wi-Fi. Виберіть місце зберігання.</string>
+    <string name="clear_history" formatted="false">Очистити колекцію</string>
+    <string name="clear_confirm" formatted="false">Видалити всі збережені коди, включно з обраним? Експортовані файли залишаться на місці.</string>
+    <string name="deleted" formatted="false">Колекцію очищено</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Створено з нуля для Android. Легкий інтерфейс і 40 мов.</string>
+    <string name="licenses" formatted="false">Ліцензії бібліотек</string>
+    <string name="scan_hint" formatted="false">Наведіть на код. Торкніться для фокусування.</string>
+    <string name="zoom" formatted="false">Масштаб</string>
+    <string name="flash" formatted="false">Ліхтарик</string>
+    <string name="flash_on" formatted="false">Ліхтарик увімкнено</string>
+    <string name="flash_off" formatted="false">Ліхтарик вимкнено</string>
+    <string name="switch_camera" formatted="false">Змінити камеру</string>
+    <string name="batch" formatted="false">Пакетне сканування</string>
+    <string name="batch_count" formatted="false">Зібрано кодів:</string>
+    <string name="camera_permission" formatted="false">Дозволити доступ до камери</string>
+    <string name="permission_hint" formatted="false">Для сканування дозвольте камеру в налаштуваннях програми. Зображення можна імпортувати з головного екрана.</string>
+    <string name="camera_error" formatted="false">Камера недоступна. Поверніться й повторіть спробу або імпортуйте зображення.</string>
+    <string name="unavailable" formatted="false">Ця функція недоступна на пристрої.</string>
+    <string name="no_code" formatted="false">Код не розпізнано. Спробуйте чіткіше зображення.</string>
+    <string name="choose_code" formatted="false">Виберіть код</string>
+    <string name="reading_image" formatted="false">Читання зображення…</string>
+    <string name="image_error" formatted="false">Не вдалося прочитати зображення. Спробуйте PNG або JPEG.</string>
+    <string name="export_error" formatted="false">Помилка експорту. Перевірте вільне місце або виберіть іншу папку.</string>
+    <string name="saved" formatted="false">Файл збережено</string>
+    <string name="copied" formatted="false">Скопійовано в буфер обміну</string>
+    <string name="no_handler" formatted="false">Немає програми для цієї дії.</string>
+</resources>

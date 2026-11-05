@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Scanează. Creează. Păstrează.</string>
+    <string name="scan" formatted="false">Scanează</string>
+    <string name="create" formatted="false">Creează</string>
+    <string name="collection" formatted="false">Colecție</string>
+    <string name="settings" formatted="false">Setări</string>
+    <string name="language" formatted="false">Limbă</string>
+    <string name="system_language" formatted="false">Limba sistemului</string>
+    <string name="back" formatted="false">Înapoi</string>
+    <string name="close" formatted="false">Închide</string>
+    <string name="cancel" formatted="false">Anulează</string>
+    <string name="save" formatted="false">Salvează</string>
+    <string name="done" formatted="false">Încheie scanarea</string>
+    <string name="offline_badge" formatted="false">SIMPLU. PRIVAT. OFFLINE.</string>
+    <string name="hero_title" formatted="false">Un cod mic.\nMulte posibilități.</string>
+    <string name="hero_subtitle" formatted="false">Linkuri, idei și conexiuni. La o scanare distanță.</string>
+    <string name="scan_now" formatted="false">Scanează un cod</string>
+    <string name="import_image" formatted="false">Importă din imagine</string>
+    <string name="quick_create" formatted="false">Creare rapidă</string>
+    <string name="view_all" formatted="false">Vezi toate</string>
+    <string name="recent" formatted="false">Codurile tale recente</string>
+    <string name="empty_recent" formatted="false">Următorul cod te așteaptă</string>
+    <string name="empty_recent_hint" formatted="false">Scanează sau creează un cod și îl vei găsi aici.</string>
+    <string name="create_title" formatted="false">Dă-le ideilor tale un cod.</string>
+    <string name="create_hint" formatted="false">Alege ce vrei să distribui.</string>
+    <string name="url" formatted="false">Link</string>
+    <string name="text" formatted="false">Text</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Contact</string>
+    <string name="email" formatted="false">E-mail</string>
+    <string name="sms" formatted="false">Mesaj</string>
+    <string name="phone" formatted="false">Telefon</string>
+    <string name="location" formatted="false">Locație</string>
+    <string name="event" formatted="false">Eveniment</string>
+    <string name="barcode" formatted="false">Cod de bare</string>
+    <string name="url_hint" formatted="false">Un site, o pagină sau un profil</string>
+    <string name="text_hint" formatted="false">Cuvinte, notițe și idei</string>
+    <string name="wifi_hint" formatted="false">Distribuie accesul la o rețea</string>
+    <string name="contact_hint" formatted="false">O carte de vizită digitală</string>
+    <string name="email_hint" formatted="false">Adresă, subiect și mesaj</string>
+    <string name="sms_hint" formatted="false">Pregătește un SMS</string>
+    <string name="phone_hint" formatted="false">Un număr de apelat</string>
+    <string name="location_hint" formatted="false">Un punct precis pe hartă</string>
+    <string name="event_hint" formatted="false">Un eveniment pentru calendar</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec și altele</string>
+    <string name="form_hint" formatted="false">Completează datele. Codul este creat pe telefon.</string>
+    <string name="url_field" formatted="false">Adresă web</string>
+    <string name="network" formatted="false">Numele rețelei</string>
+    <string name="password" formatted="false">Parolă</string>
+    <string name="name" formatted="false">Nume complet</string>
+    <string name="phone_field" formatted="false">Număr de telefon</string>
+    <string name="email_field" formatted="false">Adresă de e-mail</string>
+    <string name="company" formatted="false">Companie</string>
+    <string name="website" formatted="false">Site web</string>
+    <string name="subject" formatted="false">Subiect</string>
+    <string name="message" formatted="false">Mesaj</string>
+    <string name="latitude" formatted="false">Latitudine</string>
+    <string name="longitude" formatted="false">Longitudine</string>
+    <string name="event_title" formatted="false">Titlul evenimentului</string>
+    <string name="start" formatted="false">Început</string>
+    <string name="end" formatted="false">Sfârșit</string>
+    <string name="place" formatted="false">Loc</string>
+    <string name="content" formatted="false">Conținut</string>
+    <string name="security" formatted="false">Securitatea rețelei</string>
+    <string name="open_network" formatted="false">Rețea deschisă</string>
+    <string name="hidden_network" formatted="false">Rețea ascunsă</string>
+    <string name="format" formatted="false">Format</string>
+    <string name="date_hint" formatted="false">Format: 2026-12-31 18:30 (ora locală)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 sau 13 cifre. EAN-8: 7 sau 8 cifre. ITF: număr par de cifre. Code 39: majuscule și cifre.</string>
+    <string name="generate" formatted="false">Creează codul</string>
+    <string name="private_hint" formatted="false">Fără încărcări. Fără cont.</string>
+    <string name="invalid_input" formatted="false">Verifică datele și formatul. Scurtează textul prea lung.</string>
+    <string name="collection_title" formatted="false">Totul la locul lui.</string>
+    <string name="collection_hint" formatted="false">Codurile pe care vrei să le păstrezi, mereu cu tine.</string>
+    <string name="search" formatted="false">Caută după conținut sau nume</string>
+    <string name="all" formatted="false">Toate codurile</string>
+    <string name="favorites" formatted="false">Favorite</string>
+    <string name="created" formatted="false">Create</string>
+    <string name="scanned" formatted="false">Scanate</string>
+    <string name="empty_collection" formatted="false">Nu s-au găsit coduri</string>
+    <string name="empty_collection_hint" formatted="false">Creează ori scanează un cod sau încearcă altă căutare.</string>
+    <string name="your_code" formatted="false">Codul tău</string>
+    <string name="result" formatted="false">Cod găsit</string>
+    <string name="code_preview" formatted="false">Previzualizarea codului</string>
+    <string name="preview_unavailable" formatted="false">Previzualizarea acestui conținut nu este disponibilă.</string>
+    <string name="show_content" formatted="false">Arată tot conținutul</string>
+    <string name="copy" formatted="false">Copiază</string>
+    <string name="favorite" formatted="false">Adaugă la favorite</string>
+    <string name="favorited" formatted="false">În favorite</string>
+    <string name="color" formatted="false">Un strop de culoare</string>
+    <string name="sage" formatted="false">Verde salvie</string>
+    <string name="lavender" formatted="false">Lavandă</string>
+    <string name="cocoa" formatted="false">Cacao</string>
+    <string name="ink" formatted="false">Cerneală</string>
+    <string name="share_image" formatted="false">Distribuie imaginea</string>
+    <string name="save_png" formatted="false">Salvează imaginea PNG</string>
+    <string name="save_svg" formatted="false">Salvează fișierul SVG</string>
+    <string name="share_text" formatted="false">Distribuie conținutul</string>
+    <string name="rename" formatted="false">Redenumește</string>
+    <string name="delete" formatted="false">Șterge</string>
+    <string name="delete_confirm" formatted="false">Ștergi acest cod?</string>
+    <string name="open_link" formatted="false">Deschide linkul</string>
+    <string name="connect_wifi" formatted="false">Deschide setările Wi-Fi</string>
+    <string name="add_contact" formatted="false">Adaugă în contacte</string>
+    <string name="add_event" formatted="false">Adaugă în calendar</string>
+    <string name="open_map" formatted="false">Deschide pe hartă</string>
+    <string name="dial" formatted="false">Deschide apelarea</string>
+    <string name="compose" formatted="false">Compune mesajul</string>
+    <string name="wifi_connect_hint" formatted="false">Parola va fi copiată. Selectează rețeaua în setările Wi-Fi și lipește-o.</string>
+    <string name="open_confirm" formatted="false">Verifică acest conținut înainte de a-l deschide în altă aplicație.</string>
+    <string name="continue_action" formatted="false">Continuă</string>
+    <string name="settings_title" formatted="false">Așa cum îți place.</string>
+    <string name="history_setting" formatted="false">Păstrează istoricul</string>
+    <string name="history_hint" formatted="false">Salvează automat codurile noi pe telefon. Favoritele sunt salvate întotdeauna.</string>
+    <string name="vibrate_setting" formatted="false">Vibrație la scanare</string>
+    <string name="vibrate_hint" formatted="false">Un semnal discret când este recunoscut un cod.</string>
+    <string name="privacy_title" formatted="false">Codurile tale rămân ale tale.</string>
+    <string name="privacy_body" formatted="false">Scanarea și crearea funcționează offline. Fără cont, reclame sau urmărire. Camera citește doar coduri; imaginile nu sunt stocate. Istoricul rămâne în aplicație și poate fi șters. Tu alegi dacă distribui sau deschizi alte aplicații.</string>
+    <string name="export_history" formatted="false">Exportă istoricul</string>
+    <string name="export_history_hint" formatted="false">Fișierul JSON conține datele codurilor, inclusiv parolele Wi-Fi. Alege unde îl salvezi.</string>
+    <string name="clear_history" formatted="false">Golește colecția</string>
+    <string name="clear_confirm" formatted="false">Ștergi toate codurile salvate, inclusiv favoritele? Fișierele exportate rămân unde le-ai salvat.</string>
+    <string name="deleted" formatted="false">Colecție golită</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Creată de la zero pentru Android. O interfață luminoasă în 40 de limbi.</string>
+    <string name="licenses" formatted="false">Licențele bibliotecilor</string>
+    <string name="scan_hint" formatted="false">Încadrează codul. Atinge pentru focalizare.</string>
+    <string name="zoom" formatted="false">Zoom</string>
+    <string name="flash" formatted="false">Lanternă</string>
+    <string name="flash_on" formatted="false">Lanternă pornită</string>
+    <string name="flash_off" formatted="false">Lanternă oprită</string>
+    <string name="switch_camera" formatted="false">Schimbă camera</string>
+    <string name="batch" formatted="false">Scanare multiplă</string>
+    <string name="batch_count" formatted="false">Coduri colectate:</string>
+    <string name="camera_permission" formatted="false">Permite accesul la cameră</string>
+    <string name="permission_hint" formatted="false">Activează camera în setările aplicației pentru a scana. Poți importa în continuare imagini din ecranul principal.</string>
+    <string name="camera_error" formatted="false">Camera nu este disponibilă. Revino și încearcă din nou sau importă o imagine.</string>
+    <string name="unavailable" formatted="false">Această funcție nu este disponibilă pe acest dispozitiv.</string>
+    <string name="no_code" formatted="false">Niciun cod recunoscut. Încearcă o imagine mai clară.</string>
+    <string name="choose_code" formatted="false">Alege un cod</string>
+    <string name="reading_image" formatted="false">Se citește imaginea…</string>
+    <string name="image_error" formatted="false">Imaginea nu poate fi citită. Încearcă un fișier PNG sau JPEG.</string>
+    <string name="export_error" formatted="false">Exportul a eșuat. Verifică spațiul liber sau alege alt dosar.</string>
+    <string name="saved" formatted="false">Fișier salvat</string>
+    <string name="copied" formatted="false">Copiat în clipboard</string>
+    <string name="no_handler" formatted="false">Nu există o aplicație pentru această acțiune.</string>
+</resources>

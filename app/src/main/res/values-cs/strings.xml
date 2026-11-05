@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Skenujte. Tvořte. Ukládejte.</string>
+    <string name="scan" formatted="false">Skenovat</string>
+    <string name="create" formatted="false">Vytvořit</string>
+    <string name="collection" formatted="false">Sbírka</string>
+    <string name="settings" formatted="false">Nastavení</string>
+    <string name="language" formatted="false">Jazyk</string>
+    <string name="system_language" formatted="false">Podle systému</string>
+    <string name="back" formatted="false">Zpět</string>
+    <string name="close" formatted="false">Zavřít</string>
+    <string name="cancel" formatted="false">Zrušit</string>
+    <string name="save" formatted="false">Uložit</string>
+    <string name="done" formatted="false">Ukončit skenování</string>
+    <string name="offline_badge" formatted="false">JEDNODUŠE. SOUKROMĚ. OFFLINE.</string>
+    <string name="hero_title" formatted="false">Malý kód.\nSpousta možností.</string>
+    <string name="hero_subtitle" formatted="false">Odkazy, nápady a kontakty. Stačí naskenovat.</string>
+    <string name="scan_now" formatted="false">Naskenovat kód</string>
+    <string name="import_image" formatted="false">Načíst z obrázku</string>
+    <string name="quick_create" formatted="false">Rychlé vytvoření</string>
+    <string name="view_all" formatted="false">Zobrazit vše</string>
+    <string name="recent" formatted="false">Poslední kódy</string>
+    <string name="empty_recent" formatted="false">Další kód už čeká</string>
+    <string name="empty_recent_hint" formatted="false">Naskenujte nebo vytvořte kód a najdete ho zde.</string>
+    <string name="create_title" formatted="false">Dejte nápadům podobu kódu.</string>
+    <string name="create_hint" formatted="false">Vyberte, co chcete sdílet.</string>
+    <string name="url" formatted="false">Odkaz</string>
+    <string name="text" formatted="false">Text</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Kontakt</string>
+    <string name="email" formatted="false">E-mail</string>
+    <string name="sms" formatted="false">Zpráva</string>
+    <string name="phone" formatted="false">Telefon</string>
+    <string name="location" formatted="false">Poloha</string>
+    <string name="event" formatted="false">Událost</string>
+    <string name="barcode" formatted="false">Čárový kód</string>
+    <string name="url_hint" formatted="false">Web, stránka nebo profil</string>
+    <string name="text_hint" formatted="false">Slova, poznámky a nápady</string>
+    <string name="wifi_hint" formatted="false">Sdílejte přístup k síti</string>
+    <string name="contact_hint" formatted="false">Digitální vizitka</string>
+    <string name="email_hint" formatted="false">Adresa, předmět a zpráva</string>
+    <string name="sms_hint" formatted="false">Připravte SMS</string>
+    <string name="phone_hint" formatted="false">Číslo pro zavolání</string>
+    <string name="location_hint" formatted="false">Přesné místo na mapě</string>
+    <string name="event_hint" formatted="false">Událost do kalendáře</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec a další</string>
+    <string name="form_hint" formatted="false">Vyplňte údaje. Kód se vytvoří ve vašem telefonu.</string>
+    <string name="url_field" formatted="false">Webová adresa</string>
+    <string name="network" formatted="false">Název sítě</string>
+    <string name="password" formatted="false">Heslo</string>
+    <string name="name" formatted="false">Celé jméno</string>
+    <string name="phone_field" formatted="false">Telefonní číslo</string>
+    <string name="email_field" formatted="false">E-mailová adresa</string>
+    <string name="company" formatted="false">Společnost</string>
+    <string name="website" formatted="false">Web</string>
+    <string name="subject" formatted="false">Předmět</string>
+    <string name="message" formatted="false">Zpráva</string>
+    <string name="latitude" formatted="false">Zeměpisná šířka</string>
+    <string name="longitude" formatted="false">Zeměpisná délka</string>
+    <string name="event_title" formatted="false">Název události</string>
+    <string name="start" formatted="false">Začátek</string>
+    <string name="end" formatted="false">Konec</string>
+    <string name="place" formatted="false">Místo</string>
+    <string name="content" formatted="false">Obsah</string>
+    <string name="security" formatted="false">Zabezpečení sítě</string>
+    <string name="open_network" formatted="false">Otevřená síť</string>
+    <string name="hidden_network" formatted="false">Skrytá síť</string>
+    <string name="format" formatted="false">Formát</string>
+    <string name="date_hint" formatted="false">Formát: 2026-12-31 18:30 (místní čas)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 nebo 13 číslic. EAN-8: 7 nebo 8 číslic. ITF: sudý počet číslic. Code 39: velká písmena a číslice.</string>
+    <string name="generate" formatted="false">Vytvořit kód</string>
+    <string name="private_hint" formatted="false">Bez odesílání dat. Bez účtu.</string>
+    <string name="invalid_input" formatted="false">Zkontrolujte pole a formát. Zkraťte příliš dlouhý text.</string>
+    <string name="collection_title" formatted="false">Vše na svém místě.</string>
+    <string name="collection_hint" formatted="false">Kódy, které chcete uchovat, vždy po ruce.</string>
+    <string name="search" formatted="false">Hledat obsah nebo název</string>
+    <string name="all" formatted="false">Všechny kódy</string>
+    <string name="favorites" formatted="false">Oblíbené</string>
+    <string name="created" formatted="false">Vytvořené</string>
+    <string name="scanned" formatted="false">Naskenované</string>
+    <string name="empty_collection" formatted="false">Žádné kódy nenalezeny</string>
+    <string name="empty_collection_hint" formatted="false">Vytvořte či naskenujte kód nebo změňte hledání.</string>
+    <string name="your_code" formatted="false">Váš kód</string>
+    <string name="result" formatted="false">Nalezený kód</string>
+    <string name="code_preview" formatted="false">Náhled kódu</string>
+    <string name="preview_unavailable" formatted="false">Náhled tohoto obsahu není dostupný.</string>
+    <string name="show_content" formatted="false">Zobrazit celý obsah</string>
+    <string name="copy" formatted="false">Kopírovat</string>
+    <string name="favorite" formatted="false">Do oblíbených</string>
+    <string name="favorited" formatted="false">V oblíbených</string>
+    <string name="color" formatted="false">Trocha barev</string>
+    <string name="sage" formatted="false">Šalvějová</string>
+    <string name="lavender" formatted="false">Levandulová</string>
+    <string name="cocoa" formatted="false">Kakaová</string>
+    <string name="ink" formatted="false">Inkoustová</string>
+    <string name="share_image" formatted="false">Sdílet obrázek</string>
+    <string name="save_png" formatted="false">Uložit obrázek PNG</string>
+    <string name="save_svg" formatted="false">Uložit vektor SVG</string>
+    <string name="share_text" formatted="false">Sdílet obsah</string>
+    <string name="rename" formatted="false">Přejmenovat</string>
+    <string name="delete" formatted="false">Smazat</string>
+    <string name="delete_confirm" formatted="false">Smazat tento kód?</string>
+    <string name="open_link" formatted="false">Otevřít odkaz</string>
+    <string name="connect_wifi" formatted="false">Otevřít nastavení Wi-Fi</string>
+    <string name="add_contact" formatted="false">Přidat do kontaktů</string>
+    <string name="add_event" formatted="false">Přidat do kalendáře</string>
+    <string name="open_map" formatted="false">Otevřít v mapách</string>
+    <string name="dial" formatted="false">Otevřít vytáčení</string>
+    <string name="compose" formatted="false">Napsat zprávu</string>
+    <string name="wifi_connect_hint" formatted="false">Heslo se zkopíruje. Vyberte síť v nastavení Wi-Fi a vložte ho.</string>
+    <string name="open_confirm" formatted="false">Před otevřením v jiné aplikaci obsah zkontrolujte.</string>
+    <string name="continue_action" formatted="false">Pokračovat</string>
+    <string name="settings_title" formatted="false">Podle vašich představ.</string>
+    <string name="history_setting" formatted="false">Ukládat historii</string>
+    <string name="history_hint" formatted="false">Nové kódy se automaticky ukládají do telefonu. Oblíbené se ukládají vždy.</string>
+    <string name="vibrate_setting" formatted="false">Vibrace při skenování</string>
+    <string name="vibrate_hint" formatted="false">Jemný signál při rozpoznání kódu.</string>
+    <string name="privacy_title" formatted="false">Vaše kódy zůstanou vaše.</string>
+    <string name="privacy_body" formatted="false">Skenování a tvorba fungují offline. Bez účtu, reklam a sledování. Fotoaparát pouze čte kódy; snímky se neukládají. Historie zůstává v aplikaci a lze ji smazat. O sdílení a otevření jiných aplikací rozhodujete vy.</string>
+    <string name="export_history" formatted="false">Exportovat historii</string>
+    <string name="export_history_hint" formatted="false">Soubor JSON obsahuje obsah kódů včetně hesel Wi-Fi. Vyberte místo uložení.</string>
+    <string name="clear_history" formatted="false">Vymazat sbírku</string>
+    <string name="clear_confirm" formatted="false">Smazat všechny uložené kódy včetně oblíbených? Exportované soubory zůstanou na svém místě.</string>
+    <string name="deleted" formatted="false">Sbírka vymazána</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Vytvořeno od základu pro Android. Světlé rozhraní ve 40 jazycích.</string>
+    <string name="licenses" formatted="false">Licence knihoven</string>
+    <string name="scan_hint" formatted="false">Zaměřte kód. Klepnutím zaostříte.</string>
+    <string name="zoom" formatted="false">Přiblížení</string>
+    <string name="flash" formatted="false">Svítilna</string>
+    <string name="flash_on" formatted="false">Svítilna zapnuta</string>
+    <string name="flash_off" formatted="false">Svítilna vypnuta</string>
+    <string name="switch_camera" formatted="false">Přepnout fotoaparát</string>
+    <string name="batch" formatted="false">Hromadné skenování</string>
+    <string name="batch_count" formatted="false">Nasbírané kódy:</string>
+    <string name="camera_permission" formatted="false">Povolit přístup k fotoaparátu</string>
+    <string name="permission_hint" formatted="false">Pro skenování povolte fotoaparát v nastavení aplikace. Obrázky můžete dál načítat z úvodní obrazovky.</string>
+    <string name="camera_error" formatted="false">Fotoaparát není dostupný. Vraťte se a zkuste to znovu nebo načtěte obrázek.</string>
+    <string name="unavailable" formatted="false">Tato funkce není na tomto zařízení dostupná.</string>
+    <string name="no_code" formatted="false">Kód nebyl rozpoznán. Zkuste ostřejší obrázek.</string>
+    <string name="choose_code" formatted="false">Vyberte kód</string>
+    <string name="reading_image" formatted="false">Načítání obrázku…</string>
+    <string name="image_error" formatted="false">Obrázek nelze načíst. Zkuste soubor PNG nebo JPEG.</string>
+    <string name="export_error" formatted="false">Export selhal. Zkontrolujte volné místo nebo vyberte jinou složku.</string>
+    <string name="saved" formatted="false">Soubor uložen</string>
+    <string name="copied" formatted="false">Zkopírováno do schránky</string>
+    <string name="no_handler" formatted="false">Pro tuto akci není dostupná aplikace.</string>
+</resources>

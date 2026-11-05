@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">స్కాన్ చేయండి. సృష్టించండి. భద్రపరచండి.</string>
+    <string name="scan" formatted="false">స్కాన్</string>
+    <string name="create" formatted="false">సృష్టించండి</string>
+    <string name="collection" formatted="false">సేకరణ</string>
+    <string name="settings" formatted="false">సెట్టింగ్‌లు</string>
+    <string name="language" formatted="false">భాష</string>
+    <string name="system_language" formatted="false">సిస్టమ్ భాషను అనుసరించండి</string>
+    <string name="back" formatted="false">వెనుకకు</string>
+    <string name="close" formatted="false">మూసివేయండి</string>
+    <string name="cancel" formatted="false">రద్దు చేయండి</string>
+    <string name="save" formatted="false">సేవ్ చేయండి</string>
+    <string name="done" formatted="false">స్కాన్ ముగించండి</string>
+    <string name="offline_badge" formatted="false">సరళం. గోప్యం. ఆఫ్‌లైన్.</string>
+    <string name="hero_title" formatted="false">ఒక చిన్న కోడ్.\nఎన్నో అవకాశాలు.</string>
+    <string name="hero_subtitle" formatted="false">లింక్‌లు, ఆలోచనలు, పరిచయాలు. ఒక్క స్కాన్‌తో.</string>
+    <string name="scan_now" formatted="false">కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="import_image" formatted="false">చిత్రం నుంచి దిగుమతి చేయండి</string>
+    <string name="quick_create" formatted="false">త్వరగా సృష్టించండి</string>
+    <string name="view_all" formatted="false">అన్నీ చూడండి</string>
+    <string name="recent" formatted="false">మీ ఇటీవలి కోడ్‌లు</string>
+    <string name="empty_recent" formatted="false">మీ తదుపరి కోడ్ కోసం సిద్ధం</string>
+    <string name="empty_recent_hint" formatted="false">ఇక్కడ చూడటానికి కోడ్‌ను స్కాన్ చేయండి లేదా సృష్టించండి.</string>
+    <string name="create_title" formatted="false">మీ ఆలోచనలకు కోడ్ ఇవ్వండి.</string>
+    <string name="create_hint" formatted="false">ఏం పంచుకోవాలో ఎంచుకోండి.</string>
+    <string name="url" formatted="false">లింక్</string>
+    <string name="text" formatted="false">వచనం</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">పరిచయం</string>
+    <string name="email" formatted="false">ఇమెయిల్</string>
+    <string name="sms" formatted="false">సందేశం</string>
+    <string name="phone" formatted="false">ఫోన్</string>
+    <string name="location" formatted="false">స్థానం</string>
+    <string name="event" formatted="false">ఈవెంట్</string>
+    <string name="barcode" formatted="false">బార్‌కోడ్</string>
+    <string name="url_hint" formatted="false">వెబ్‌సైట్, పేజీ లేదా ప్రొఫైల్</string>
+    <string name="text_hint" formatted="false">పదాలు, గమనికలు, చిన్న ఆలోచనలు</string>
+    <string name="wifi_hint" formatted="false">నెట్‌వర్క్ యాక్సెస్ పంచుకోండి</string>
+    <string name="contact_hint" formatted="false">డిజిటల్ విజిటింగ్ కార్డు</string>
+    <string name="email_hint" formatted="false">చిరునామా, విషయం, సందేశం</string>
+    <string name="sms_hint" formatted="false">వచన సందేశం సిద్ధం చేయండి</string>
+    <string name="phone_hint" formatted="false">కాల్ చేయాల్సిన నంబర్</string>
+    <string name="location_hint" formatted="false">మ్యాప్‌లో ఖచ్చితమైన స్థానం</string>
+    <string name="event_hint" formatted="false">క్యాలెండర్ కోసం ఈవెంట్</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec మరిన్ని</string>
+    <string name="form_hint" formatted="false">వివరాలు నమోదు చేయండి. కోడ్ మీ ఫోన్‌లోనే సృష్టించబడుతుంది.</string>
+    <string name="url_field" formatted="false">వెబ్ చిరునామా</string>
+    <string name="network" formatted="false">నెట్‌వర్క్ పేరు</string>
+    <string name="password" formatted="false">పాస్‌వర్డ్</string>
+    <string name="name" formatted="false">పూర్తి పేరు</string>
+    <string name="phone_field" formatted="false">ఫోన్ నంబర్</string>
+    <string name="email_field" formatted="false">ఇమెయిల్ చిరునామా</string>
+    <string name="company" formatted="false">సంస్థ</string>
+    <string name="website" formatted="false">వెబ్‌సైట్</string>
+    <string name="subject" formatted="false">విషయం</string>
+    <string name="message" formatted="false">సందేశం</string>
+    <string name="latitude" formatted="false">అక్షాంశం</string>
+    <string name="longitude" formatted="false">రేఖాంశం</string>
+    <string name="event_title" formatted="false">ఈవెంట్ పేరు</string>
+    <string name="start" formatted="false">ప్రారంభం</string>
+    <string name="end" formatted="false">ముగింపు</string>
+    <string name="place" formatted="false">ప్రదేశం</string>
+    <string name="content" formatted="false">విషయం</string>
+    <string name="security" formatted="false">నెట్‌వర్క్ భద్రత</string>
+    <string name="open_network" formatted="false">ఓపెన్ నెట్‌వర్క్</string>
+    <string name="hidden_network" formatted="false">దాచిన నెట్‌వర్క్</string>
+    <string name="format" formatted="false">ఫార్మాట్</string>
+    <string name="date_hint" formatted="false">ఫార్మాట్: 2026-12-31 18:30 (స్థానిక సమయం)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 లేదా 13 అంకెలు. EAN-8: 7 లేదా 8 అంకెలు. ITF: సరి సంఖ్యలో అంకెలు. Code 39: పెద్ద లాటిన్ అక్షరాలు, అంకెలు.</string>
+    <string name="generate" formatted="false">కోడ్ సృష్టించండి</string>
+    <string name="private_hint" formatted="false">అప్‌లోడ్‌లు లేవు. ఖాతా అవసరం లేదు.</string>
+    <string name="invalid_input" formatted="false">వివరాలు, ఫార్మాట్ తనిఖీ చేయండి. పొడవైన వచనాన్ని తగ్గించండి.</string>
+    <string name="collection_title" formatted="false">అన్నీ వాటి స్థానాల్లో.</string>
+    <string name="collection_hint" formatted="false">మీరు దాచుకోవాలనుకునే కోడ్‌లు, ఎల్లప్పుడూ మీతో.</string>
+    <string name="search" formatted="false">విషయం లేదా పేరు వెతకండి</string>
+    <string name="all" formatted="false">అన్ని కోడ్‌లు</string>
+    <string name="favorites" formatted="false">ఇష్టమైనవి</string>
+    <string name="created" formatted="false">సృష్టించినవి</string>
+    <string name="scanned" formatted="false">స్కాన్ చేసినవి</string>
+    <string name="empty_collection" formatted="false">కోడ్‌లు దొరకలేదు</string>
+    <string name="empty_collection_hint" formatted="false">కోడ్ సృష్టించండి, స్కాన్ చేయండి లేదా మరో శోధన ప్రయత్నించండి.</string>
+    <string name="your_code" formatted="false">మీ కోడ్</string>
+    <string name="result" formatted="false">కోడ్ దొరికింది</string>
+    <string name="code_preview" formatted="false">కోడ్ ప్రివ్యూ</string>
+    <string name="preview_unavailable" formatted="false">ఈ విషయానికి ప్రివ్యూ లేదు.</string>
+    <string name="show_content" formatted="false">పూర్తి విషయం చూపండి</string>
+    <string name="copy" formatted="false">కాపీ చేయండి</string>
+    <string name="favorite" formatted="false">ఇష్టమైనవాటికి జోడించండి</string>
+    <string name="favorited" formatted="false">ఇష్టమైనవాటిలో ఉంది</string>
+    <string name="color" formatted="false">కొంచెం రంగు</string>
+    <string name="sage" formatted="false">సేజ్ ఆకుపచ్చ</string>
+    <string name="lavender" formatted="false">లావెండర్</string>
+    <string name="cocoa" formatted="false">కోకో</string>
+    <string name="ink" formatted="false">సిరా</string>
+    <string name="share_image" formatted="false">చిత్రం పంచుకోండి</string>
+    <string name="save_png" formatted="false">PNG చిత్రం సేవ్ చేయండి</string>
+    <string name="save_svg" formatted="false">SVG వెక్టర్ సేవ్ చేయండి</string>
+    <string name="share_text" formatted="false">విషయం పంచుకోండి</string>
+    <string name="rename" formatted="false">పేరు మార్చండి</string>
+    <string name="delete" formatted="false">తొలగించండి</string>
+    <string name="delete_confirm" formatted="false">ఈ కోడ్‌ను తొలగించాలా?</string>
+    <string name="open_link" formatted="false">లింక్ తెరవండి</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi సెట్టింగ్‌లు తెరవండి</string>
+    <string name="add_contact" formatted="false">పరిచయాలకు జోడించండి</string>
+    <string name="add_event" formatted="false">క్యాలెండర్‌కు జోడించండి</string>
+    <string name="open_map" formatted="false">మ్యాప్‌లో తెరవండి</string>
+    <string name="dial" formatted="false">డయలర్ తెరవండి</string>
+    <string name="compose" formatted="false">సందేశం రాయండి</string>
+    <string name="wifi_connect_hint" formatted="false">పాస్‌వర్డ్ కాపీ అవుతుంది. Wi-Fi సెట్టింగ్‌లలో నెట్‌వర్క్ ఎంచుకుని పేస్ట్ చేయండి.</string>
+    <string name="open_confirm" formatted="false">మరో యాప్‌లో తెరిచే ముందు విషయం తనిఖీ చేయండి.</string>
+    <string name="continue_action" formatted="false">కొనసాగించండి</string>
+    <string name="settings_title" formatted="false">మీకు నచ్చినట్లు.</string>
+    <string name="history_setting" formatted="false">చరిత్రను ఉంచండి</string>
+    <string name="history_hint" formatted="false">కొత్త కోడ్‌లు ఫోన్‌లో స్వయంచాలకంగా సేవ్ అవుతాయి. ఇష్టమైనవి ఎల్లప్పుడూ సేవ్ అవుతాయి.</string>
+    <string name="vibrate_setting" formatted="false">స్కాన్ చేసినప్పుడు వైబ్రేషన్</string>
+    <string name="vibrate_hint" formatted="false">కోడ్ గుర్తించినప్పుడు తేలికపాటి వైబ్రేషన్.</string>
+    <string name="privacy_title" formatted="false">మీ కోడ్‌లు మీవే.</string>
+    <string name="privacy_body" formatted="false">స్కాన్, కోడ్ సృష్టి ఆఫ్‌లైన్‌లో పనిచేస్తాయి. ఖాతా, ప్రకటనలు, ట్రాకింగ్ లేవు. కెమెరా కోడ్‌లను చదవడానికి మాత్రమే; చిత్రాలు నిల్వ చేయబడవు. చరిత్ర యాప్‌లోనే ఉంటుంది, తొలగించవచ్చు. పంచుకోవడం, ఇతర యాప్‌లు తెరవడం మీ ఇష్టం.</string>
+    <string name="export_history" formatted="false">చరిత్రను ఎగుమతి చేయండి</string>
+    <string name="export_history_hint" formatted="false">JSON ఫైల్‌లో Wi-Fi పాస్‌వర్డ్‌లతో సహా కోడ్ విషయాలు ఉంటాయి. ఎక్కడ ఉంచాలో ఎంచుకోండి.</string>
+    <string name="clear_history" formatted="false">సేకరణను ఖాళీ చేయండి</string>
+    <string name="clear_confirm" formatted="false">ఇష్టమైనవాటితో సహా సేవ్ చేసిన కోడ్‌లన్నీ తొలగించాలా? ఎగుమతి చేసిన ఫైల్‌లు వాటి స్థానంలోనే ఉంటాయి.</string>
+    <string name="deleted" formatted="false">సేకరణ ఖాళీ చేయబడింది</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Android కోసం మొదటి నుంచి రూపొందించబడింది. సరళమైన ఇంటర్‌ఫేస్, 40 భాషలు.</string>
+    <string name="licenses" formatted="false">లైబ్రరీ లైసెన్స్‌లు</string>
+    <string name="scan_hint" formatted="false">కోడ్‌ను ఫ్రేమ్‌లో ఉంచండి. ఫోకస్ కోసం తాకండి.</string>
+    <string name="zoom" formatted="false">జూమ్</string>
+    <string name="flash" formatted="false">టార్చ్</string>
+    <string name="flash_on" formatted="false">టార్చ్ ఆన్</string>
+    <string name="flash_off" formatted="false">టార్చ్ ఆఫ్</string>
+    <string name="switch_camera" formatted="false">కెమెరా మార్చండి</string>
+    <string name="batch" formatted="false">వరుస స్కాన్</string>
+    <string name="batch_count" formatted="false">సేకరించిన కోడ్‌లు:</string>
+    <string name="camera_permission" formatted="false">కెమెరా యాక్సెస్ అనుమతించండి</string>
+    <string name="permission_hint" formatted="false">స్కాన్ కోసం యాప్ సెట్టింగ్‌లలో కెమెరాను అనుమతించండి. హోమ్ స్క్రీన్ నుంచి చిత్రాలను కూడా దిగుమతి చేయవచ్చు.</string>
+    <string name="camera_error" formatted="false">కెమెరా అందుబాటులో లేదు. వెనక్కి వెళ్లి మళ్లీ ప్రయత్నించండి లేదా చిత్రం దిగుమతి చేయండి.</string>
+    <string name="unavailable" formatted="false">ఈ పరికరంలో ఈ సదుపాయం లేదు.</string>
+    <string name="no_code" formatted="false">కోడ్ గుర్తించబడలేదు. స్పష్టమైన చిత్రం ప్రయత్నించండి.</string>
+    <string name="choose_code" formatted="false">కోడ్ ఎంచుకోండి</string>
+    <string name="reading_image" formatted="false">చిత్రం చదువుతోంది…</string>
+    <string name="image_error" formatted="false">చిత్రం చదవలేకపోయింది. PNG లేదా JPEG ఫైల్ ప్రయత్నించండి.</string>
+    <string name="export_error" formatted="false">ఎగుమతి విఫలమైంది. ఖాళీ స్థలం తనిఖీ చేయండి లేదా మరో ఫోల్డర్ ఎంచుకోండి.</string>
+    <string name="saved" formatted="false">ఫైల్ సేవ్ అయింది</string>
+    <string name="copied" formatted="false">క్లిప్‌బోర్డ్‌కు కాపీ అయింది</string>
+    <string name="no_handler" formatted="false">ఈ చర్య కోసం యాప్ లేదు.</string>
+</resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_translations.py -->
+<resources>
+    <string name="app_name" translatable="false">Leggi QR</string>
+    <string name="tagline" formatted="false">Scan. Create. Keep.</string>
+    <string name="scan" formatted="false">Scan</string>
+    <string name="create" formatted="false">Create</string>
+    <string name="collection" formatted="false">Collection</string>
+    <string name="settings" formatted="false">Settings</string>
+    <string name="language" formatted="false">Language</string>
+    <string name="system_language" formatted="false">Follow system</string>
+    <string name="back" formatted="false">Back</string>
+    <string name="close" formatted="false">Close</string>
+    <string name="cancel" formatted="false">Cancel</string>
+    <string name="save" formatted="false">Save</string>
+    <string name="done" formatted="false">Finish scanning</string>
+    <string name="offline_badge" formatted="false">SIMPLE. PRIVATE. OFFLINE.</string>
+    <string name="hero_title" formatted="false">A little code.\nA world of possibility.</string>
+    <string name="hero_subtitle" formatted="false">Links, ideas and connections. Just a scan away.</string>
+    <string name="scan_now" formatted="false">Scan a code</string>
+    <string name="import_image" formatted="false">Import from an image</string>
+    <string name="quick_create" formatted="false">Quick create</string>
+    <string name="view_all" formatted="false">View all</string>
+    <string name="recent" formatted="false">Your recent codes</string>
+    <string name="empty_recent" formatted="false">Your next code awaits</string>
+    <string name="empty_recent_hint" formatted="false">Scan or create a code to find it here.</string>
+    <string name="create_title" formatted="false">Give your ideas a code.</string>
+    <string name="create_hint" formatted="false">Choose what you want to share.</string>
+    <string name="url" formatted="false">Link</string>
+    <string name="text" formatted="false">Text</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Contact</string>
+    <string name="email" formatted="false">Email</string>
+    <string name="sms" formatted="false">Message</string>
+    <string name="phone" formatted="false">Phone</string>
+    <string name="location" formatted="false">Location</string>
+    <string name="event" formatted="false">Event</string>
+    <string name="barcode" formatted="false">Barcode</string>
+    <string name="url_hint" formatted="false">A website, page or profile</string>
+    <string name="text_hint" formatted="false">Words, notes and little ideas</string>
+    <string name="wifi_hint" formatted="false">Share access to a network</string>
+    <string name="contact_hint" formatted="false">A digital business card</string>
+    <string name="email_hint" formatted="false">Address, subject and message</string>
+    <string name="sms_hint" formatted="false">Prepare a text message</string>
+    <string name="phone_hint" formatted="false">A number to call</string>
+    <string name="location_hint" formatted="false">A precise point on the map</string>
+    <string name="event_hint" formatted="false">An event for the calendar</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec and more</string>
+    <string name="form_hint" formatted="false">Enter the details. Your code is created on your phone.</string>
+    <string name="url_field" formatted="false">Web address</string>
+    <string name="network" formatted="false">Network name</string>
+    <string name="password" formatted="false">Password</string>
+    <string name="name" formatted="false">Full name</string>
+    <string name="phone_field" formatted="false">Phone number</string>
+    <string name="email_field" formatted="false">Email address</string>
+    <string name="company" formatted="false">Company</string>
+    <string name="website" formatted="false">Website</string>
+    <string name="subject" formatted="false">Subject</string>
+    <string name="message" formatted="false">Message</string>
+    <string name="latitude" formatted="false">Latitude</string>
+    <string name="longitude" formatted="false">Longitude</string>
+    <string name="event_title" formatted="false">Event title</string>
+    <string name="start" formatted="false">Start</string>
+    <string name="end" formatted="false">End</string>
+    <string name="place" formatted="false">Place</string>
+    <string name="content" formatted="false">Content</string>
+    <string name="security" formatted="false">Network security</string>
+    <string name="open_network" formatted="false">Open network</string>
+    <string name="hidden_network" formatted="false">Hidden network</string>
+    <string name="format" formatted="false">Format</string>
+    <string name="date_hint" formatted="false">Format: 2026-12-31 18:30 (local time)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 or 13 digits. EAN-8: 7 or 8 digits. ITF: an even number of digits. Code 39: uppercase letters and digits.</string>
+    <string name="generate" formatted="false">Create code</string>
+    <string name="private_hint" formatted="false">No uploads. No account needed.</string>
+    <string name="invalid_input" formatted="false">Check the fields and selected format. Shorten very long text.</string>
+    <string name="collection_title" formatted="false">Everything in its place.</string>
+    <string name="collection_hint" formatted="false">The codes you want to keep, always with you.</string>
+    <string name="search" formatted="false">Search content or name</string>
+    <string name="all" formatted="false">All codes</string>
+    <string name="favorites" formatted="false">Favorites</string>
+    <string name="created" formatted="false">Created</string>
+    <string name="scanned" formatted="false">Scanned</string>
+    <string name="empty_collection" formatted="false">No codes found</string>
+    <string name="empty_collection_hint" formatted="false">Create or scan a code, or try another search.</string>
+    <string name="your_code" formatted="false">Your code</string>
+    <string name="result" formatted="false">Code found</string>
+    <string name="code_preview" formatted="false">Code preview</string>
+    <string name="preview_unavailable" formatted="false">Preview unavailable for this content.</string>
+    <string name="show_content" formatted="false">Show full content</string>
+    <string name="copy" formatted="false">Copy</string>
+    <string name="favorite" formatted="false">Favorite</string>
+    <string name="favorited" formatted="false">Favorited</string>
+    <string name="color" formatted="false">A touch of color</string>
+    <string name="sage" formatted="false">Sage</string>
+    <string name="lavender" formatted="false">Lavender</string>
+    <string name="cocoa" formatted="false">Cocoa</string>
+    <string name="ink" formatted="false">Ink</string>
+    <string name="share_image" formatted="false">Share image</string>
+    <string name="save_png" formatted="false">Save PNG image</string>
+    <string name="save_svg" formatted="false">Save SVG vector</string>
+    <string name="share_text" formatted="false">Share content</string>
+    <string name="rename" formatted="false">Rename</string>
+    <string name="delete" formatted="false">Delete</string>
+    <string name="delete_confirm" formatted="false">Delete this code?</string>
+    <string name="open_link" formatted="false">Open link</string>
+    <string name="connect_wifi" formatted="false">Open Wi-Fi settings</string>
+    <string name="add_contact" formatted="false">Add to contacts</string>
+    <string name="add_event" formatted="false">Add to calendar</string>
+    <string name="open_map" formatted="false">Open in maps</string>
+    <string name="dial" formatted="false">Open dialer</string>
+    <string name="compose" formatted="false">Compose message</string>
+    <string name="wifi_connect_hint" formatted="false">The password will be copied. Select the network in Wi-Fi settings and paste it.</string>
+    <string name="open_confirm" formatted="false">Check the content before opening it in another app.</string>
+    <string name="continue_action" formatted="false">Continue</string>
+    <string name="settings_title" formatted="false">Make it yours.</string>
+    <string name="history_setting" formatted="false">Keep history</string>
+    <string name="history_hint" formatted="false">Automatically save new codes on your phone. Favorites are always saved.</string>
+    <string name="vibrate_setting" formatted="false">Vibrate on scan</string>
+    <string name="vibrate_hint" formatted="false">A gentle signal when a code is recognized.</string>
+    <string name="privacy_title" formatted="false">Your codes stay yours.</string>
+    <string name="privacy_body" formatted="false">Scanning and creation work offline. No account, ads or tracking. The camera is only used to read codes; images are not stored. History stays in the app and can be deleted. Sharing and external apps are your choice.</string>
+    <string name="export_history" formatted="false">Export history</string>
+    <string name="export_history_hint" formatted="false">The JSON file includes code contents, including any Wi-Fi passwords. Choose where to keep it.</string>
+    <string name="clear_history" formatted="false">Clear collection</string>
+    <string name="clear_confirm" formatted="false">Delete all saved codes, including favorites? Exported files will remain where you saved them.</string>
+    <string name="deleted" formatted="false">Collection cleared</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Built from scratch for Android. A light interface, 40 languages and room for simple things.</string>
+    <string name="licenses" formatted="false">Library licenses</string>
+    <string name="scan_hint" formatted="false">Frame the code. Tap to focus.</string>
+    <string name="zoom" formatted="false">Zoom</string>
+    <string name="flash" formatted="false">Flashlight</string>
+    <string name="flash_on" formatted="false">Flashlight on</string>
+    <string name="flash_off" formatted="false">Flashlight off</string>
+    <string name="switch_camera" formatted="false">Switch camera</string>
+    <string name="batch" formatted="false">Batch scanning</string>
+    <string name="batch_count" formatted="false">Codes collected:</string>
+    <string name="camera_permission" formatted="false">Allow camera access</string>
+    <string name="permission_hint" formatted="false">Enable the camera in app settings to scan. You can still import images from the home screen.</string>
+    <string name="camera_error" formatted="false">Camera unavailable. Go back and try again, or import an image.</string>
+    <string name="unavailable" formatted="false">This feature is unavailable on this device.</string>
+    <string name="no_code" formatted="false">No code recognized. Try a clearer image.</string>
+    <string name="choose_code" formatted="false">Choose a code</string>
+    <string name="reading_image" formatted="false">Reading image…</string>
+    <string name="image_error" formatted="false">Cannot read this image. Try a PNG or JPEG file.</string>
+    <string name="export_error" formatted="false">Export failed. Check available space or choose another folder.</string>
+    <string name="saved" formatted="false">File saved</string>
+    <string name="copied" formatted="false">Copied to clipboard</string>
+    <string name="no_handler" formatted="false">No app available for this action.</string>
+</resources>

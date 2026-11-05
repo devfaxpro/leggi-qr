@@ -1,0 +1,46 @@
+Leggi QR — 40 lingue, 145 testi per lingua
+Scelta iniziale: lingua di sistema; se non disponibile, inglese. Scelta manuale: globo.
+Una voce per lingua, senza duplicati regionali. Portoghese brasiliano e cinese semplificato.
+Le dieci lingue concordate restano per prime, poi le altre ordinate per nome nativo.
+Copertura completa delle chiavi; revisione editoriale madrelingua non eseguita.
+
+Italiano — it
+English — en
+Español — es
+Português (Brasil) — pt-BR
+Français — fr
+Deutsch — de
+简体中文 — zh-Hans
+日本語 — ja
+한국어 — ko
+Русский — ru
+Bahasa Indonesia — id
+Bahasa Melayu — ms
+Čeština — cs
+Dansk — da
+Filipino — fil
+Kiswahili — sw
+Magyar — hu
+Nederlands — nl
+Norsk bokmål — nb
+Polski — pl
+Română — ro
+Suomi — fi
+Svenska — sv
+Tiếng Việt — vi
+Türkçe — tr
+Ελληνικά — el
+Български — bg
+Українська — uk
+עברית — he
+اردو — ur
+العربية — ar
+فارسی — fa
+मराठी — mr
+हिन्दी — hi
+বাংলা — bn
+ਪੰਜਾਬੀ — pa
+ગુજરાતી — gu
+தமிழ் — ta
+తెలుగు — te
+ไทย — th

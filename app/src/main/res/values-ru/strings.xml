@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_translations.py -->
+<resources>
+    <string name="tagline" formatted="false">Сканируйте. Создавайте. Храните.</string>
+    <string name="scan" formatted="false">Сканер</string>
+    <string name="create" formatted="false">Создать</string>
+    <string name="collection" formatted="false">Коллекция</string>
+    <string name="settings" formatted="false">Настройки</string>
+    <string name="language" formatted="false">Язык</string>
+    <string name="system_language" formatted="false">Язык системы</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="close" formatted="false">Закрыть</string>
+    <string name="cancel" formatted="false">Отмена</string>
+    <string name="save" formatted="false">Сохранить</string>
+    <string name="done" formatted="false">Завершить сканирование</string>
+    <string name="offline_badge" formatted="false">ПРОСТО. ПРИВАТНО. ОФЛАЙН.</string>
+    <string name="hero_title" formatted="false">Маленький код.\nМного возможностей.</string>
+    <string name="hero_subtitle" formatted="false">Ссылки, идеи и контакты — одним сканированием.</string>
+    <string name="scan_now" formatted="false">Сканировать код</string>
+    <string name="import_image" formatted="false">Импорт из изображения</string>
+    <string name="quick_create" formatted="false">Быстрое создание</string>
+    <string name="view_all" formatted="false">Все</string>
+    <string name="recent" formatted="false">Последние коды</string>
+    <string name="empty_recent" formatted="false">Вас ждёт новый код</string>
+    <string name="empty_recent_hint" formatted="false">Сканируйте или создайте код, и он появится здесь.</string>
+    <string name="create_title" formatted="false">Превратите идеи в код.</string>
+    <string name="create_hint" formatted="false">Выберите, чем хотите поделиться.</string>
+    <string name="url" formatted="false">Ссылка</string>
+    <string name="text" formatted="false">Текст</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Контакт</string>
+    <string name="email" formatted="false">Почта</string>
+    <string name="sms" formatted="false">Сообщение</string>
+    <string name="phone" formatted="false">Телефон</string>
+    <string name="location" formatted="false">Место</string>
+    <string name="event" formatted="false">Событие</string>
+    <string name="barcode" formatted="false">Штрихкод</string>
+    <string name="url_hint" formatted="false">Сайт, страница или профиль</string>
+    <string name="text_hint" formatted="false">Текст, заметки и идеи</string>
+    <string name="wifi_hint" formatted="false">Доступ к сети</string>
+    <string name="contact_hint" formatted="false">Цифровая визитка</string>
+    <string name="email_hint" formatted="false">Адрес, тема и текст</string>
+    <string name="sms_hint" formatted="false">Подготовьте SMS</string>
+    <string name="phone_hint" formatted="false">Номер телефона</string>
+    <string name="location_hint" formatted="false">Точка на карте</string>
+    <string name="event_hint" formatted="false">Событие в календаре</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec и другие</string>
+    <string name="form_hint" formatted="false">Введите данные. Код создаётся на телефоне.</string>
+    <string name="url_field" formatted="false">Веб-адрес</string>
+    <string name="network" formatted="false">Название сети</string>
+    <string name="password" formatted="false">Пароль</string>
+    <string name="name" formatted="false">Полное имя</string>
+    <string name="phone_field" formatted="false">Номер телефона</string>
+    <string name="email_field" formatted="false">Адрес почты</string>
+    <string name="company" formatted="false">Компания</string>
+    <string name="website" formatted="false">Сайт</string>
+    <string name="subject" formatted="false">Тема</string>
+    <string name="message" formatted="false">Сообщение</string>
+    <string name="latitude" formatted="false">Широта</string>
+    <string name="longitude" formatted="false">Долгота</string>
+    <string name="event_title" formatted="false">Название события</string>
+    <string name="start" formatted="false">Начало</string>
+    <string name="end" formatted="false">Окончание</string>
+    <string name="place" formatted="false">Место</string>
+    <string name="content" formatted="false">Содержимое</string>
+    <string name="security" formatted="false">Защита сети</string>
+    <string name="open_network" formatted="false">Открытая сеть</string>
+    <string name="hidden_network" formatted="false">Скрытая сеть</string>
+    <string name="format" formatted="false">Формат</string>
+    <string name="date_hint" formatted="false">Формат: 2026-12-31 18:30 (местное время)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 или 13 цифр. EAN-8: 7 или 8. ITF: чётное число цифр. Code 39: заглавные латинские буквы и цифры.</string>
+    <string name="generate" formatted="false">Создать код</string>
+    <string name="private_hint" formatted="false">Без загрузки в интернет и без аккаунта.</string>
+    <string name="invalid_input" formatted="false">Проверьте поля и формат. Сократите слишком длинный текст.</string>
+    <string name="collection_title" formatted="false">Всё на своём месте.</string>
+    <string name="collection_hint" formatted="false">Нужные коды всегда под рукой.</string>
+    <string name="search" formatted="false">Поиск по содержимому или имени</string>
+    <string name="all" formatted="false">Все коды</string>
+    <string name="favorites" formatted="false">Избранное</string>
+    <string name="created" formatted="false">Созданные</string>
+    <string name="scanned" formatted="false">Отсканированные</string>
+    <string name="empty_collection" formatted="false">Коды не найдены</string>
+    <string name="empty_collection_hint" formatted="false">Создайте или отсканируйте код либо измените запрос.</string>
+    <string name="your_code" formatted="false">Ваш код</string>
+    <string name="result" formatted="false">Код найден</string>
+    <string name="code_preview" formatted="false">Предпросмотр кода</string>
+    <string name="preview_unavailable" formatted="false">Предпросмотр этого содержимого недоступен.</string>
+    <string name="show_content" formatted="false">Показать полностью</string>
+    <string name="copy" formatted="false">Копировать</string>
+    <string name="favorite" formatted="false">В избранное</string>
+    <string name="favorited" formatted="false">В избранном</string>
+    <string name="color" formatted="false">Немного цвета</string>
+    <string name="sage" formatted="false">Шалфей</string>
+    <string name="lavender" formatted="false">Лаванда</string>
+    <string name="cocoa" formatted="false">Какао</string>
+    <string name="ink" formatted="false">Чернила</string>
+    <string name="share_image" formatted="false">Поделиться изображением</string>
+    <string name="save_png" formatted="false">Сохранить PNG</string>
+    <string name="save_svg" formatted="false">Сохранить SVG</string>
+    <string name="share_text" formatted="false">Поделиться содержимым</string>
+    <string name="rename" formatted="false">Переименовать</string>
+    <string name="delete" formatted="false">Удалить</string>
+    <string name="delete_confirm" formatted="false">Удалить этот код?</string>
+    <string name="open_link" formatted="false">Открыть ссылку</string>
+    <string name="connect_wifi" formatted="false">Настройки Wi-Fi</string>
+    <string name="add_contact" formatted="false">Добавить контакт</string>
+    <string name="add_event" formatted="false">Добавить в календарь</string>
+    <string name="open_map" formatted="false">Открыть на карте</string>
+    <string name="dial" formatted="false">Открыть набор номера</string>
+    <string name="compose" formatted="false">Написать сообщение</string>
+    <string name="wifi_connect_hint" formatted="false">Пароль будет скопирован. Выберите сеть в настройках Wi-Fi и вставьте его.</string>
+    <string name="open_confirm" formatted="false">Проверьте содержимое перед открытием в другом приложении.</string>
+    <string name="continue_action" formatted="false">Продолжить</string>
+    <string name="settings_title" formatted="false">По-вашему.</string>
+    <string name="history_setting" formatted="false">Сохранять историю</string>
+    <string name="history_hint" formatted="false">Новые коды сохраняются на телефоне. Избранное сохраняется всегда.</string>
+    <string name="vibrate_setting" formatted="false">Вибрация при сканировании</string>
+    <string name="vibrate_hint" formatted="false">Лёгкий сигнал при распознавании кода.</string>
+    <string name="privacy_title" formatted="false">Ваши коды — только ваши.</string>
+    <string name="privacy_body" formatted="false">Сканирование и создание работают офлайн. Без аккаунта, рекламы и отслеживания. Камера только читает коды; изображения не сохраняются. История хранится в приложении, её можно удалить. Вы сами решаете, чем делиться и что открывать в других приложениях.</string>
+    <string name="export_history" formatted="false">Экспорт истории</string>
+    <string name="export_history_hint" formatted="false">JSON-файл содержит данные кодов, в том числе пароли Wi-Fi. Выберите место хранения.</string>
+    <string name="clear_history" formatted="false">Очистить коллекцию</string>
+    <string name="clear_confirm" formatted="false">Удалить все коды, включая избранное? Экспортированные файлы останутся на своих местах.</string>
+    <string name="deleted" formatted="false">Коллекция очищена</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Создано с нуля для Android. Лёгкий интерфейс и 40 языков.</string>
+    <string name="licenses" formatted="false">Лицензии библиотек</string>
+    <string name="scan_hint" formatted="false">Наведите камеру. Коснитесь экрана для фокусировки.</string>
+    <string name="zoom" formatted="false">Масштаб</string>
+    <string name="flash" formatted="false">Фонарик</string>
+    <string name="flash_on" formatted="false">Фонарик включён</string>
+    <string name="flash_off" formatted="false">Фонарик выключен</string>
+    <string name="switch_camera" formatted="false">Сменить камеру</string>
+    <string name="batch" formatted="false">Пакетное сканирование</string>
+    <string name="batch_count" formatted="false">Собрано кодов:</string>
+    <string name="camera_permission" formatted="false">Разрешите доступ к камере</string>
+    <string name="permission_hint" formatted="false">Для сканирования разрешите камеру в настройках приложения. Изображения можно импортировать с главного экрана.</string>
+    <string name="camera_error" formatted="false">Камера недоступна. Вернитесь и попробуйте снова или импортируйте изображение.</string>
+    <string name="unavailable" formatted="false">Эта функция недоступна на устройстве.</string>
+    <string name="no_code" formatted="false">Код не распознан. Попробуйте более чёткое изображение.</string>
+    <string name="choose_code" formatted="false">Выберите код</string>
+    <string name="reading_image" formatted="false">Чтение изображения…</string>
+    <string name="image_error" formatted="false">Не удалось прочитать изображение. Попробуйте PNG или JPEG.</string>
+    <string name="export_error" formatted="false">Не удалось экспортировать. Проверьте свободное место или выберите другую папку.</string>
+    <string name="saved" formatted="false">Файл сохранён</string>
+    <string name="copied" formatted="false">Скопировано в буфер обмена</string>
+    <string name="no_handler" formatted="false">Нет приложения для этого действия.</string>
+</resources>

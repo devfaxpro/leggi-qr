@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Changanua. Unda. Hifadhi.</string>
+    <string name="scan" formatted="false">Changanua</string>
+    <string name="create" formatted="false">Unda</string>
+    <string name="collection" formatted="false">Mkusanyiko</string>
+    <string name="settings" formatted="false">Mipangilio</string>
+    <string name="language" formatted="false">Lugha</string>
+    <string name="system_language" formatted="false">Fuata lugha ya mfumo</string>
+    <string name="back" formatted="false">Rudi</string>
+    <string name="close" formatted="false">Funga</string>
+    <string name="cancel" formatted="false">Ghairi</string>
+    <string name="save" formatted="false">Hifadhi</string>
+    <string name="done" formatted="false">Maliza kuchanganua</string>
+    <string name="offline_badge" formatted="false">RAHISI. FARAGHA. BILA MTANDAO.</string>
+    <string name="hero_title" formatted="false">Msimbo mdogo.\nUwezekano mwingi.</string>
+    <string name="hero_subtitle" formatted="false">Viungo, mawazo na mawasiliano. Kwa kuchanganua tu.</string>
+    <string name="scan_now" formatted="false">Changanua msimbo</string>
+    <string name="import_image" formatted="false">Ingiza kutoka kwenye picha</string>
+    <string name="quick_create" formatted="false">Unda haraka</string>
+    <string name="view_all" formatted="false">Ona zote</string>
+    <string name="recent" formatted="false">Misimbo yako ya hivi karibuni</string>
+    <string name="empty_recent" formatted="false">Msimbo wako unaofuata unakusubiri</string>
+    <string name="empty_recent_hint" formatted="false">Changanua au unda msimbo ili uuone hapa.</string>
+    <string name="create_title" formatted="false">Yape mawazo yako msimbo.</string>
+    <string name="create_hint" formatted="false">Chagua unachotaka kushiriki.</string>
+    <string name="url" formatted="false">Kiungo</string>
+    <string name="text" formatted="false">Maandishi</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Anwani</string>
+    <string name="email" formatted="false">Barua pepe</string>
+    <string name="sms" formatted="false">Ujumbe</string>
+    <string name="phone" formatted="false">Simu</string>
+    <string name="location" formatted="false">Mahali</string>
+    <string name="event" formatted="false">Tukio</string>
+    <string name="barcode" formatted="false">Msimbo pau</string>
+    <string name="url_hint" formatted="false">Tovuti, ukurasa au wasifu</string>
+    <string name="text_hint" formatted="false">Maneno, madokezo na mawazo madogo</string>
+    <string name="wifi_hint" formatted="false">Shiriki ufikiaji wa mtandao</string>
+    <string name="contact_hint" formatted="false">Kadi ya biashara ya kidijitali</string>
+    <string name="email_hint" formatted="false">Anwani, mada na ujumbe</string>
+    <string name="sms_hint" formatted="false">Andaa ujumbe mfupi</string>
+    <string name="phone_hint" formatted="false">Namba ya kupiga simu</string>
+    <string name="location_hint" formatted="false">Sehemu sahihi kwenye ramani</string>
+    <string name="event_hint" formatted="false">Tukio la kalenda</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec na nyingine</string>
+    <string name="form_hint" formatted="false">Weka maelezo. Msimbo unaundwa kwenye simu yako.</string>
+    <string name="url_field" formatted="false">Anwani ya wavuti</string>
+    <string name="network" formatted="false">Jina la mtandao</string>
+    <string name="password" formatted="false">Nenosiri</string>
+    <string name="name" formatted="false">Jina kamili</string>
+    <string name="phone_field" formatted="false">Namba ya simu</string>
+    <string name="email_field" formatted="false">Anwani ya barua pepe</string>
+    <string name="company" formatted="false">Kampuni</string>
+    <string name="website" formatted="false">Tovuti</string>
+    <string name="subject" formatted="false">Mada</string>
+    <string name="message" formatted="false">Ujumbe</string>
+    <string name="latitude" formatted="false">Latitudo</string>
+    <string name="longitude" formatted="false">Longitudo</string>
+    <string name="event_title" formatted="false">Jina la tukio</string>
+    <string name="start" formatted="false">Mwanzo</string>
+    <string name="end" formatted="false">Mwisho</string>
+    <string name="place" formatted="false">Mahali</string>
+    <string name="content" formatted="false">Maudhui</string>
+    <string name="security" formatted="false">Usalama wa mtandao</string>
+    <string name="open_network" formatted="false">Mtandao wazi</string>
+    <string name="hidden_network" formatted="false">Mtandao uliofichwa</string>
+    <string name="format" formatted="false">Umbizo</string>
+    <string name="date_hint" formatted="false">Umbizo: 2026-12-31 18:30 (saa za eneo lako)</string>
+    <string name="barcode_help" formatted="false">EAN-13: tarakimu 12 au 13. EAN-8: tarakimu 7 au 8. ITF: idadi shufwa ya tarakimu. Code 39: herufi kubwa za Kilatini na tarakimu.</string>
+    <string name="generate" formatted="false">Unda msimbo</string>
+    <string name="private_hint" formatted="false">Hakuna upakiaji. Huhitaji akaunti.</string>
+    <string name="invalid_input" formatted="false">Kagua sehemu na umbizo. Fupisha maandishi marefu sana.</string>
+    <string name="collection_title" formatted="false">Kila kitu mahali pake.</string>
+    <string name="collection_hint" formatted="false">Misimbo unayotaka kuhifadhi, daima nawe.</string>
+    <string name="search" formatted="false">Tafuta maudhui au jina</string>
+    <string name="all" formatted="false">Misimbo yote</string>
+    <string name="favorites" formatted="false">Vipendwa</string>
+    <string name="created" formatted="false">Iliyoundwa</string>
+    <string name="scanned" formatted="false">Iliyochanganuliwa</string>
+    <string name="empty_collection" formatted="false">Hakuna misimbo iliyopatikana</string>
+    <string name="empty_collection_hint" formatted="false">Unda au changanua msimbo, au jaribu utafutaji mwingine.</string>
+    <string name="your_code" formatted="false">Msimbo wako</string>
+    <string name="result" formatted="false">Msimbo umepatikana</string>
+    <string name="code_preview" formatted="false">Hakikisho la msimbo</string>
+    <string name="preview_unavailable" formatted="false">Hakikisho halipatikani kwa maudhui haya.</string>
+    <string name="show_content" formatted="false">Onyesha maudhui yote</string>
+    <string name="copy" formatted="false">Nakili</string>
+    <string name="favorite" formatted="false">Weka kwenye vipendwa</string>
+    <string name="favorited" formatted="false">Iko kwenye vipendwa</string>
+    <string name="color" formatted="false">Mguso wa rangi</string>
+    <string name="sage" formatted="false">Kijani hafifu</string>
+    <string name="lavender" formatted="false">Zambarau hafifu</string>
+    <string name="cocoa" formatted="false">Kakao</string>
+    <string name="ink" formatted="false">Wino</string>
+    <string name="share_image" formatted="false">Shiriki picha</string>
+    <string name="save_png" formatted="false">Hifadhi picha ya PNG</string>
+    <string name="save_svg" formatted="false">Hifadhi vekta ya SVG</string>
+    <string name="share_text" formatted="false">Shiriki maudhui</string>
+    <string name="rename" formatted="false">Badili jina</string>
+    <string name="delete" formatted="false">Futa</string>
+    <string name="delete_confirm" formatted="false">Ufute msimbo huu?</string>
+    <string name="open_link" formatted="false">Fungua kiungo</string>
+    <string name="connect_wifi" formatted="false">Fungua mipangilio ya Wi-Fi</string>
+    <string name="add_contact" formatted="false">Ongeza kwenye anwani</string>
+    <string name="add_event" formatted="false">Ongeza kwenye kalenda</string>
+    <string name="open_map" formatted="false">Fungua kwenye ramani</string>
+    <string name="dial" formatted="false">Fungua kipiga simu</string>
+    <string name="compose" formatted="false">Andika ujumbe</string>
+    <string name="wifi_connect_hint" formatted="false">Nenosiri litanakiliwa. Chagua mtandao kwenye mipangilio ya Wi-Fi kisha ulibandike.</string>
+    <string name="open_confirm" formatted="false">Kagua maudhui kabla ya kuyafungua kwenye programu nyingine.</string>
+    <string name="continue_action" formatted="false">Endelea</string>
+    <string name="settings_title" formatted="false">Ifanye iwe yako.</string>
+    <string name="history_setting" formatted="false">Hifadhi historia</string>
+    <string name="history_hint" formatted="false">Hifadhi misimbo mipya kiotomatiki kwenye simu. Vipendwa huhifadhiwa kila wakati.</string>
+    <string name="vibrate_setting" formatted="false">Mtetemo wakati wa kuchanganua</string>
+    <string name="vibrate_hint" formatted="false">Mtetemo mdogo msimbo unapotambuliwa.</string>
+    <string name="privacy_title" formatted="false">Misimbo yako inabaki yako.</string>
+    <string name="privacy_body" formatted="false">Kuchanganua na kuunda hufanya kazi bila intaneti. Hakuna akaunti, matangazo au ufuatiliaji. Kamera hutumika kusoma misimbo tu; picha hazihifadhiwi. Historia hubaki kwenye programu na inaweza kufutwa. Kushiriki na kufungua programu nyingine ni chaguo lako.</string>
+    <string name="export_history" formatted="false">Hamisha historia</string>
+    <string name="export_history_hint" formatted="false">Faili ya JSON ina maudhui ya misimbo, pamoja na nywila za Wi-Fi. Chagua mahali pa kuihifadhi.</string>
+    <string name="clear_history" formatted="false">Futa mkusanyiko</string>
+    <string name="clear_confirm" formatted="false">Ufute misimbo yote iliyohifadhiwa, pamoja na vipendwa? Faili zilizohamishwa zitabaki ulipozihifadhi.</string>
+    <string name="deleted" formatted="false">Mkusanyiko umefutwa</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Imeundwa upya kwa Android. Kiolesura chepesi na lugha 40.</string>
+    <string name="licenses" formatted="false">Leseni za maktaba</string>
+    <string name="scan_hint" formatted="false">Weka msimbo ndani ya fremu. Gusa ili kulenga.</string>
+    <string name="zoom" formatted="false">Kuza</string>
+    <string name="flash" formatted="false">Tochi</string>
+    <string name="flash_on" formatted="false">Tochi imewashwa</string>
+    <string name="flash_off" formatted="false">Tochi imezimwa</string>
+    <string name="switch_camera" formatted="false">Badili kamera</string>
+    <string name="batch" formatted="false">Changanua kwa mfululizo</string>
+    <string name="batch_count" formatted="false">Misimbo iliyokusanywa:</string>
+    <string name="camera_permission" formatted="false">Ruhusu kamera</string>
+    <string name="permission_hint" formatted="false">Ruhusu kamera kwenye mipangilio ya programu ili kuchanganua. Unaweza pia kuingiza picha kutoka ukurasa wa mwanzo.</string>
+    <string name="camera_error" formatted="false">Kamera haipatikani. Rudi ujaribu tena au ingiza picha.</string>
+    <string name="unavailable" formatted="false">Kipengele hiki hakipatikani kwenye kifaa hiki.</string>
+    <string name="no_code" formatted="false">Hakuna msimbo uliotambuliwa. Jaribu picha iliyo wazi zaidi.</string>
+    <string name="choose_code" formatted="false">Chagua msimbo</string>
+    <string name="reading_image" formatted="false">Inasoma picha…</string>
+    <string name="image_error" formatted="false">Picha haiwezi kusomwa. Jaribu faili ya PNG au JPEG.</string>
+    <string name="export_error" formatted="false">Uhamishaji umeshindikana. Kagua nafasi iliyobaki au chagua folda nyingine.</string>
+    <string name="saved" formatted="false">Faili imehifadhiwa</string>
+    <string name="copied" formatted="false">Imenakiliwa kwenye ubao wa kunakili</string>
+    <string name="no_handler" formatted="false">Hakuna programu ya kufanya hili.</string>
+</resources>

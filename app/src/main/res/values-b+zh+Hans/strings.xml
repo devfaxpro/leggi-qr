@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_translations.py -->
+<resources>
+    <string name="tagline" formatted="false">扫描 · 创建 · 收藏</string>
+    <string name="scan" formatted="false">扫描</string>
+    <string name="create" formatted="false">创建</string>
+    <string name="collection" formatted="false">收藏库</string>
+    <string name="settings" formatted="false">设置</string>
+    <string name="language" formatted="false">语言</string>
+    <string name="system_language" formatted="false">跟随系统</string>
+    <string name="back" formatted="false">返回</string>
+    <string name="close" formatted="false">关闭</string>
+    <string name="cancel" formatted="false">取消</string>
+    <string name="save" formatted="false">保存</string>
+    <string name="done" formatted="false">完成扫描</string>
+    <string name="offline_badge" formatted="false">简单 · 私密 · 离线</string>
+    <string name="hero_title" formatted="false">小小二维码，\n开启更多可能。</string>
+    <string name="hero_subtitle" formatted="false">链接、灵感与连接，扫一扫即可触达。</string>
+    <string name="scan_now" formatted="false">扫描二维码或条形码</string>
+    <string name="import_image" formatted="false">从图片导入</string>
+    <string name="quick_create" formatted="false">快速创建</string>
+    <string name="view_all" formatted="false">查看全部</string>
+    <string name="recent" formatted="false">最近的代码</string>
+    <string name="empty_recent" formatted="false">等待你的下一个代码</string>
+    <string name="empty_recent_hint" formatted="false">扫描或创建代码后，就能在这里找到。</string>
+    <string name="create_title" formatted="false">让想法变成二维码。</string>
+    <string name="create_hint" formatted="false">选择你想分享的内容。</string>
+    <string name="url" formatted="false">链接</string>
+    <string name="text" formatted="false">文本</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">联系人</string>
+    <string name="email" formatted="false">电子邮件</string>
+    <string name="sms" formatted="false">短信</string>
+    <string name="phone" formatted="false">电话</string>
+    <string name="location" formatted="false">位置</string>
+    <string name="event" formatted="false">日程</string>
+    <string name="barcode" formatted="false">条形码</string>
+    <string name="url_hint" formatted="false">网站、页面或个人主页</string>
+    <string name="text_hint" formatted="false">文字、笔记与灵感</string>
+    <string name="wifi_hint" formatted="false">分享网络连接信息</string>
+    <string name="contact_hint" formatted="false">电子名片</string>
+    <string name="email_hint" formatted="false">地址、主题与正文</string>
+    <string name="sms_hint" formatted="false">准备短信内容</string>
+    <string name="phone_hint" formatted="false">要拨打的号码</string>
+    <string name="location_hint" formatted="false">地图上的精确位置</string>
+    <string name="event_hint" formatted="false">添加到日历的活动</string>
+    <string name="barcode_hint" formatted="false">EAN、Code 128、Aztec 等</string>
+    <string name="form_hint" formatted="false">填写信息，代码将在手机上生成。</string>
+    <string name="url_field" formatted="false">网址</string>
+    <string name="network" formatted="false">网络名称</string>
+    <string name="password" formatted="false">密码</string>
+    <string name="name" formatted="false">姓名</string>
+    <string name="phone_field" formatted="false">电话号码</string>
+    <string name="email_field" formatted="false">电子邮箱</string>
+    <string name="company" formatted="false">公司</string>
+    <string name="website" formatted="false">网站</string>
+    <string name="subject" formatted="false">主题</string>
+    <string name="message" formatted="false">内容</string>
+    <string name="latitude" formatted="false">纬度</string>
+    <string name="longitude" formatted="false">经度</string>
+    <string name="event_title" formatted="false">日程标题</string>
+    <string name="start" formatted="false">开始</string>
+    <string name="end" formatted="false">结束</string>
+    <string name="place" formatted="false">地点</string>
+    <string name="content" formatted="false">内容</string>
+    <string name="security" formatted="false">网络安全类型</string>
+    <string name="open_network" formatted="false">开放网络</string>
+    <string name="hidden_network" formatted="false">隐藏网络</string>
+    <string name="format" formatted="false">格式</string>
+    <string name="date_hint" formatted="false">格式：2026-12-31 18:30（当地时间）</string>
+    <string name="barcode_help" formatted="false">EAN-13：12或13位数字。EAN-8：7或8位数字。ITF：偶数位数字。Code 39：大写字母和数字。</string>
+    <string name="generate" formatted="false">生成代码</string>
+    <string name="private_hint" formatted="false">无需上传，无需注册。</string>
+    <string name="invalid_input" formatted="false">请检查输入和所选格式。内容过长时请缩短。</string>
+    <string name="collection_title" formatted="false">井然有序，随时可用。</string>
+    <string name="collection_hint" formatted="false">想保留的代码，随时随地都能找到。</string>
+    <string name="search" formatted="false">搜索内容或名称</string>
+    <string name="all" formatted="false">全部代码</string>
+    <string name="favorites" formatted="false">收藏</string>
+    <string name="created" formatted="false">已创建</string>
+    <string name="scanned" formatted="false">已扫描</string>
+    <string name="empty_collection" formatted="false">未找到代码</string>
+    <string name="empty_collection_hint" formatted="false">创建或扫描代码，或尝试其他搜索词。</string>
+    <string name="your_code" formatted="false">你的代码</string>
+    <string name="result" formatted="false">识别结果</string>
+    <string name="code_preview" formatted="false">代码预览</string>
+    <string name="preview_unavailable" formatted="false">此内容无法预览。</string>
+    <string name="show_content" formatted="false">显示完整内容</string>
+    <string name="copy" formatted="false">复制</string>
+    <string name="favorite" formatted="false">收藏</string>
+    <string name="favorited" formatted="false">已收藏</string>
+    <string name="color" formatted="false">添一点色彩</string>
+    <string name="sage" formatted="false">鼠尾草绿</string>
+    <string name="lavender" formatted="false">薰衣草紫</string>
+    <string name="cocoa" formatted="false">可可棕</string>
+    <string name="ink" formatted="false">墨黑</string>
+    <string name="share_image" formatted="false">分享图片</string>
+    <string name="save_png" formatted="false">保存 PNG 图片</string>
+    <string name="save_svg" formatted="false">保存 SVG 矢量图</string>
+    <string name="share_text" formatted="false">分享内容</string>
+    <string name="rename" formatted="false">重命名</string>
+    <string name="delete" formatted="false">删除</string>
+    <string name="delete_confirm" formatted="false">删除此代码？</string>
+    <string name="open_link" formatted="false">打开链接</string>
+    <string name="connect_wifi" formatted="false">打开 Wi-Fi 设置</string>
+    <string name="add_contact" formatted="false">添加联系人</string>
+    <string name="add_event" formatted="false">添加到日历</string>
+    <string name="open_map" formatted="false">在地图中打开</string>
+    <string name="dial" formatted="false">打开拨号界面</string>
+    <string name="compose" formatted="false">编写消息</string>
+    <string name="wifi_connect_hint" formatted="false">密码将被复制。请在 Wi-Fi 设置中选择网络并粘贴密码。</string>
+    <string name="open_confirm" formatted="false">在其他应用中打开前，请先检查内容。</string>
+    <string name="continue_action" formatted="false">继续</string>
+    <string name="settings_title" formatted="false">随你所好。</string>
+    <string name="history_setting" formatted="false">保留历史记录</string>
+    <string name="history_hint" formatted="false">自动在手机上保存新代码。收藏的代码始终会保存。</string>
+    <string name="vibrate_setting" formatted="false">扫描时振动</string>
+    <string name="vibrate_hint" formatted="false">识别到代码时轻轻振动提示。</string>
+    <string name="privacy_title" formatted="false">你的代码，由你掌握。</string>
+    <string name="privacy_body" formatted="false">扫描和创建均可离线进行。无需账号，无广告，无追踪。摄像头仅用于读取代码，不保存拍摄画面。历史记录保存在应用内，可随时删除。分享或打开外部应用均由你选择。</string>
+    <string name="export_history" formatted="false">导出历史记录</string>
+    <string name="export_history_hint" formatted="false">JSON 文件包含代码内容，包括其中的 Wi-Fi 密码。请选择保存位置。</string>
+    <string name="clear_history" formatted="false">清空收藏库</string>
+    <string name="clear_confirm" formatted="false">删除所有已保存的代码，包括收藏？已导出的文件仍保留在原位置。</string>
+    <string name="deleted" formatted="false">收藏库已清空</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">专为 Android 从零打造。轻巧的界面，支持40种语言。</string>
+    <string name="licenses" formatted="false">第三方库许可</string>
+    <string name="scan_hint" formatted="false">将代码放入框内，轻触对焦。</string>
+    <string name="zoom" formatted="false">缩放</string>
+    <string name="flash" formatted="false">手电筒</string>
+    <string name="flash_on" formatted="false">手电筒已开启</string>
+    <string name="flash_off" formatted="false">手电筒已关闭</string>
+    <string name="switch_camera" formatted="false">切换摄像头</string>
+    <string name="batch" formatted="false">批量扫描</string>
+    <string name="batch_count" formatted="false">已扫描代码数：</string>
+    <string name="camera_permission" formatted="false">允许使用摄像头</string>
+    <string name="permission_hint" formatted="false">请在应用设置中允许摄像头权限以进行扫描。你也可以从首页导入图片。</string>
+    <string name="camera_error" formatted="false">摄像头不可用。请返回后重试，或导入图片。</string>
+    <string name="unavailable" formatted="false">此设备不支持此功能。</string>
+    <string name="no_code" formatted="false">未识别到代码，请尝试更清晰的图片。</string>
+    <string name="choose_code" formatted="false">选择代码</string>
+    <string name="reading_image" formatted="false">正在识别图片…</string>
+    <string name="image_error" formatted="false">无法读取此图片。请尝试 PNG 或 JPEG 文件。</string>
+    <string name="export_error" formatted="false">导出失败。请检查可用空间或选择其他文件夹。</string>
+    <string name="saved" formatted="false">文件已保存</string>
+    <string name="copied" formatted="false">已复制到剪贴板</string>
+    <string name="no_handler" formatted="false">没有可执行此操作的应用。</string>
+</resources>

@@ -1,0 +1,144 @@
+key|nl|pl|cs|hu|ro
+tagline|Scan. Maak. Bewaar.|Skanuj. Twórz. Zachowuj.|Skenujte. Tvořte. Ukládejte.|Olvass be. Készíts. Ments.|Scanează. Creează. Păstrează.
+scan|Scannen|Skanuj|Skenovat|Beolvasás|Scanează
+create|Maken|Utwórz|Vytvořit|Létrehozás|Creează
+collection|Verzameling|Kolekcja|Sbírka|Gyűjtemény|Colecție
+settings|Instellingen|Ustawienia|Nastavení|Beállítások|Setări
+language|Taal|Język|Jazyk|Nyelv|Limbă
+system_language|Systeemtaal volgen|Język systemu|Podle systému|Rendszernyelv követése|Limba sistemului
+back|Terug|Wstecz|Zpět|Vissza|Înapoi
+close|Sluiten|Zamknij|Zavřít|Bezárás|Închide
+cancel|Annuleren|Anuluj|Zrušit|Mégse|Anulează
+save|Opslaan|Zapisz|Uložit|Mentés|Salvează
+done|Scannen afronden|Zakończ skanowanie|Ukončit skenování|Beolvasás befejezése|Încheie scanarea
+offline_badge|EENVOUDIG. PRIVÉ. OFFLINE.|PROSTO. PRYWATNIE. OFFLINE.|JEDNODUŠE. SOUKROMĚ. OFFLINE.|EGYSZERŰ. PRIVÁT. OFFLINE.|SIMPLU. PRIVAT. OFFLINE.
+hero_title|Een kleine code.\nVol mogelijkheden.|Mały kod.\nWiele możliwości.|Malý kód.\nSpousta možností.|Egy kis kód.\nRengeteg lehetőség.|Un cod mic.\nMulte posibilități.
+hero_subtitle|Links, ideeën en contacten. Eén scan is genoeg.|Linki, pomysły i kontakty. Wystarczy zeskanować.|Odkazy, nápady a kontakty. Stačí naskenovat.|Hivatkozások, ötletek és kapcsolatok. Egyetlen beolvasással.|Linkuri, idei și conexiuni. La o scanare distanță.
+scan_now|Een code scannen|Zeskanuj kod|Naskenovat kód|Kód beolvasása|Scanează un cod
+import_image|Importeren uit afbeelding|Importuj z obrazu|Načíst z obrázku|Importálás képből|Importă din imagine
+quick_create|Snel maken|Szybkie tworzenie|Rychlé vytvoření|Gyors létrehozás|Creare rapidă
+view_all|Alles bekijken|Zobacz wszystkie|Zobrazit vše|Összes megtekintése|Vezi toate
+recent|Je recente codes|Ostatnie kody|Poslední kódy|Legutóbbi kódjaid|Codurile tale recente
+empty_recent|Je volgende code wacht|Czas na kolejny kod|Další kód už čeká|Vár a következő kód|Următorul cod te așteaptă
+empty_recent_hint|Scan of maak een code om die hier te vinden.|Zeskanuj lub utwórz kod, a pojawi się tutaj.|Naskenujte nebo vytvořte kód a najdete ho zde.|Olvass be vagy készíts egy kódot, és itt megtalálod.|Scanează sau creează un cod și îl vei găsi aici.
+create_title|Geef je ideeën een code.|Zamień pomysły w kody.|Dejte nápadům podobu kódu.|Adj kódot az ötleteidnek.|Dă-le ideilor tale un cod.
+create_hint|Kies wat je wilt delen.|Wybierz, co chcesz udostępnić.|Vyberte, co chcete sdílet.|Válaszd ki, mit szeretnél megosztani.|Alege ce vrei să distribui.
+url|Link|Link|Odkaz|Hivatkozás|Link
+text|Tekst|Tekst|Text|Szöveg|Text
+contact|Contact|Kontakt|Kontakt|Névjegy|Contact
+email|E-mail|E-mail|E-mail|E-mail|E-mail
+sms|Bericht|Wiadomość|Zpráva|Üzenet|Mesaj
+phone|Telefoon|Telefon|Telefon|Telefon|Telefon
+location|Locatie|Lokalizacja|Poloha|Hely|Locație
+event|Afspraak|Wydarzenie|Událost|Esemény|Eveniment
+barcode|Streepjescode|Kod kreskowy|Čárový kód|Vonalkód|Cod de bare
+url_hint|Een website, pagina of profiel|Strona internetowa lub profil|Web, stránka nebo profil|Weboldal vagy profil|Un site, o pagină sau un profil
+text_hint|Woorden, notities en ideeën|Słowa, notatki i pomysły|Slova, poznámky a nápady|Szavak, jegyzetek és ötletek|Cuvinte, notițe și idei
+wifi_hint|Deel toegang tot een netwerk|Udostępnij dostęp do sieci|Sdílejte přístup k síti|Hálózati hozzáférés megosztása|Distribuie accesul la o rețea
+contact_hint|Een digitaal visitekaartje|Cyfrowa wizytówka|Digitální vizitka|Digitális névjegy|O carte de vizită digitală
+email_hint|Adres, onderwerp en bericht|Adres, temat i wiadomość|Adresa, předmět a zpráva|Cím, tárgy és üzenet|Adresă, subiect și mesaj
+sms_hint|Stel een sms op|Przygotuj SMS|Připravte SMS|SMS előkészítése|Pregătește un SMS
+phone_hint|Een nummer om te bellen|Numer do połączenia|Číslo pro zavolání|Hívható telefonszám|Un număr de apelat
+location_hint|Een exacte plek op de kaart|Dokładne miejsce na mapie|Přesné místo na mapě|Pontos hely a térképen|Un punct precis pe hartă
+event_hint|Een afspraak voor de agenda|Wydarzenie do kalendarza|Událost do kalendáře|Esemény a naptárba|Un eveniment pentru calendar
+barcode_hint|EAN, Code 128, Aztec en meer|EAN, Code 128, Aztec i inne|EAN, Code 128, Aztec a další|EAN, Code 128, Aztec és továbbiak|EAN, Code 128, Aztec și altele
+form_hint|Vul de gegevens in. De code wordt op je telefoon gemaakt.|Wpisz dane. Kod powstaje na Twoim telefonie.|Vyplňte údaje. Kód se vytvoří ve vašem telefonu.|Add meg az adatokat. A kód a telefonodon készül el.|Completează datele. Codul este creat pe telefon.
+url_field|Webadres|Adres internetowy|Webová adresa|Webcím|Adresă web
+network|Netwerknaam|Nazwa sieci|Název sítě|Hálózat neve|Numele rețelei
+password|Wachtwoord|Hasło|Heslo|Jelszó|Parolă
+name|Volledige naam|Imię i nazwisko|Celé jméno|Teljes név|Nume complet
+phone_field|Telefoonnummer|Numer telefonu|Telefonní číslo|Telefonszám|Număr de telefon
+email_field|E-mailadres|Adres e-mail|E-mailová adresa|E-mail-cím|Adresă de e-mail
+company|Bedrijf|Firma|Společnost|Cég|Companie
+website|Website|Strona internetowa|Web|Weboldal|Site web
+subject|Onderwerp|Temat|Předmět|Tárgy|Subiect
+message|Bericht|Wiadomość|Zpráva|Üzenet|Mesaj
+latitude|Breedtegraad|Szerokość geograficzna|Zeměpisná šířka|Szélességi fok|Latitudine
+longitude|Lengtegraad|Długość geograficzna|Zeměpisná délka|Hosszúsági fok|Longitudine
+event_title|Titel van afspraak|Nazwa wydarzenia|Název události|Esemény címe|Titlul evenimentului
+start|Begin|Początek|Začátek|Kezdés|Început
+end|Einde|Koniec|Konec|Befejezés|Sfârșit
+place|Plaats|Miejsce|Místo|Helyszín|Loc
+content|Inhoud|Treść|Obsah|Tartalom|Conținut
+security|Netwerkbeveiliging|Zabezpieczenia sieci|Zabezpečení sítě|Hálózati biztonság|Securitatea rețelei
+open_network|Open netwerk|Sieć otwarta|Otevřená síť|Nyílt hálózat|Rețea deschisă
+hidden_network|Verborgen netwerk|Sieć ukryta|Skrytá síť|Rejtett hálózat|Rețea ascunsă
+format|Formaat|Format|Formát|Formátum|Format
+date_hint|Formaat: 2026-12-31 18:30 (lokale tijd)|Format: 2026-12-31 18:30 (czas lokalny)|Formát: 2026-12-31 18:30 (místní čas)|Formátum: 2026-12-31 18:30 (helyi idő)|Format: 2026-12-31 18:30 (ora locală)
+barcode_help|EAN-13: 12 of 13 cijfers. EAN-8: 7 of 8 cijfers. ITF: even aantal cijfers. Code 39: hoofdletters en cijfers.|EAN-13: 12 lub 13 cyfr. EAN-8: 7 lub 8 cyfr. ITF: parzysta liczba cyfr. Code 39: wielkie litery i cyfry.|EAN-13: 12 nebo 13 číslic. EAN-8: 7 nebo 8 číslic. ITF: sudý počet číslic. Code 39: velká písmena a číslice.|EAN-13: 12 vagy 13 számjegy. EAN-8: 7 vagy 8 számjegy. ITF: páros számú számjegy. Code 39: nagybetűk és számjegyek.|EAN-13: 12 sau 13 cifre. EAN-8: 7 sau 8 cifre. ITF: număr par de cifre. Code 39: majuscule și cifre.
+generate|Code maken|Utwórz kod|Vytvořit kód|Kód létrehozása|Creează codul
+private_hint|Geen uploads. Geen account nodig.|Bez przesyłania danych. Bez konta.|Bez odesílání dat. Bez účtu.|Nincs feltöltés. Nem kell fiók.|Fără încărcări. Fără cont.
+invalid_input|Controleer de velden en het formaat. Kort te lange tekst in.|Sprawdź pola i format. Skróć zbyt długi tekst.|Zkontrolujte pole a formát. Zkraťte příliš dlouhý text.|Ellenőrizd a mezőket és a formátumot. Rövidítsd le a túl hosszú szöveget.|Verifică datele și formatul. Scurtează textul prea lung.
+collection_title|Alles op zijn plek.|Wszystko na swoim miejscu.|Vše na svém místě.|Minden a helyén.|Totul la locul lui.
+collection_hint|De codes die je wilt bewaren, altijd bij je.|Ważne kody zawsze przy Tobie.|Kódy, které chcete uchovat, vždy po ruce.|A megőrzött kódok mindig veled vannak.|Codurile pe care vrei să le păstrezi, mereu cu tine.
+search|Zoek op inhoud of naam|Szukaj treści lub nazwy|Hledat obsah nebo název|Keresés tartalom vagy név alapján|Caută după conținut sau nume
+all|Alle codes|Wszystkie kody|Všechny kódy|Összes kód|Toate codurile
+favorites|Favorieten|Ulubione|Oblíbené|Kedvencek|Favorite
+created|Gemaakt|Utworzone|Vytvořené|Létrehozott|Create
+scanned|Gescand|Zeskanowane|Naskenované|Beolvasott|Scanate
+empty_collection|Geen codes gevonden|Nie znaleziono kodów|Žádné kódy nenalezeny|Nincs találat|Nu s-au găsit coduri
+empty_collection_hint|Maak of scan een code, of zoek iets anders.|Utwórz lub zeskanuj kod albo zmień wyszukiwanie.|Vytvořte či naskenujte kód nebo změňte hledání.|Készíts vagy olvass be egy kódot, vagy módosítsd a keresést.|Creează ori scanează un cod sau încearcă altă căutare.
+your_code|Je code|Twój kod|Váš kód|A kódod|Codul tău
+result|Code gevonden|Znaleziony kod|Nalezený kód|Talált kód|Cod găsit
+code_preview|Codevoorbeeld|Podgląd kodu|Náhled kódu|Kód előnézete|Previzualizarea codului
+preview_unavailable|Geen voorbeeld beschikbaar voor deze inhoud.|Podgląd tej treści jest niedostępny.|Náhled tohoto obsahu není dostupný.|Ehhez a tartalomhoz nincs előnézet.|Previzualizarea acestui conținut nu este disponibilă.
+show_content|Volledige inhoud tonen|Pokaż całą treść|Zobrazit celý obsah|Teljes tartalom megjelenítése|Arată tot conținutul
+copy|Kopiëren|Kopiuj|Kopírovat|Másolás|Copiază
+favorite|Favoriet|Dodaj do ulubionych|Do oblíbených|Kedvencekhez|Adaugă la favorite
+favorited|In favorieten|W ulubionych|V oblíbených|Kedvenc|În favorite
+color|Een vleugje kleur|Odrobina koloru|Trocha barev|Egy kis szín|Un strop de culoare
+sage|Saliegroen|Szałwiowy|Šalvějová|Zsályazöld|Verde salvie
+lavender|Lavendel|Lawendowy|Levandulová|Levendula|Lavandă
+cocoa|Cacao|Kakaowy|Kakaová|Kakaóbarna|Cacao
+ink|Inktzwart|Atramentowy|Inkoustová|Tintafekete|Cerneală
+share_image|Afbeelding delen|Udostępnij obraz|Sdílet obrázek|Kép megosztása|Distribuie imaginea
+save_png|PNG-afbeelding opslaan|Zapisz obraz PNG|Uložit obrázek PNG|PNG-kép mentése|Salvează imaginea PNG
+save_svg|SVG-vector opslaan|Zapisz plik SVG|Uložit vektor SVG|SVG-vektor mentése|Salvează fișierul SVG
+share_text|Inhoud delen|Udostępnij treść|Sdílet obsah|Tartalom megosztása|Distribuie conținutul
+rename|Naam wijzigen|Zmień nazwę|Přejmenovat|Átnevezés|Redenumește
+delete|Verwijderen|Usuń|Smazat|Törlés|Șterge
+delete_confirm|Deze code verwijderen?|Usunąć ten kod?|Smazat tento kód?|Törlöd ezt a kódot?|Ștergi acest cod?
+open_link|Link openen|Otwórz link|Otevřít odkaz|Hivatkozás megnyitása|Deschide linkul
+connect_wifi|Wi-Fi-instellingen openen|Otwórz ustawienia Wi-Fi|Otevřít nastavení Wi-Fi|Wi-Fi-beállítások megnyitása|Deschide setările Wi-Fi
+add_contact|Toevoegen aan contacten|Dodaj do kontaktów|Přidat do kontaktů|Hozzáadás a névjegyekhez|Adaugă în contacte
+add_event|Toevoegen aan agenda|Dodaj do kalendarza|Přidat do kalendáře|Hozzáadás a naptárhoz|Adaugă în calendar
+open_map|Openen in kaarten|Otwórz na mapie|Otevřít v mapách|Megnyitás a térképen|Deschide pe hartă
+dial|Kiezer openen|Otwórz wybieranie numeru|Otevřít vytáčení|Tárcsázó megnyitása|Deschide apelarea
+compose|Bericht opstellen|Utwórz wiadomość|Napsat zprávu|Üzenet írása|Compune mesajul
+wifi_connect_hint|Het wachtwoord wordt gekopieerd. Kies het netwerk in de Wi-Fi-instellingen en plak het.|Hasło zostanie skopiowane. Wybierz sieć w ustawieniach Wi-Fi i wklej je.|Heslo se zkopíruje. Vyberte síť v nastavení Wi-Fi a vložte ho.|A jelszót kimásoljuk. Válaszd ki a hálózatot a Wi-Fi-beállításokban, és illeszd be.|Parola va fi copiată. Selectează rețeaua în setările Wi-Fi și lipește-o.
+open_confirm|Controleer de inhoud voordat je die in een andere app opent.|Sprawdź treść przed otwarciem w innej aplikacji.|Před otevřením v jiné aplikaci obsah zkontrolujte.|Ellenőrizd a tartalmat, mielőtt másik alkalmazásban megnyitod.|Verifică acest conținut înainte de a-l deschide în altă aplicație.
+continue_action|Doorgaan|Kontynuuj|Pokračovat|Folytatás|Continuă
+settings_title|Helemaal van jou.|Po Twojemu.|Podle vašich představ.|A te ízlésed szerint.|Așa cum îți place.
+history_setting|Geschiedenis bewaren|Zachowuj historię|Ukládat historii|Előzmények megőrzése|Păstrează istoricul
+history_hint|Nieuwe codes automatisch op je telefoon bewaren. Favorieten worden altijd opgeslagen.|Automatycznie zapisuj nowe kody na telefonie. Ulubione są zapisywane zawsze.|Nové kódy se automaticky ukládají do telefonu. Oblíbené se ukládají vždy.|Az új kódok automatikus mentése a telefonra. A kedvenceket mindig mentjük.|Salvează automat codurile noi pe telefon. Favoritele sunt salvate întotdeauna.
+vibrate_setting|Trillen bij scannen|Wibracja po skanowaniu|Vibrace při skenování|Rezgés beolvasáskor|Vibrație la scanare
+vibrate_hint|Een zacht signaal als een code wordt herkend.|Delikatny sygnał po rozpoznaniu kodu.|Jemný signál při rozpoznání kódu.|Finom jelzés a kód felismerésekor.|Un semnal discret când este recunoscut un cod.
+privacy_title|Je codes blijven van jou.|Twoje kody pozostają Twoje.|Vaše kódy zůstanou vaše.|A kódjaid a tieid maradnak.|Codurile tale rămân ale tale.
+privacy_body|Scannen en maken werkt offline. Geen account, advertenties of tracking. De camera leest alleen codes; beelden worden niet bewaard. De geschiedenis blijft in de app en kan worden gewist. Jij kiest of je deelt of andere apps opent.|Skanowanie i tworzenie działa offline. Bez konta, reklam i śledzenia. Aparat służy tylko do odczytu kodów; obrazy nie są zapisywane. Historia pozostaje w aplikacji i można ją usunąć. Udostępnianie i inne aplikacje to Twój wybór.|Skenování a tvorba fungují offline. Bez účtu, reklam a sledování. Fotoaparát pouze čte kódy; snímky se neukládají. Historie zůstává v aplikaci a lze ji smazat. O sdílení a otevření jiných aplikací rozhodujete vy.|A beolvasás és létrehozás offline működik. Nincs fiók, reklám vagy követés. A kamera csak kódokat olvas; képeket nem mentünk. Az előzmények az alkalmazásban maradnak és törölhetők. A megosztásról és más alkalmazások használatáról te döntesz.|Scanarea și crearea funcționează offline. Fără cont, reclame sau urmărire. Camera citește doar coduri; imaginile nu sunt stocate. Istoricul rămâne în aplicație și poate fi șters. Tu alegi dacă distribui sau deschizi alte aplicații.
+export_history|Geschiedenis exporteren|Eksportuj historię|Exportovat historii|Előzmények exportálása|Exportă istoricul
+export_history_hint|Het JSON-bestand bevat de code-inhoud, ook eventuele Wi-Fi-wachtwoorden. Kies waar je het bewaart.|Plik JSON zawiera treść kodów, także hasła Wi-Fi. Wybierz miejsce zapisu.|Soubor JSON obsahuje obsah kódů včetně hesel Wi-Fi. Vyberte místo uložení.|A JSON-fájl a kódok tartalmát, köztük a Wi-Fi-jelszavakat is tartalmazza. Válassz mentési helyet.|Fișierul JSON conține datele codurilor, inclusiv parolele Wi-Fi. Alege unde îl salvezi.
+clear_history|Verzameling wissen|Wyczyść kolekcję|Vymazat sbírku|Gyűjtemény törlése|Golește colecția
+clear_confirm|Alle opgeslagen codes verwijderen, ook favorieten? Geëxporteerde bestanden blijven op hun plek.|Usunąć wszystkie zapisane kody, także ulubione? Wyeksportowane pliki pozostaną w miejscu zapisu.|Smazat všechny uložené kódy včetně oblíbených? Exportované soubory zůstanou na svém místě.|Törlöd az összes mentett kódot, a kedvenceket is? Az exportált fájlok a mentési helyükön maradnak.|Ștergi toate codurile salvate, inclusiv favoritele? Fișierele exportate rămân unde le-ai salvat.
+deleted|Verzameling gewist|Kolekcja wyczyszczona|Sbírka vymazána|Gyűjtemény törölve|Colecție golită
+about_body|Vanaf nul gemaakt voor Android. Een lichte interface in 40 talen.|Stworzona od podstaw na Androida. Przejrzysty interfejs w 40 językach.|Vytvořeno od základu pro Android. Světlé rozhraní ve 40 jazycích.|Alapoktól Androidra készült. Világos felület 40 nyelven.|Creată de la zero pentru Android. O interfață luminoasă în 40 de limbi.
+licenses|Bibliotheeklicenties|Licencje bibliotek|Licence knihoven|Könyvtárak licencei|Licențele bibliotecilor
+scan_hint|Richt op de code. Tik om scherp te stellen.|Skieruj aparat na kod. Dotknij, aby ustawić ostrość.|Zaměřte kód. Klepnutím zaostříte.|Irányítsd a kamerát a kódra. Érintsd meg a fókuszáláshoz.|Încadrează codul. Atinge pentru focalizare.
+zoom|Zoom|Powiększenie|Přiblížení|Nagyítás|Zoom
+flash|Zaklamp|Latarka|Svítilna|Zseblámpa|Lanternă
+flash_on|Zaklamp aan|Latarka włączona|Svítilna zapnuta|Zseblámpa bekapcsolva|Lanternă pornită
+flash_off|Zaklamp uit|Latarka wyłączona|Svítilna vypnuta|Zseblámpa kikapcsolva|Lanternă oprită
+switch_camera|Camera wisselen|Zmień aparat|Přepnout fotoaparát|Kameraváltás|Schimbă camera
+batch|Meerdere codes scannen|Skanowanie seryjne|Hromadné skenování|Több kód beolvasása|Scanare multiplă
+batch_count|Verzamelde codes:|Zebrane kody:|Nasbírané kódy:|Összegyűjtött kódok:|Coduri colectate:
+camera_permission|Cameratoegang toestaan|Zezwól na dostęp do aparatu|Povolit přístup k fotoaparátu|Kamerahozzáférés engedélyezése|Permite accesul la cameră
+permission_hint|Schakel de camera in bij de app-instellingen om te scannen. Afbeeldingen importeren kan nog steeds vanaf het startscherm.|Włącz aparat w ustawieniach aplikacji, aby skanować. Nadal możesz importować obrazy z ekranu głównego.|Pro skenování povolte fotoaparát v nastavení aplikace. Obrázky můžete dál načítat z úvodní obrazovky.|A beolvasáshoz engedélyezd a kamerát az alkalmazás beállításaiban. Képeket továbbra is importálhatsz a kezdőképernyőről.|Activează camera în setările aplicației pentru a scana. Poți importa în continuare imagini din ecranul principal.
+camera_error|Camera niet beschikbaar. Ga terug en probeer opnieuw, of importeer een afbeelding.|Aparat niedostępny. Wróć i spróbuj ponownie lub zaimportuj obraz.|Fotoaparát není dostupný. Vraťte se a zkuste to znovu nebo načtěte obrázek.|A kamera nem érhető el. Lépj vissza, és próbáld újra, vagy importálj képet.|Camera nu este disponibilă. Revino și încearcă din nou sau importă o imagine.
+unavailable|Deze functie is niet beschikbaar op dit apparaat.|Ta funkcja jest niedostępna na tym urządzeniu.|Tato funkce není na tomto zařízení dostupná.|Ez a funkció nem érhető el ezen az eszközön.|Această funcție nu este disponibilă pe acest dispozitiv.
+no_code|Geen code herkend. Probeer een duidelijkere afbeelding.|Nie rozpoznano kodu. Spróbuj wyraźniejszego obrazu.|Kód nebyl rozpoznán. Zkuste ostřejší obrázek.|Nem található kód. Próbálj élesebb képet.|Niciun cod recunoscut. Încearcă o imagine mai clară.
+choose_code|Kies een code|Wybierz kod|Vyberte kód|Válassz kódot|Alege un cod
+reading_image|Afbeelding lezen…|Odczytywanie obrazu…|Načítání obrázku…|Kép beolvasása…|Se citește imaginea…
+image_error|Deze afbeelding kan niet worden gelezen. Probeer PNG of JPEG.|Nie można odczytać obrazu. Spróbuj pliku PNG lub JPEG.|Obrázek nelze načíst. Zkuste soubor PNG nebo JPEG.|A kép nem olvasható. Próbálj PNG- vagy JPEG-fájlt.|Imaginea nu poate fi citită. Încearcă un fișier PNG sau JPEG.
+export_error|Exporteren mislukt. Controleer de vrije ruimte of kies een andere map.|Eksport nie powiódł się. Sprawdź wolne miejsce lub wybierz inny folder.|Export selhal. Zkontrolujte volné místo nebo vyberte jinou složku.|Az exportálás sikertelen. Ellenőrizd a szabad helyet, vagy válassz másik mappát.|Exportul a eșuat. Verifică spațiul liber sau alege alt dosar.
+saved|Bestand opgeslagen|Plik zapisany|Soubor uložen|Fájl mentve|Fișier salvat
+copied|Gekopieerd naar klembord|Skopiowano do schowka|Zkopírováno do schránky|Vágólapra másolva|Copiat în clipboard
+no_handler|Geen app beschikbaar voor deze actie.|Brak aplikacji do wykonania tej czynności.|Pro tuto akci není dostupná aplikace.|Nincs alkalmazás ehhez a művelethez.|Nu există o aplicație pentru această acțiune.

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Skannaa. Luo. Tallenna.</string>
+    <string name="scan" formatted="false">Skannaa</string>
+    <string name="create" formatted="false">Luo</string>
+    <string name="collection" formatted="false">Kokoelma</string>
+    <string name="settings" formatted="false">Asetukset</string>
+    <string name="language" formatted="false">Kieli</string>
+    <string name="system_language" formatted="false">Järjestelmän kieli</string>
+    <string name="back" formatted="false">Takaisin</string>
+    <string name="close" formatted="false">Sulje</string>
+    <string name="cancel" formatted="false">Peruuta</string>
+    <string name="save" formatted="false">Tallenna</string>
+    <string name="done" formatted="false">Lopeta skannaus</string>
+    <string name="offline_badge" formatted="false">HELPPO. YKSITYINEN. OFFLINE.</string>
+    <string name="hero_title" formatted="false">Pieni koodi.\nPaljon mahdollisuuksia.</string>
+    <string name="hero_subtitle" formatted="false">Linkit, ideat ja yhteydet. Vain skannauksen päässä.</string>
+    <string name="scan_now" formatted="false">Skannaa koodi</string>
+    <string name="import_image" formatted="false">Tuo kuvasta</string>
+    <string name="quick_create" formatted="false">Pikaluonti</string>
+    <string name="view_all" formatted="false">Näytä kaikki</string>
+    <string name="recent" formatted="false">Viimeisimmät koodisi</string>
+    <string name="empty_recent" formatted="false">Seuraava koodisi odottaa</string>
+    <string name="empty_recent_hint" formatted="false">Skannaa tai luo koodi, niin löydät sen täältä.</string>
+    <string name="create_title" formatted="false">Anna ideoillesi koodi.</string>
+    <string name="create_hint" formatted="false">Valitse, mitä haluat jakaa.</string>
+    <string name="url" formatted="false">Linkki</string>
+    <string name="text" formatted="false">Teksti</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Yhteystieto</string>
+    <string name="email" formatted="false">Sähköposti</string>
+    <string name="sms" formatted="false">Viesti</string>
+    <string name="phone" formatted="false">Puhelin</string>
+    <string name="location" formatted="false">Sijainti</string>
+    <string name="event" formatted="false">Tapahtuma</string>
+    <string name="barcode" formatted="false">Viivakoodi</string>
+    <string name="url_hint" formatted="false">Verkkosivusto, sivu tai profiili</string>
+    <string name="text_hint" formatted="false">Sanoja, muistiinpanoja ja ideoita</string>
+    <string name="wifi_hint" formatted="false">Jaa verkkoyhteys</string>
+    <string name="contact_hint" formatted="false">Digitaalinen käyntikortti</string>
+    <string name="email_hint" formatted="false">Osoite, aihe ja viesti</string>
+    <string name="sms_hint" formatted="false">Valmistele tekstiviesti</string>
+    <string name="phone_hint" formatted="false">Numero, johon soittaa</string>
+    <string name="location_hint" formatted="false">Tarkka paikka kartalla</string>
+    <string name="event_hint" formatted="false">Tapahtuma kalenteriin</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec ja muita</string>
+    <string name="form_hint" formatted="false">Anna tiedot. Koodi luodaan puhelimessasi.</string>
+    <string name="url_field" formatted="false">Verkko-osoite</string>
+    <string name="network" formatted="false">Verkon nimi</string>
+    <string name="password" formatted="false">Salasana</string>
+    <string name="name" formatted="false">Koko nimi</string>
+    <string name="phone_field" formatted="false">Puhelinnumero</string>
+    <string name="email_field" formatted="false">Sähköpostiosoite</string>
+    <string name="company" formatted="false">Yritys</string>
+    <string name="website" formatted="false">Verkkosivusto</string>
+    <string name="subject" formatted="false">Aihe</string>
+    <string name="message" formatted="false">Viesti</string>
+    <string name="latitude" formatted="false">Leveysaste</string>
+    <string name="longitude" formatted="false">Pituusaste</string>
+    <string name="event_title" formatted="false">Tapahtuman nimi</string>
+    <string name="start" formatted="false">Alku</string>
+    <string name="end" formatted="false">Loppu</string>
+    <string name="place" formatted="false">Paikka</string>
+    <string name="content" formatted="false">Sisältö</string>
+    <string name="security" formatted="false">Verkon suojaus</string>
+    <string name="open_network" formatted="false">Avoin verkko</string>
+    <string name="hidden_network" formatted="false">Piilotettu verkko</string>
+    <string name="format" formatted="false">Muoto</string>
+    <string name="date_hint" formatted="false">Muoto: 2026-12-31 18:30 (paikallinen aika)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 tai 13 numeroa. EAN-8: 7 tai 8 numeroa. ITF: parillinen määrä numeroita. Code 39: isot kirjaimet ja numerot.</string>
+    <string name="generate" formatted="false">Luo koodi</string>
+    <string name="private_hint" formatted="false">Ei latauksia palvelimelle. Ei tiliä.</string>
+    <string name="invalid_input" formatted="false">Tarkista kentät ja muoto. Lyhennä liian pitkää tekstiä.</string>
+    <string name="collection_title" formatted="false">Kaikki paikoillaan.</string>
+    <string name="collection_hint" formatted="false">Tallennetut koodisi aina mukanasi.</string>
+    <string name="search" formatted="false">Hae sisältöä tai nimeä</string>
+    <string name="all" formatted="false">Kaikki koodit</string>
+    <string name="favorites" formatted="false">Suosikit</string>
+    <string name="created" formatted="false">Luodut</string>
+    <string name="scanned" formatted="false">Skannatut</string>
+    <string name="empty_collection" formatted="false">Koodeja ei löytynyt</string>
+    <string name="empty_collection_hint" formatted="false">Luo tai skannaa koodi tai muuta hakua.</string>
+    <string name="your_code" formatted="false">Oma koodisi</string>
+    <string name="result" formatted="false">Koodi löytyi</string>
+    <string name="code_preview" formatted="false">Koodin esikatselu</string>
+    <string name="preview_unavailable" formatted="false">Sisällön esikatselu ei ole käytettävissä.</string>
+    <string name="show_content" formatted="false">Näytä koko sisältö</string>
+    <string name="copy" formatted="false">Kopioi</string>
+    <string name="favorite" formatted="false">Suosikiksi</string>
+    <string name="favorited" formatted="false">Suosikeissa</string>
+    <string name="color" formatted="false">Ripaus väriä</string>
+    <string name="sage" formatted="false">Salvianvihreä</string>
+    <string name="lavender" formatted="false">Laventeli</string>
+    <string name="cocoa" formatted="false">Kaakao</string>
+    <string name="ink" formatted="false">Muste</string>
+    <string name="share_image" formatted="false">Jaa kuva</string>
+    <string name="save_png" formatted="false">Tallenna PNG-kuva</string>
+    <string name="save_svg" formatted="false">Tallenna SVG-vektori</string>
+    <string name="share_text" formatted="false">Jaa sisältö</string>
+    <string name="rename" formatted="false">Nimeä uudelleen</string>
+    <string name="delete" formatted="false">Poista</string>
+    <string name="delete_confirm" formatted="false">Poistetaanko tämä koodi?</string>
+    <string name="open_link" formatted="false">Avaa linkki</string>
+    <string name="connect_wifi" formatted="false">Avaa Wi-Fi-asetukset</string>
+    <string name="add_contact" formatted="false">Lisää yhteystietoihin</string>
+    <string name="add_event" formatted="false">Lisää kalenteriin</string>
+    <string name="open_map" formatted="false">Avaa kartoissa</string>
+    <string name="dial" formatted="false">Avaa numerovalitsin</string>
+    <string name="compose" formatted="false">Kirjoita viesti</string>
+    <string name="wifi_connect_hint" formatted="false">Salasana kopioidaan. Valitse verkko Wi-Fi-asetuksissa ja liitä salasana.</string>
+    <string name="open_confirm" formatted="false">Tarkista sisältö ennen avaamista toisessa sovelluksessa.</string>
+    <string name="continue_action" formatted="false">Jatka</string>
+    <string name="settings_title" formatted="false">Sinun tavallasi.</string>
+    <string name="history_setting" formatted="false">Säilytä historia</string>
+    <string name="history_hint" formatted="false">Tallenna uudet koodit automaattisesti puhelimeen. Suosikit tallennetaan aina.</string>
+    <string name="vibrate_setting" formatted="false">Värinä skannattaessa</string>
+    <string name="vibrate_hint" formatted="false">Hienovarainen merkki, kun koodi tunnistetaan.</string>
+    <string name="privacy_title" formatted="false">Koodisi pysyvät ominasi.</string>
+    <string name="privacy_body" formatted="false">Skannaus ja luonti toimivat offline-tilassa. Ei tiliä, mainoksia tai seurantaa. Kamera vain lukee koodit; kuvia ei tallenneta. Historia säilyy sovelluksessa ja sen voi poistaa. Päätät itse jakamisesta ja muiden sovellusten käytöstä.</string>
+    <string name="export_history" formatted="false">Vie historia</string>
+    <string name="export_history_hint" formatted="false">JSON-tiedosto sisältää koodien tiedot, myös Wi-Fi-salasanat. Valitse tallennuspaikka.</string>
+    <string name="clear_history" formatted="false">Tyhjennä kokoelma</string>
+    <string name="clear_confirm" formatted="false">Poistetaanko kaikki tallennetut koodit, myös suosikit? Viedyt tiedostot jäävät tallennuspaikkoihinsa.</string>
+    <string name="deleted" formatted="false">Kokoelma tyhjennetty</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Tehty alusta alkaen Androidille. Vaalea käyttöliittymä 40 kielellä.</string>
+    <string name="licenses" formatted="false">Kirjastojen lisenssit</string>
+    <string name="scan_hint" formatted="false">Kohdista koodiin. Tarkenna napauttamalla.</string>
+    <string name="zoom" formatted="false">Zoomaus</string>
+    <string name="flash" formatted="false">Taskulamppu</string>
+    <string name="flash_on" formatted="false">Taskulamppu päällä</string>
+    <string name="flash_off" formatted="false">Taskulamppu pois</string>
+    <string name="switch_camera" formatted="false">Vaihda kameraa</string>
+    <string name="batch" formatted="false">Usean koodin skannaus</string>
+    <string name="batch_count" formatted="false">Kerätyt koodit:</string>
+    <string name="camera_permission" formatted="false">Salli kameran käyttö</string>
+    <string name="permission_hint" formatted="false">Salli kamera sovelluksen asetuksissa skannausta varten. Voit yhä tuoda kuvia aloitusnäkymästä.</string>
+    <string name="camera_error" formatted="false">Kamera ei ole käytettävissä. Palaa ja yritä uudelleen tai tuo kuva.</string>
+    <string name="unavailable" formatted="false">Toiminto ei ole käytettävissä tällä laitteella.</string>
+    <string name="no_code" formatted="false">Koodia ei tunnistettu. Kokeile selkeämpää kuvaa.</string>
+    <string name="choose_code" formatted="false">Valitse koodi</string>
+    <string name="reading_image" formatted="false">Luetaan kuvaa…</string>
+    <string name="image_error" formatted="false">Kuvaa ei voi lukea. Kokeile PNG- tai JPEG-tiedostoa.</string>
+    <string name="export_error" formatted="false">Vienti epäonnistui. Tarkista vapaa tila tai valitse toinen kansio.</string>
+    <string name="saved" formatted="false">Tiedosto tallennettu</string>
+    <string name="copied" formatted="false">Kopioitu leikepöydälle</string>
+    <string name="no_handler" formatted="false">Toiminnolle ei löydy sovellusta.</string>
+</resources>

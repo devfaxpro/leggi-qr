@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">اسکن کن. بساز. نگه دار.</string>
+    <string name="scan" formatted="false">اسکن</string>
+    <string name="create" formatted="false">ساختن</string>
+    <string name="collection" formatted="false">مجموعه</string>
+    <string name="settings" formatted="false">تنظیمات</string>
+    <string name="language" formatted="false">زبان</string>
+    <string name="system_language" formatted="false">پیروی از زبان سیستم</string>
+    <string name="back" formatted="false">بازگشت</string>
+    <string name="close" formatted="false">بستن</string>
+    <string name="cancel" formatted="false">لغو</string>
+    <string name="save" formatted="false">ذخیره</string>
+    <string name="done" formatted="false">پایان اسکن</string>
+    <string name="offline_badge" formatted="false">ساده. خصوصی. آفلاین.</string>
+    <string name="hero_title" formatted="false">یک کد کوچک.\nدنیایی از امکانات.</string>
+    <string name="hero_subtitle" formatted="false">پیوندها، ایده‌ها و ارتباط‌ها؛ تنها با یک اسکن.</string>
+    <string name="scan_now" formatted="false">اسکن کد</string>
+    <string name="import_image" formatted="false">وارد کردن از تصویر</string>
+    <string name="quick_create" formatted="false">ساخت سریع</string>
+    <string name="view_all" formatted="false">نمایش همه</string>
+    <string name="recent" formatted="false">کدهای اخیر شما</string>
+    <string name="empty_recent" formatted="false">کد بعدی در انتظار شماست</string>
+    <string name="empty_recent_hint" formatted="false">کدی را اسکن کنید یا بسازید تا اینجا ببینید.</string>
+    <string name="create_title" formatted="false">به ایده‌هایتان کد بدهید.</string>
+    <string name="create_hint" formatted="false">انتخاب کنید چه چیزی را به اشتراک بگذارید.</string>
+    <string name="url" formatted="false">پیوند</string>
+    <string name="text" formatted="false">متن</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">مخاطب</string>
+    <string name="email" formatted="false">ایمیل</string>
+    <string name="sms" formatted="false">پیام</string>
+    <string name="phone" formatted="false">تلفن</string>
+    <string name="location" formatted="false">مکان</string>
+    <string name="event" formatted="false">رویداد</string>
+    <string name="barcode" formatted="false">بارکد</string>
+    <string name="url_hint" formatted="false">وب‌سایت، صفحه یا نمایه</string>
+    <string name="text_hint" formatted="false">واژه‌ها، یادداشت‌ها و ایده‌های کوچک</string>
+    <string name="wifi_hint" formatted="false">اشتراک‌گذاری دسترسی به شبکه</string>
+    <string name="contact_hint" formatted="false">کارت ویزیت دیجیتال</string>
+    <string name="email_hint" formatted="false">نشانی، موضوع و پیام</string>
+    <string name="sms_hint" formatted="false">آماده کردن پیامک</string>
+    <string name="phone_hint" formatted="false">شماره‌ای برای تماس</string>
+    <string name="location_hint" formatted="false">نقطه‌ای دقیق روی نقشه</string>
+    <string name="event_hint" formatted="false">رویدادی برای تقویم</string>
+    <string name="barcode_hint" formatted="false">EAN، Code 128، Aztec و بیشتر</string>
+    <string name="form_hint" formatted="false">جزئیات را وارد کنید. کد روی تلفن شما ساخته می‌شود.</string>
+    <string name="url_field" formatted="false">نشانی وب</string>
+    <string name="network" formatted="false">نام شبکه</string>
+    <string name="password" formatted="false">گذرواژه</string>
+    <string name="name" formatted="false">نام و نام خانوادگی</string>
+    <string name="phone_field" formatted="false">شماره تلفن</string>
+    <string name="email_field" formatted="false">نشانی ایمیل</string>
+    <string name="company" formatted="false">شرکت</string>
+    <string name="website" formatted="false">وب‌سایت</string>
+    <string name="subject" formatted="false">موضوع</string>
+    <string name="message" formatted="false">پیام</string>
+    <string name="latitude" formatted="false">عرض جغرافیایی</string>
+    <string name="longitude" formatted="false">طول جغرافیایی</string>
+    <string name="event_title" formatted="false">عنوان رویداد</string>
+    <string name="start" formatted="false">شروع</string>
+    <string name="end" formatted="false">پایان</string>
+    <string name="place" formatted="false">محل</string>
+    <string name="content" formatted="false">محتوا</string>
+    <string name="security" formatted="false">امنیت شبکه</string>
+    <string name="open_network" formatted="false">شبکه باز</string>
+    <string name="hidden_network" formatted="false">شبکه پنهان</string>
+    <string name="format" formatted="false">قالب</string>
+    <string name="date_hint" formatted="false">قالب: 2026-12-31 18:30 (زمان محلی)</string>
+    <string name="barcode_help" formatted="false">EAN-13: ۱۲ یا ۱۳ رقم. EAN-8: ۷ یا ۸ رقم. ITF: تعداد زوج رقم. Code 39: حروف بزرگ لاتین و رقم.</string>
+    <string name="generate" formatted="false">ساخت کد</string>
+    <string name="private_hint" formatted="false">بدون بارگذاری. بدون نیاز به حساب.</string>
+    <string name="invalid_input" formatted="false">فیلدها و قالب را بررسی کنید. متن خیلی بلند را کوتاه کنید.</string>
+    <string name="collection_title" formatted="false">هر چیز سر جای خودش.</string>
+    <string name="collection_hint" formatted="false">کدهایی که می‌خواهید نگه دارید، همیشه همراه شما.</string>
+    <string name="search" formatted="false">جستجوی محتوا یا نام</string>
+    <string name="all" formatted="false">همه کدها</string>
+    <string name="favorites" formatted="false">علاقه‌مندی‌ها</string>
+    <string name="created" formatted="false">ساخته‌شده</string>
+    <string name="scanned" formatted="false">اسکن‌شده</string>
+    <string name="empty_collection" formatted="false">کدی پیدا نشد</string>
+    <string name="empty_collection_hint" formatted="false">کدی بسازید یا اسکن کنید، یا جستجوی دیگری انجام دهید.</string>
+    <string name="your_code" formatted="false">کد شما</string>
+    <string name="result" formatted="false">کد پیدا شد</string>
+    <string name="code_preview" formatted="false">پیش‌نمایش کد</string>
+    <string name="preview_unavailable" formatted="false">پیش‌نمایش این محتوا در دسترس نیست.</string>
+    <string name="show_content" formatted="false">نمایش کامل محتوا</string>
+    <string name="copy" formatted="false">کپی</string>
+    <string name="favorite" formatted="false">افزودن به علاقه‌مندی‌ها</string>
+    <string name="favorited" formatted="false">در علاقه‌مندی‌ها</string>
+    <string name="color" formatted="false">کمی رنگ</string>
+    <string name="sage" formatted="false">سبز مریم‌گلی</string>
+    <string name="lavender" formatted="false">اسطوخودوسی</string>
+    <string name="cocoa" formatted="false">کاکائویی</string>
+    <string name="ink" formatted="false">جوهری</string>
+    <string name="share_image" formatted="false">اشتراک‌گذاری تصویر</string>
+    <string name="save_png" formatted="false">ذخیره تصویر PNG</string>
+    <string name="save_svg" formatted="false">ذخیره بردار SVG</string>
+    <string name="share_text" formatted="false">اشتراک‌گذاری محتوا</string>
+    <string name="rename" formatted="false">تغییر نام</string>
+    <string name="delete" formatted="false">حذف</string>
+    <string name="delete_confirm" formatted="false">این کد حذف شود؟</string>
+    <string name="open_link" formatted="false">باز کردن پیوند</string>
+    <string name="connect_wifi" formatted="false">باز کردن تنظیمات Wi-Fi</string>
+    <string name="add_contact" formatted="false">افزودن به مخاطبین</string>
+    <string name="add_event" formatted="false">افزودن به تقویم</string>
+    <string name="open_map" formatted="false">باز کردن در نقشه</string>
+    <string name="dial" formatted="false">باز کردن شماره‌گیر</string>
+    <string name="compose" formatted="false">نوشتن پیام</string>
+    <string name="wifi_connect_hint" formatted="false">گذرواژه کپی می‌شود. در تنظیمات Wi-Fi شبکه را انتخاب و گذرواژه را جای‌گذاری کنید.</string>
+    <string name="open_confirm" formatted="false">پیش از باز کردن در برنامه دیگر، محتوا را بررسی کنید.</string>
+    <string name="continue_action" formatted="false">ادامه</string>
+    <string name="settings_title" formatted="false">مطابق سلیقه خودتان.</string>
+    <string name="history_setting" formatted="false">نگهداری سابقه</string>
+    <string name="history_hint" formatted="false">کدهای جدید خودکار روی تلفن ذخیره می‌شوند. علاقه‌مندی‌ها همیشه ذخیره می‌شوند.</string>
+    <string name="vibrate_setting" formatted="false">لرزش هنگام اسکن</string>
+    <string name="vibrate_hint" formatted="false">لرزش ملایم هنگام شناسایی کد.</string>
+    <string name="privacy_title" formatted="false">کدهایتان برای خودتان می‌ماند.</string>
+    <string name="privacy_body" formatted="false">اسکن و ساخت کد آفلاین انجام می‌شود. بدون حساب، تبلیغ یا ردیابی. دوربین فقط برای خواندن کد است؛ تصاویر ذخیره نمی‌شوند. سابقه در برنامه می‌ماند و قابل حذف است. اشتراک‌گذاری و باز کردن برنامه‌های دیگر با انتخاب شماست.</string>
+    <string name="export_history" formatted="false">صدور سابقه</string>
+    <string name="export_history_hint" formatted="false">فایل JSON محتوای کدها، از جمله گذرواژه‌های Wi-Fi را دارد. محل نگهداری آن را انتخاب کنید.</string>
+    <string name="clear_history" formatted="false">پاک کردن مجموعه</string>
+    <string name="clear_confirm" formatted="false">همه کدهای ذخیره‌شده، از جمله علاقه‌مندی‌ها، حذف شوند؟ فایل‌های صادرشده در محل ذخیره باقی می‌مانند.</string>
+    <string name="deleted" formatted="false">مجموعه پاک شد</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">از پایه برای Android ساخته شده؛ رابطی سبک و ۴۰ زبان.</string>
+    <string name="licenses" formatted="false">مجوز کتابخانه‌ها</string>
+    <string name="scan_hint" formatted="false">کد را در کادر بگیرید. برای فوکوس ضربه بزنید.</string>
+    <string name="zoom" formatted="false">بزرگ‌نمایی</string>
+    <string name="flash" formatted="false">چراغ‌قوه</string>
+    <string name="flash_on" formatted="false">چراغ روشن</string>
+    <string name="flash_off" formatted="false">چراغ خاموش</string>
+    <string name="switch_camera" formatted="false">تعویض دوربین</string>
+    <string name="batch" formatted="false">اسکن گروهی</string>
+    <string name="batch_count" formatted="false">کدهای جمع‌آوری‌شده:</string>
+    <string name="camera_permission" formatted="false">اجازه دسترسی به دوربین</string>
+    <string name="permission_hint" formatted="false">برای اسکن، دوربین را در تنظیمات برنامه فعال کنید. از صفحه اصلی هم می‌توانید تصویر وارد کنید.</string>
+    <string name="camera_error" formatted="false">دوربین در دسترس نیست. برگردید و دوباره تلاش کنید یا تصویری وارد کنید.</string>
+    <string name="unavailable" formatted="false">این قابلیت روی این دستگاه در دسترس نیست.</string>
+    <string name="no_code" formatted="false">کدی شناسایی نشد. تصویر واضح‌تری امتحان کنید.</string>
+    <string name="choose_code" formatted="false">انتخاب کد</string>
+    <string name="reading_image" formatted="false">در حال خواندن تصویر…</string>
+    <string name="image_error" formatted="false">خواندن تصویر ممکن نیست. فایل PNG یا JPEG امتحان کنید.</string>
+    <string name="export_error" formatted="false">صدور ناموفق بود. فضای خالی را بررسی کنید یا پوشه دیگری انتخاب کنید.</string>
+    <string name="saved" formatted="false">فایل ذخیره شد</string>
+    <string name="copied" formatted="false">در کلیپ‌بورد کپی شد</string>
+    <string name="no_handler" formatted="false">برنامه‌ای برای این کار موجود نیست.</string>
+</resources>

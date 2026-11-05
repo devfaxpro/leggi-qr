@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">סריקה. יצירה. שמירה.</string>
+    <string name="scan" formatted="false">סריקה</string>
+    <string name="create" formatted="false">יצירה</string>
+    <string name="collection" formatted="false">אוסף</string>
+    <string name="settings" formatted="false">הגדרות</string>
+    <string name="language" formatted="false">שפה</string>
+    <string name="system_language" formatted="false">לפי שפת המערכת</string>
+    <string name="back" formatted="false">חזרה</string>
+    <string name="close" formatted="false">סגירה</string>
+    <string name="cancel" formatted="false">ביטול</string>
+    <string name="save" formatted="false">שמירה</string>
+    <string name="done" formatted="false">סיום הסריקה</string>
+    <string name="offline_badge" formatted="false">פשוט. פרטי. ללא אינטרנט.</string>
+    <string name="hero_title" formatted="false">קוד קטן.\nהמון אפשרויות.</string>
+    <string name="hero_subtitle" formatted="false">קישורים, רעיונות וחיבורים. במרחק סריקה.</string>
+    <string name="scan_now" formatted="false">סריקת קוד</string>
+    <string name="import_image" formatted="false">ייבוא מתמונה</string>
+    <string name="quick_create" formatted="false">יצירה מהירה</string>
+    <string name="view_all" formatted="false">הצגת הכול</string>
+    <string name="recent" formatted="false">הקודים האחרונים שלך</string>
+    <string name="empty_recent" formatted="false">הקוד הבא שלך מחכה</string>
+    <string name="empty_recent_hint" formatted="false">אפשר לסרוק או ליצור קוד כדי לראות אותו כאן.</string>
+    <string name="create_title" formatted="false">תנו לרעיונות שלכם קוד.</string>
+    <string name="create_hint" formatted="false">בחרו מה לשתף.</string>
+    <string name="url" formatted="false">קישור</string>
+    <string name="text" formatted="false">טקסט</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">איש קשר</string>
+    <string name="email" formatted="false">דוא״ל</string>
+    <string name="sms" formatted="false">הודעה</string>
+    <string name="phone" formatted="false">טלפון</string>
+    <string name="location" formatted="false">מיקום</string>
+    <string name="event" formatted="false">אירוע</string>
+    <string name="barcode" formatted="false">ברקוד</string>
+    <string name="url_hint" formatted="false">אתר, עמוד או פרופיל</string>
+    <string name="text_hint" formatted="false">מילים, פתקים ורעיונות קטנים</string>
+    <string name="wifi_hint" formatted="false">שיתוף גישה לרשת</string>
+    <string name="contact_hint" formatted="false">כרטיס ביקור דיגיטלי</string>
+    <string name="email_hint" formatted="false">כתובת, נושא והודעה</string>
+    <string name="sms_hint" formatted="false">הכנת הודעת טקסט</string>
+    <string name="phone_hint" formatted="false">מספר לחיוג</string>
+    <string name="location_hint" formatted="false">נקודה מדויקת במפה</string>
+    <string name="event_hint" formatted="false">אירוע ליומן</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec ועוד</string>
+    <string name="form_hint" formatted="false">מלאו את הפרטים. הקוד נוצר בטלפון שלכם.</string>
+    <string name="url_field" formatted="false">כתובת אינטרנט</string>
+    <string name="network" formatted="false">שם הרשת</string>
+    <string name="password" formatted="false">סיסמה</string>
+    <string name="name" formatted="false">שם מלא</string>
+    <string name="phone_field" formatted="false">מספר טלפון</string>
+    <string name="email_field" formatted="false">כתובת דוא״ל</string>
+    <string name="company" formatted="false">חברה</string>
+    <string name="website" formatted="false">אתר אינטרנט</string>
+    <string name="subject" formatted="false">נושא</string>
+    <string name="message" formatted="false">הודעה</string>
+    <string name="latitude" formatted="false">קו רוחב</string>
+    <string name="longitude" formatted="false">קו אורך</string>
+    <string name="event_title" formatted="false">שם האירוע</string>
+    <string name="start" formatted="false">התחלה</string>
+    <string name="end" formatted="false">סיום</string>
+    <string name="place" formatted="false">מקום</string>
+    <string name="content" formatted="false">תוכן</string>
+    <string name="security" formatted="false">אבטחת הרשת</string>
+    <string name="open_network" formatted="false">רשת פתוחה</string>
+    <string name="hidden_network" formatted="false">רשת מוסתרת</string>
+    <string name="format" formatted="false">פורמט</string>
+    <string name="date_hint" formatted="false">פורמט: 2026-12-31 18:30 (זמן מקומי)</string>
+    <string name="barcode_help" formatted="false">EAN-13: ‏12 או 13 ספרות. EAN-8: ‏7 או 8 ספרות. ITF: מספר זוגי של ספרות. Code 39: אותיות לטיניות גדולות וספרות.</string>
+    <string name="generate" formatted="false">יצירת קוד</string>
+    <string name="private_hint" formatted="false">ללא העלאה לרשת. אין צורך בחשבון.</string>
+    <string name="invalid_input" formatted="false">בדקו את השדות ואת הפורמט. קצרו טקסט ארוך מדי.</string>
+    <string name="collection_title" formatted="false">הכול במקום.</string>
+    <string name="collection_hint" formatted="false">הקודים שחשוב לשמור, תמיד איתכם.</string>
+    <string name="search" formatted="false">חיפוש לפי תוכן או שם</string>
+    <string name="all" formatted="false">כל הקודים</string>
+    <string name="favorites" formatted="false">מועדפים</string>
+    <string name="created" formatted="false">נוצרו</string>
+    <string name="scanned" formatted="false">נסרקו</string>
+    <string name="empty_collection" formatted="false">לא נמצאו קודים</string>
+    <string name="empty_collection_hint" formatted="false">צרו או סרקו קוד, או נסו חיפוש אחר.</string>
+    <string name="your_code" formatted="false">הקוד שלך</string>
+    <string name="result" formatted="false">נמצא קוד</string>
+    <string name="code_preview" formatted="false">תצוגה מקדימה של הקוד</string>
+    <string name="preview_unavailable" formatted="false">אין תצוגה מקדימה לתוכן הזה.</string>
+    <string name="show_content" formatted="false">הצגת התוכן המלא</string>
+    <string name="copy" formatted="false">העתקה</string>
+    <string name="favorite" formatted="false">הוספה למועדפים</string>
+    <string name="favorited" formatted="false">במועדפים</string>
+    <string name="color" formatted="false">נגיעה של צבע</string>
+    <string name="sage" formatted="false">מרווה</string>
+    <string name="lavender" formatted="false">לבנדר</string>
+    <string name="cocoa" formatted="false">קקאו</string>
+    <string name="ink" formatted="false">דיו</string>
+    <string name="share_image" formatted="false">שיתוף תמונה</string>
+    <string name="save_png" formatted="false">שמירת תמונת PNG</string>
+    <string name="save_svg" formatted="false">שמירת קובץ וקטורי SVG</string>
+    <string name="share_text" formatted="false">שיתוף תוכן</string>
+    <string name="rename" formatted="false">שינוי שם</string>
+    <string name="delete" formatted="false">מחיקה</string>
+    <string name="delete_confirm" formatted="false">למחוק את הקוד הזה?</string>
+    <string name="open_link" formatted="false">פתיחת קישור</string>
+    <string name="connect_wifi" formatted="false">פתיחת הגדרות Wi-Fi</string>
+    <string name="add_contact" formatted="false">הוספה לאנשי קשר</string>
+    <string name="add_event" formatted="false">הוספה ליומן</string>
+    <string name="open_map" formatted="false">פתיחה במפות</string>
+    <string name="dial" formatted="false">פתיחת החייגן</string>
+    <string name="compose" formatted="false">כתיבת הודעה</string>
+    <string name="wifi_connect_hint" formatted="false">הסיסמה תועתק. בחרו את הרשת בהגדרות Wi-Fi והדביקו אותה.</string>
+    <string name="open_confirm" formatted="false">בדקו את התוכן לפני פתיחתו באפליקציה אחרת.</string>
+    <string name="continue_action" formatted="false">המשך</string>
+    <string name="settings_title" formatted="false">התאימו לעצמכם.</string>
+    <string name="history_setting" formatted="false">שמירת היסטוריה</string>
+    <string name="history_hint" formatted="false">שמירה אוטומטית של קודים חדשים בטלפון. המועדפים תמיד נשמרים.</string>
+    <string name="vibrate_setting" formatted="false">רטט בסריקה</string>
+    <string name="vibrate_hint" formatted="false">רטט עדין כשמזוהה קוד.</string>
+    <string name="privacy_title" formatted="false">הקודים שלכם נשארים שלכם.</string>
+    <string name="privacy_body" formatted="false">הסריקה והיצירה פועלות ללא אינטרנט. ללא חשבון, פרסומות או מעקב. המצלמה משמשת רק לקריאת קודים; התמונות אינן נשמרות. ההיסטוריה נשארת באפליקציה ואפשר למחוק אותה. שיתוף ופתיחת אפליקציות חיצוניות הם לבחירתכם.</string>
+    <string name="export_history" formatted="false">ייצוא היסטוריה</string>
+    <string name="export_history_hint" formatted="false">קובץ JSON כולל את תוכן הקודים, לרבות סיסמאות Wi-Fi. בחרו היכן לשמור אותו.</string>
+    <string name="clear_history" formatted="false">ניקוי האוסף</string>
+    <string name="clear_confirm" formatted="false">למחוק את כל הקודים השמורים, כולל המועדפים? קבצים שיוצאו יישארו במקום שבו נשמרו.</string>
+    <string name="deleted" formatted="false">האוסף נוקה</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">נבנתה מאפס עבור Android. ממשק קליל ו־40 שפות.</string>
+    <string name="licenses" formatted="false">רישיונות ספריות</string>
+    <string name="scan_hint" formatted="false">מקמו את הקוד במסגרת. הקישו כדי למקד.</string>
+    <string name="zoom" formatted="false">זום</string>
+    <string name="flash" formatted="false">פנס</string>
+    <string name="flash_on" formatted="false">הפנס דולק</string>
+    <string name="flash_off" formatted="false">הפנס כבוי</string>
+    <string name="switch_camera" formatted="false">החלפת מצלמה</string>
+    <string name="batch" formatted="false">סריקה ברצף</string>
+    <string name="batch_count" formatted="false">קודים שנאספו:</string>
+    <string name="camera_permission" formatted="false">מתן גישה למצלמה</string>
+    <string name="permission_hint" formatted="false">לסריקה, אפשרו גישה למצלמה בהגדרות האפליקציה. אפשר גם לייבא תמונות ממסך הבית.</string>
+    <string name="camera_error" formatted="false">המצלמה לא זמינה. חזרו ונסו שוב, או ייבאו תמונה.</string>
+    <string name="unavailable" formatted="false">התכונה אינה זמינה במכשיר הזה.</string>
+    <string name="no_code" formatted="false">לא זוהה קוד. נסו תמונה ברורה יותר.</string>
+    <string name="choose_code" formatted="false">בחירת קוד</string>
+    <string name="reading_image" formatted="false">קריאת התמונה…</string>
+    <string name="image_error" formatted="false">לא ניתן לקרוא את התמונה. נסו קובץ PNG או JPEG.</string>
+    <string name="export_error" formatted="false">הייצוא נכשל. בדקו את המקום הפנוי או בחרו תיקייה אחרת.</string>
+    <string name="saved" formatted="false">הקובץ נשמר</string>
+    <string name="copied" formatted="false">הועתק ללוח</string>
+    <string name="no_handler" formatted="false">אין אפליקציה זמינה לפעולה הזו.</string>
+</resources>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Quét. Tạo. Lưu.</string>
+    <string name="scan" formatted="false">Quét</string>
+    <string name="create" formatted="false">Tạo</string>
+    <string name="collection" formatted="false">Bộ sưu tập</string>
+    <string name="settings" formatted="false">Cài đặt</string>
+    <string name="language" formatted="false">Ngôn ngữ</string>
+    <string name="system_language" formatted="false">Theo ngôn ngữ hệ thống</string>
+    <string name="back" formatted="false">Quay lại</string>
+    <string name="close" formatted="false">Đóng</string>
+    <string name="cancel" formatted="false">Hủy</string>
+    <string name="save" formatted="false">Lưu</string>
+    <string name="done" formatted="false">Kết thúc quét</string>
+    <string name="offline_badge" formatted="false">ĐƠN GIẢN. RIÊNG TƯ. NGOẠI TUYẾN.</string>
+    <string name="hero_title" formatted="false">Mã nhỏ bé.\nMuôn vàn khả năng.</string>
+    <string name="hero_subtitle" formatted="false">Liên kết, ý tưởng và kết nối. Chỉ cần một lần quét.</string>
+    <string name="scan_now" formatted="false">Quét mã</string>
+    <string name="import_image" formatted="false">Nhập từ ảnh</string>
+    <string name="quick_create" formatted="false">Tạo nhanh</string>
+    <string name="view_all" formatted="false">Xem tất cả</string>
+    <string name="recent" formatted="false">Mã gần đây của bạn</string>
+    <string name="empty_recent" formatted="false">Mã tiếp theo đang chờ bạn</string>
+    <string name="empty_recent_hint" formatted="false">Quét hoặc tạo mã để xem tại đây.</string>
+    <string name="create_title" formatted="false">Biến ý tưởng thành mã.</string>
+    <string name="create_hint" formatted="false">Chọn nội dung bạn muốn chia sẻ.</string>
+    <string name="url" formatted="false">Liên kết</string>
+    <string name="text" formatted="false">Văn bản</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Liên hệ</string>
+    <string name="email" formatted="false">Email</string>
+    <string name="sms" formatted="false">Tin nhắn</string>
+    <string name="phone" formatted="false">Điện thoại</string>
+    <string name="location" formatted="false">Vị trí</string>
+    <string name="event" formatted="false">Sự kiện</string>
+    <string name="barcode" formatted="false">Mã vạch</string>
+    <string name="url_hint" formatted="false">Trang web, trang hoặc hồ sơ</string>
+    <string name="text_hint" formatted="false">Lời nhắn, ghi chú và ý tưởng nhỏ</string>
+    <string name="wifi_hint" formatted="false">Chia sẻ quyền truy cập mạng</string>
+    <string name="contact_hint" formatted="false">Danh thiếp kỹ thuật số</string>
+    <string name="email_hint" formatted="false">Địa chỉ, chủ đề và nội dung</string>
+    <string name="sms_hint" formatted="false">Soạn sẵn tin nhắn</string>
+    <string name="phone_hint" formatted="false">Số điện thoại để gọi</string>
+    <string name="location_hint" formatted="false">Một điểm chính xác trên bản đồ</string>
+    <string name="event_hint" formatted="false">Sự kiện cho lịch</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec và nhiều loại khác</string>
+    <string name="form_hint" formatted="false">Nhập thông tin. Mã được tạo ngay trên điện thoại.</string>
+    <string name="url_field" formatted="false">Địa chỉ web</string>
+    <string name="network" formatted="false">Tên mạng</string>
+    <string name="password" formatted="false">Mật khẩu</string>
+    <string name="name" formatted="false">Họ và tên</string>
+    <string name="phone_field" formatted="false">Số điện thoại</string>
+    <string name="email_field" formatted="false">Địa chỉ email</string>
+    <string name="company" formatted="false">Công ty</string>
+    <string name="website" formatted="false">Trang web</string>
+    <string name="subject" formatted="false">Chủ đề</string>
+    <string name="message" formatted="false">Nội dung tin nhắn</string>
+    <string name="latitude" formatted="false">Vĩ độ</string>
+    <string name="longitude" formatted="false">Kinh độ</string>
+    <string name="event_title" formatted="false">Tên sự kiện</string>
+    <string name="start" formatted="false">Bắt đầu</string>
+    <string name="end" formatted="false">Kết thúc</string>
+    <string name="place" formatted="false">Địa điểm</string>
+    <string name="content" formatted="false">Nội dung</string>
+    <string name="security" formatted="false">Bảo mật mạng</string>
+    <string name="open_network" formatted="false">Mạng mở</string>
+    <string name="hidden_network" formatted="false">Mạng ẩn</string>
+    <string name="format" formatted="false">Định dạng</string>
+    <string name="date_hint" formatted="false">Định dạng: 2026-12-31 18:30 (giờ địa phương)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 hoặc 13 chữ số. EAN-8: 7 hoặc 8 chữ số. ITF: số lượng chữ số chẵn. Code 39: chữ Latin viết hoa và chữ số.</string>
+    <string name="generate" formatted="false">Tạo mã</string>
+    <string name="private_hint" formatted="false">Không tải lên. Không cần tài khoản.</string>
+    <string name="invalid_input" formatted="false">Kiểm tra các trường và định dạng. Rút ngắn văn bản quá dài.</string>
+    <string name="collection_title" formatted="false">Mọi thứ đúng chỗ.</string>
+    <string name="collection_hint" formatted="false">Những mã bạn muốn giữ, luôn bên bạn.</string>
+    <string name="search" formatted="false">Tìm nội dung hoặc tên</string>
+    <string name="all" formatted="false">Tất cả mã</string>
+    <string name="favorites" formatted="false">Yêu thích</string>
+    <string name="created" formatted="false">Đã tạo</string>
+    <string name="scanned" formatted="false">Đã quét</string>
+    <string name="empty_collection" formatted="false">Không tìm thấy mã</string>
+    <string name="empty_collection_hint" formatted="false">Tạo hoặc quét mã, hoặc thử tìm kiếm khác.</string>
+    <string name="your_code" formatted="false">Mã của bạn</string>
+    <string name="result" formatted="false">Đã tìm thấy mã</string>
+    <string name="code_preview" formatted="false">Xem trước mã</string>
+    <string name="preview_unavailable" formatted="false">Không thể xem trước nội dung này.</string>
+    <string name="show_content" formatted="false">Hiện toàn bộ nội dung</string>
+    <string name="copy" formatted="false">Sao chép</string>
+    <string name="favorite" formatted="false">Thêm vào yêu thích</string>
+    <string name="favorited" formatted="false">Đã yêu thích</string>
+    <string name="color" formatted="false">Một chút sắc màu</string>
+    <string name="sage" formatted="false">Xanh xô thơm</string>
+    <string name="lavender" formatted="false">Tím oải hương</string>
+    <string name="cocoa" formatted="false">Nâu cacao</string>
+    <string name="ink" formatted="false">Mực</string>
+    <string name="share_image" formatted="false">Chia sẻ ảnh</string>
+    <string name="save_png" formatted="false">Lưu ảnh PNG</string>
+    <string name="save_svg" formatted="false">Lưu ảnh vectơ SVG</string>
+    <string name="share_text" formatted="false">Chia sẻ nội dung</string>
+    <string name="rename" formatted="false">Đổi tên</string>
+    <string name="delete" formatted="false">Xóa</string>
+    <string name="delete_confirm" formatted="false">Xóa mã này?</string>
+    <string name="open_link" formatted="false">Mở liên kết</string>
+    <string name="connect_wifi" formatted="false">Mở cài đặt Wi-Fi</string>
+    <string name="add_contact" formatted="false">Thêm vào danh bạ</string>
+    <string name="add_event" formatted="false">Thêm vào lịch</string>
+    <string name="open_map" formatted="false">Mở trong bản đồ</string>
+    <string name="dial" formatted="false">Mở trình quay số</string>
+    <string name="compose" formatted="false">Soạn tin nhắn</string>
+    <string name="wifi_connect_hint" formatted="false">Mật khẩu sẽ được sao chép. Chọn mạng trong cài đặt Wi-Fi rồi dán mật khẩu.</string>
+    <string name="open_confirm" formatted="false">Kiểm tra nội dung trước khi mở bằng ứng dụng khác.</string>
+    <string name="continue_action" formatted="false">Tiếp tục</string>
+    <string name="settings_title" formatted="false">Tùy chỉnh theo ý bạn.</string>
+    <string name="history_setting" formatted="false">Lưu lịch sử</string>
+    <string name="history_hint" formatted="false">Tự động lưu mã mới trên điện thoại. Mã yêu thích luôn được lưu.</string>
+    <string name="vibrate_setting" formatted="false">Rung khi quét</string>
+    <string name="vibrate_hint" formatted="false">Rung nhẹ khi nhận diện được mã.</string>
+    <string name="privacy_title" formatted="false">Mã của bạn vẫn là của bạn.</string>
+    <string name="privacy_body" formatted="false">Quét và tạo mã hoạt động ngoại tuyến. Không tài khoản, quảng cáo hay theo dõi. Máy ảnh chỉ dùng để đọc mã; ảnh không được lưu. Lịch sử nằm trong ứng dụng và có thể xóa. Bạn quyết định việc chia sẻ và mở ứng dụng khác.</string>
+    <string name="export_history" formatted="false">Xuất lịch sử</string>
+    <string name="export_history_hint" formatted="false">Tệp JSON chứa nội dung mã, kể cả mật khẩu Wi-Fi. Hãy chọn nơi lưu.</string>
+    <string name="clear_history" formatted="false">Xóa bộ sưu tập</string>
+    <string name="clear_confirm" formatted="false">Xóa mọi mã đã lưu, kể cả yêu thích? Các tệp đã xuất vẫn ở nơi bạn lưu.</string>
+    <string name="deleted" formatted="false">Đã xóa bộ sưu tập</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Được xây dựng từ đầu cho Android. Giao diện nhẹ nhàng và 40 ngôn ngữ.</string>
+    <string name="licenses" formatted="false">Giấy phép thư viện</string>
+    <string name="scan_hint" formatted="false">Đưa mã vào khung. Chạm để lấy nét.</string>
+    <string name="zoom" formatted="false">Thu phóng</string>
+    <string name="flash" formatted="false">Đèn pin</string>
+    <string name="flash_on" formatted="false">Đèn pin bật</string>
+    <string name="flash_off" formatted="false">Đèn pin tắt</string>
+    <string name="switch_camera" formatted="false">Đổi máy ảnh</string>
+    <string name="batch" formatted="false">Quét liên tục</string>
+    <string name="batch_count" formatted="false">Số mã đã quét:</string>
+    <string name="camera_permission" formatted="false">Cho phép truy cập máy ảnh</string>
+    <string name="permission_hint" formatted="false">Bật quyền máy ảnh trong cài đặt ứng dụng để quét. Bạn vẫn có thể nhập ảnh từ màn hình chính.</string>
+    <string name="camera_error" formatted="false">Máy ảnh không khả dụng. Quay lại và thử lại, hoặc nhập ảnh.</string>
+    <string name="unavailable" formatted="false">Tính năng này không khả dụng trên thiết bị.</string>
+    <string name="no_code" formatted="false">Không nhận diện được mã. Hãy thử ảnh rõ hơn.</string>
+    <string name="choose_code" formatted="false">Chọn mã</string>
+    <string name="reading_image" formatted="false">Đang đọc ảnh…</string>
+    <string name="image_error" formatted="false">Không đọc được ảnh. Hãy thử tệp PNG hoặc JPEG.</string>
+    <string name="export_error" formatted="false">Xuất thất bại. Kiểm tra dung lượng trống hoặc chọn thư mục khác.</string>
+    <string name="saved" formatted="false">Đã lưu tệp</string>
+    <string name="copied" formatted="false">Đã sao chép vào bộ nhớ tạm</string>
+    <string name="no_handler" formatted="false">Không có ứng dụng cho thao tác này.</string>
+</resources>

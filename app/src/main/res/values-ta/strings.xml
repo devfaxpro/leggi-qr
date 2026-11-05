@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">ஸ்கேன் செய். உருவாக்கு. சேமி.</string>
+    <string name="scan" formatted="false">ஸ்கேன்</string>
+    <string name="create" formatted="false">உருவாக்கு</string>
+    <string name="collection" formatted="false">தொகுப்பு</string>
+    <string name="settings" formatted="false">அமைப்புகள்</string>
+    <string name="language" formatted="false">மொழி</string>
+    <string name="system_language" formatted="false">சாதனத்தின் மொழியைப் பயன்படுத்து</string>
+    <string name="back" formatted="false">பின்செல்</string>
+    <string name="close" formatted="false">மூடு</string>
+    <string name="cancel" formatted="false">ரத்து செய்</string>
+    <string name="save" formatted="false">சேமி</string>
+    <string name="done" formatted="false">ஸ்கேனை முடி</string>
+    <string name="offline_badge" formatted="false">எளிமை. தனியுரிமை. இணையமின்றி.</string>
+    <string name="hero_title" formatted="false">ஒரு சிறிய குறியீடு.\nஎண்ணற்ற வாய்ப்புகள்.</string>
+    <string name="hero_subtitle" formatted="false">இணைப்புகள், எண்ணங்கள், தொடர்புகள். ஒரே ஸ்கேனில்.</string>
+    <string name="scan_now" formatted="false">குறியீட்டை ஸ்கேன் செய்</string>
+    <string name="import_image" formatted="false">படத்திலிருந்து இறக்குமதி செய்</string>
+    <string name="quick_create" formatted="false">விரைவாக உருவாக்கு</string>
+    <string name="view_all" formatted="false">அனைத்தையும் பார்</string>
+    <string name="recent" formatted="false">சமீபத்திய குறியீடுகள்</string>
+    <string name="empty_recent" formatted="false">அடுத்த குறியீடு காத்திருக்கிறது</string>
+    <string name="empty_recent_hint" formatted="false">இங்கே பார்க்க, குறியீட்டை ஸ்கேன் செய்யவும் அல்லது உருவாக்கவும்.</string>
+    <string name="create_title" formatted="false">எண்ணங்களுக்கு ஒரு குறியீடு.</string>
+    <string name="create_hint" formatted="false">பகிர விரும்புவதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="url" formatted="false">இணைப்பு</string>
+    <string name="text" formatted="false">உரை</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">தொடர்பு</string>
+    <string name="email" formatted="false">மின்னஞ்சல்</string>
+    <string name="sms" formatted="false">செய்தி</string>
+    <string name="phone" formatted="false">தொலைபேசி</string>
+    <string name="location" formatted="false">இருப்பிடம்</string>
+    <string name="event" formatted="false">நிகழ்வு</string>
+    <string name="barcode" formatted="false">பட்டைக் குறியீடு</string>
+    <string name="url_hint" formatted="false">இணையதளம், பக்கம் அல்லது சுயவிவரம்</string>
+    <string name="text_hint" formatted="false">சொற்கள், குறிப்புகள், சிறு எண்ணங்கள்</string>
+    <string name="wifi_hint" formatted="false">பிணைய அணுகலைப் பகிர்</string>
+    <string name="contact_hint" formatted="false">மின்னணு முகவரி அட்டை</string>
+    <string name="email_hint" formatted="false">முகவரி, தலைப்பு, செய்தி</string>
+    <string name="sms_hint" formatted="false">குறுஞ்செய்தியைத் தயார் செய்</string>
+    <string name="phone_hint" formatted="false">அழைக்க வேண்டிய எண்</string>
+    <string name="location_hint" formatted="false">வரைபடத்தில் துல்லியமான இடம்</string>
+    <string name="event_hint" formatted="false">நாட்காட்டிக்கான நிகழ்வு</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec மற்றும் பல</string>
+    <string name="form_hint" formatted="false">விவரங்களை உள்ளிடவும். குறியீடு உங்கள் தொலைபேசியிலேயே உருவாகும்.</string>
+    <string name="url_field" formatted="false">இணைய முகவரி</string>
+    <string name="network" formatted="false">பிணையத்தின் பெயர்</string>
+    <string name="password" formatted="false">கடவுச்சொல்</string>
+    <string name="name" formatted="false">முழுப் பெயர்</string>
+    <string name="phone_field" formatted="false">தொலைபேசி எண்</string>
+    <string name="email_field" formatted="false">மின்னஞ்சல் முகவரி</string>
+    <string name="company" formatted="false">நிறுவனம்</string>
+    <string name="website" formatted="false">இணையதளம்</string>
+    <string name="subject" formatted="false">தலைப்பு</string>
+    <string name="message" formatted="false">செய்தி</string>
+    <string name="latitude" formatted="false">அட்சரேகை</string>
+    <string name="longitude" formatted="false">தீர்க்கரேகை</string>
+    <string name="event_title" formatted="false">நிகழ்வின் தலைப்பு</string>
+    <string name="start" formatted="false">தொடக்கம்</string>
+    <string name="end" formatted="false">முடிவு</string>
+    <string name="place" formatted="false">இடம்</string>
+    <string name="content" formatted="false">உள்ளடக்கம்</string>
+    <string name="security" formatted="false">பிணையப் பாதுகாப்பு</string>
+    <string name="open_network" formatted="false">திறந்த பிணையம்</string>
+    <string name="hidden_network" formatted="false">மறைக்கப்பட்ட பிணையம்</string>
+    <string name="format" formatted="false">வடிவம்</string>
+    <string name="date_hint" formatted="false">வடிவம்: 2026-12-31 18:30 (உள்ளூர் நேரம்)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 அல்லது 13 இலக்கங்கள். EAN-8: 7 அல்லது 8 இலக்கங்கள். ITF: இரட்டைப்படை எண்ணிக்கையில் இலக்கங்கள். Code 39: பெரிய லத்தீன் எழுத்துகள் மற்றும் இலக்கங்கள்.</string>
+    <string name="generate" formatted="false">குறியீட்டை உருவாக்கு</string>
+    <string name="private_hint" formatted="false">பதிவேற்றம் இல்லை. கணக்கு தேவையில்லை.</string>
+    <string name="invalid_input" formatted="false">விவரங்களையும் வடிவத்தையும் சரிபார்க்கவும். நீண்ட உரையைச் சுருக்கவும்.</string>
+    <string name="collection_title" formatted="false">அனைத்தும் அதனதன் இடத்தில்.</string>
+    <string name="collection_hint" formatted="false">சேமிக்க விரும்பும் குறியீடுகள், எப்போதும் உங்களுடன்.</string>
+    <string name="search" formatted="false">உள்ளடக்கம் அல்லது பெயரைத் தேடு</string>
+    <string name="all" formatted="false">எல்லா குறியீடுகளும்</string>
+    <string name="favorites" formatted="false">பிடித்தவை</string>
+    <string name="created" formatted="false">உருவாக்கியவை</string>
+    <string name="scanned" formatted="false">ஸ்கேன் செய்தவை</string>
+    <string name="empty_collection" formatted="false">குறியீடுகள் இல்லை</string>
+    <string name="empty_collection_hint" formatted="false">குறியீட்டை உருவாக்கவும், ஸ்கேன் செய்யவும் அல்லது வேறு தேடலை முயற்சிக்கவும்.</string>
+    <string name="your_code" formatted="false">உங்கள் குறியீடு</string>
+    <string name="result" formatted="false">குறியீடு கிடைத்தது</string>
+    <string name="code_preview" formatted="false">குறியீட்டு முன்னோட்டம்</string>
+    <string name="preview_unavailable" formatted="false">இந்த உள்ளடக்கத்திற்கு முன்னோட்டம் இல்லை.</string>
+    <string name="show_content" formatted="false">முழு உள்ளடக்கத்தைக் காட்டு</string>
+    <string name="copy" formatted="false">நகலெடு</string>
+    <string name="favorite" formatted="false">பிடித்தவற்றில் சேர்</string>
+    <string name="favorited" formatted="false">பிடித்தவற்றில் உள்ளது</string>
+    <string name="color" formatted="false">சிறிது வண்ணம்</string>
+    <string name="sage" formatted="false">சேஜ் பச்சை</string>
+    <string name="lavender" formatted="false">லாவெண்டர்</string>
+    <string name="cocoa" formatted="false">கோகோ</string>
+    <string name="ink" formatted="false">மை</string>
+    <string name="share_image" formatted="false">படத்தைப் பகிர்</string>
+    <string name="save_png" formatted="false">PNG படத்தைச் சேமி</string>
+    <string name="save_svg" formatted="false">SVG வெக்டரைச் சேமி</string>
+    <string name="share_text" formatted="false">உள்ளடக்கத்தைப் பகிர்</string>
+    <string name="rename" formatted="false">பெயரை மாற்று</string>
+    <string name="delete" formatted="false">நீக்கு</string>
+    <string name="delete_confirm" formatted="false">இந்தக் குறியீட்டை நீக்கவா?</string>
+    <string name="open_link" formatted="false">இணைப்பைத் திற</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi அமைப்புகளைத் திற</string>
+    <string name="add_contact" formatted="false">தொடர்புகளில் சேர்</string>
+    <string name="add_event" formatted="false">நாட்காட்டியில் சேர்</string>
+    <string name="open_map" formatted="false">வரைபடத்தில் திற</string>
+    <string name="dial" formatted="false">எண் அழைப்பியைத் திற</string>
+    <string name="compose" formatted="false">செய்தி எழுது</string>
+    <string name="wifi_connect_hint" formatted="false">கடவுச்சொல் நகலெடுக்கப்படும். Wi-Fi அமைப்புகளில் பிணையத்தைத் தேர்ந்தெடுத்து ஒட்டவும்.</string>
+    <string name="open_confirm" formatted="false">வேறொரு செயலியில் திறப்பதற்கு முன் உள்ளடக்கத்தைச் சரிபார்க்கவும்.</string>
+    <string name="continue_action" formatted="false">தொடர்</string>
+    <string name="settings_title" formatted="false">உங்கள் விருப்பப்படி.</string>
+    <string name="history_setting" formatted="false">வரலாற்றைச் சேமி</string>
+    <string name="history_hint" formatted="false">புதிய குறியீடுகளைத் தானாகத் தொலைபேசியில் சேமிக்கும். பிடித்தவை எப்போதும் சேமிக்கப்படும்.</string>
+    <string name="vibrate_setting" formatted="false">ஸ்கேன் செய்யும்போது அதிர்வு</string>
+    <string name="vibrate_hint" formatted="false">குறியீடு கண்டறியப்பட்டதும் மென்மையான அதிர்வு.</string>
+    <string name="privacy_title" formatted="false">உங்கள் குறியீடுகள் உங்களுக்கே.</string>
+    <string name="privacy_body" formatted="false">ஸ்கேன் செய்வதும் உருவாக்குவதும் இணையமின்றி இயங்கும். கணக்கு, விளம்பரம், கண்காணிப்பு இல்லை. கேமரா குறியீடுகளைப் படிக்க மட்டுமே பயன்படும்; படங்கள் சேமிக்கப்படாது. வரலாறு செயலியிலேயே இருக்கும்; அதை நீக்கலாம். பகிர்வதும் வெளிச்செயலிகளைத் திறப்பதும் உங்கள் விருப்பம்.</string>
+    <string name="export_history" formatted="false">வரலாற்றை ஏற்றுமதி செய்</string>
+    <string name="export_history_hint" formatted="false">JSON கோப்பில் Wi-Fi கடவுச்சொற்கள் உட்பட குறியீட்டு உள்ளடக்கங்கள் இருக்கும். சேமிக்கும் இடத்தைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="clear_history" formatted="false">தொகுப்பை அழி</string>
+    <string name="clear_confirm" formatted="false">பிடித்தவை உட்பட சேமித்த எல்லா குறியீடுகளையும் நீக்கவா? ஏற்றுமதி செய்த கோப்புகள் சேமித்த இடத்திலேயே இருக்கும்.</string>
+    <string name="deleted" formatted="false">தொகுப்பு அழிக்கப்பட்டது</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Android-க்காகப் புதிதாக உருவாக்கப்பட்டது. எளிய இடைமுகம், 40 மொழிகள்.</string>
+    <string name="licenses" formatted="false">நூலக உரிமங்கள்</string>
+    <string name="scan_hint" formatted="false">குறியீட்டைச் சட்டத்தில் வைக்கவும். குவியப்படுத்தத் தட்டவும்.</string>
+    <string name="zoom" formatted="false">பெரிதாக்கம்</string>
+    <string name="flash" formatted="false">விளக்கு</string>
+    <string name="flash_on" formatted="false">விளக்கு எரிகிறது</string>
+    <string name="flash_off" formatted="false">விளக்கு அணைந்தது</string>
+    <string name="switch_camera" formatted="false">கேமராவை மாற்று</string>
+    <string name="batch" formatted="false">தொடர் ஸ்கேன்</string>
+    <string name="batch_count" formatted="false">சேகரித்த குறியீடுகள்:</string>
+    <string name="camera_permission" formatted="false">கேமரா அணுகலை அனுமதி</string>
+    <string name="permission_hint" formatted="false">ஸ்கேன் செய்ய, செயலி அமைப்புகளில் கேமராவை அனுமதிக்கவும். முகப்பிலிருந்து படங்களையும் இறக்குமதி செய்யலாம்.</string>
+    <string name="camera_error" formatted="false">கேமரா கிடைக்கவில்லை. பின்சென்று மீண்டும் முயலவும் அல்லது படத்தை இறக்குமதி செய்யவும்.</string>
+    <string name="unavailable" formatted="false">இந்தச் சாதனத்தில் இவ்வசதி கிடைக்கவில்லை.</string>
+    <string name="no_code" formatted="false">குறியீடு கண்டறியப்படவில்லை. தெளிவான படத்தை முயலவும்.</string>
+    <string name="choose_code" formatted="false">குறியீட்டைத் தேர்ந்தெடு</string>
+    <string name="reading_image" formatted="false">படத்தைப் படிக்கிறது…</string>
+    <string name="image_error" formatted="false">படத்தைப் படிக்க முடியவில்லை. PNG அல்லது JPEG கோப்பை முயலவும்.</string>
+    <string name="export_error" formatted="false">ஏற்றுமதி தோல்வி. காலியிடத்தைச் சரிபார்க்கவும் அல்லது வேறு கோப்புறையைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="saved" formatted="false">கோப்பு சேமிக்கப்பட்டது</string>
+    <string name="copied" formatted="false">இடைநிலைப் பலகையில் நகலெடுக்கப்பட்டது</string>
+    <string name="no_handler" formatted="false">இந்தச் செயலுக்கான செயலி இல்லை.</string>
+</resources>

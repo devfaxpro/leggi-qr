@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Olvass be. Készíts. Ments.</string>
+    <string name="scan" formatted="false">Beolvasás</string>
+    <string name="create" formatted="false">Létrehozás</string>
+    <string name="collection" formatted="false">Gyűjtemény</string>
+    <string name="settings" formatted="false">Beállítások</string>
+    <string name="language" formatted="false">Nyelv</string>
+    <string name="system_language" formatted="false">Rendszernyelv követése</string>
+    <string name="back" formatted="false">Vissza</string>
+    <string name="close" formatted="false">Bezárás</string>
+    <string name="cancel" formatted="false">Mégse</string>
+    <string name="save" formatted="false">Mentés</string>
+    <string name="done" formatted="false">Beolvasás befejezése</string>
+    <string name="offline_badge" formatted="false">EGYSZERŰ. PRIVÁT. OFFLINE.</string>
+    <string name="hero_title" formatted="false">Egy kis kód.\nRengeteg lehetőség.</string>
+    <string name="hero_subtitle" formatted="false">Hivatkozások, ötletek és kapcsolatok. Egyetlen beolvasással.</string>
+    <string name="scan_now" formatted="false">Kód beolvasása</string>
+    <string name="import_image" formatted="false">Importálás képből</string>
+    <string name="quick_create" formatted="false">Gyors létrehozás</string>
+    <string name="view_all" formatted="false">Összes megtekintése</string>
+    <string name="recent" formatted="false">Legutóbbi kódjaid</string>
+    <string name="empty_recent" formatted="false">Vár a következő kód</string>
+    <string name="empty_recent_hint" formatted="false">Olvass be vagy készíts egy kódot, és itt megtalálod.</string>
+    <string name="create_title" formatted="false">Adj kódot az ötleteidnek.</string>
+    <string name="create_hint" formatted="false">Válaszd ki, mit szeretnél megosztani.</string>
+    <string name="url" formatted="false">Hivatkozás</string>
+    <string name="text" formatted="false">Szöveg</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Névjegy</string>
+    <string name="email" formatted="false">E-mail</string>
+    <string name="sms" formatted="false">Üzenet</string>
+    <string name="phone" formatted="false">Telefon</string>
+    <string name="location" formatted="false">Hely</string>
+    <string name="event" formatted="false">Esemény</string>
+    <string name="barcode" formatted="false">Vonalkód</string>
+    <string name="url_hint" formatted="false">Weboldal vagy profil</string>
+    <string name="text_hint" formatted="false">Szavak, jegyzetek és ötletek</string>
+    <string name="wifi_hint" formatted="false">Hálózati hozzáférés megosztása</string>
+    <string name="contact_hint" formatted="false">Digitális névjegy</string>
+    <string name="email_hint" formatted="false">Cím, tárgy és üzenet</string>
+    <string name="sms_hint" formatted="false">SMS előkészítése</string>
+    <string name="phone_hint" formatted="false">Hívható telefonszám</string>
+    <string name="location_hint" formatted="false">Pontos hely a térképen</string>
+    <string name="event_hint" formatted="false">Esemény a naptárba</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec és továbbiak</string>
+    <string name="form_hint" formatted="false">Add meg az adatokat. A kód a telefonodon készül el.</string>
+    <string name="url_field" formatted="false">Webcím</string>
+    <string name="network" formatted="false">Hálózat neve</string>
+    <string name="password" formatted="false">Jelszó</string>
+    <string name="name" formatted="false">Teljes név</string>
+    <string name="phone_field" formatted="false">Telefonszám</string>
+    <string name="email_field" formatted="false">E-mail-cím</string>
+    <string name="company" formatted="false">Cég</string>
+    <string name="website" formatted="false">Weboldal</string>
+    <string name="subject" formatted="false">Tárgy</string>
+    <string name="message" formatted="false">Üzenet</string>
+    <string name="latitude" formatted="false">Szélességi fok</string>
+    <string name="longitude" formatted="false">Hosszúsági fok</string>
+    <string name="event_title" formatted="false">Esemény címe</string>
+    <string name="start" formatted="false">Kezdés</string>
+    <string name="end" formatted="false">Befejezés</string>
+    <string name="place" formatted="false">Helyszín</string>
+    <string name="content" formatted="false">Tartalom</string>
+    <string name="security" formatted="false">Hálózati biztonság</string>
+    <string name="open_network" formatted="false">Nyílt hálózat</string>
+    <string name="hidden_network" formatted="false">Rejtett hálózat</string>
+    <string name="format" formatted="false">Formátum</string>
+    <string name="date_hint" formatted="false">Formátum: 2026-12-31 18:30 (helyi idő)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 vagy 13 számjegy. EAN-8: 7 vagy 8 számjegy. ITF: páros számú számjegy. Code 39: nagybetűk és számjegyek.</string>
+    <string name="generate" formatted="false">Kód létrehozása</string>
+    <string name="private_hint" formatted="false">Nincs feltöltés. Nem kell fiók.</string>
+    <string name="invalid_input" formatted="false">Ellenőrizd a mezőket és a formátumot. Rövidítsd le a túl hosszú szöveget.</string>
+    <string name="collection_title" formatted="false">Minden a helyén.</string>
+    <string name="collection_hint" formatted="false">A megőrzött kódok mindig veled vannak.</string>
+    <string name="search" formatted="false">Keresés tartalom vagy név alapján</string>
+    <string name="all" formatted="false">Összes kód</string>
+    <string name="favorites" formatted="false">Kedvencek</string>
+    <string name="created" formatted="false">Létrehozott</string>
+    <string name="scanned" formatted="false">Beolvasott</string>
+    <string name="empty_collection" formatted="false">Nincs találat</string>
+    <string name="empty_collection_hint" formatted="false">Készíts vagy olvass be egy kódot, vagy módosítsd a keresést.</string>
+    <string name="your_code" formatted="false">A kódod</string>
+    <string name="result" formatted="false">Talált kód</string>
+    <string name="code_preview" formatted="false">Kód előnézete</string>
+    <string name="preview_unavailable" formatted="false">Ehhez a tartalomhoz nincs előnézet.</string>
+    <string name="show_content" formatted="false">Teljes tartalom megjelenítése</string>
+    <string name="copy" formatted="false">Másolás</string>
+    <string name="favorite" formatted="false">Kedvencekhez</string>
+    <string name="favorited" formatted="false">Kedvenc</string>
+    <string name="color" formatted="false">Egy kis szín</string>
+    <string name="sage" formatted="false">Zsályazöld</string>
+    <string name="lavender" formatted="false">Levendula</string>
+    <string name="cocoa" formatted="false">Kakaóbarna</string>
+    <string name="ink" formatted="false">Tintafekete</string>
+    <string name="share_image" formatted="false">Kép megosztása</string>
+    <string name="save_png" formatted="false">PNG-kép mentése</string>
+    <string name="save_svg" formatted="false">SVG-vektor mentése</string>
+    <string name="share_text" formatted="false">Tartalom megosztása</string>
+    <string name="rename" formatted="false">Átnevezés</string>
+    <string name="delete" formatted="false">Törlés</string>
+    <string name="delete_confirm" formatted="false">Törlöd ezt a kódot?</string>
+    <string name="open_link" formatted="false">Hivatkozás megnyitása</string>
+    <string name="connect_wifi" formatted="false">Wi-Fi-beállítások megnyitása</string>
+    <string name="add_contact" formatted="false">Hozzáadás a névjegyekhez</string>
+    <string name="add_event" formatted="false">Hozzáadás a naptárhoz</string>
+    <string name="open_map" formatted="false">Megnyitás a térképen</string>
+    <string name="dial" formatted="false">Tárcsázó megnyitása</string>
+    <string name="compose" formatted="false">Üzenet írása</string>
+    <string name="wifi_connect_hint" formatted="false">A jelszót kimásoljuk. Válaszd ki a hálózatot a Wi-Fi-beállításokban, és illeszd be.</string>
+    <string name="open_confirm" formatted="false">Ellenőrizd a tartalmat, mielőtt másik alkalmazásban megnyitod.</string>
+    <string name="continue_action" formatted="false">Folytatás</string>
+    <string name="settings_title" formatted="false">A te ízlésed szerint.</string>
+    <string name="history_setting" formatted="false">Előzmények megőrzése</string>
+    <string name="history_hint" formatted="false">Az új kódok automatikus mentése a telefonra. A kedvenceket mindig mentjük.</string>
+    <string name="vibrate_setting" formatted="false">Rezgés beolvasáskor</string>
+    <string name="vibrate_hint" formatted="false">Finom jelzés a kód felismerésekor.</string>
+    <string name="privacy_title" formatted="false">A kódjaid a tieid maradnak.</string>
+    <string name="privacy_body" formatted="false">A beolvasás és létrehozás offline működik. Nincs fiók, reklám vagy követés. A kamera csak kódokat olvas; képeket nem mentünk. Az előzmények az alkalmazásban maradnak és törölhetők. A megosztásról és más alkalmazások használatáról te döntesz.</string>
+    <string name="export_history" formatted="false">Előzmények exportálása</string>
+    <string name="export_history_hint" formatted="false">A JSON-fájl a kódok tartalmát, köztük a Wi-Fi-jelszavakat is tartalmazza. Válassz mentési helyet.</string>
+    <string name="clear_history" formatted="false">Gyűjtemény törlése</string>
+    <string name="clear_confirm" formatted="false">Törlöd az összes mentett kódot, a kedvenceket is? Az exportált fájlok a mentési helyükön maradnak.</string>
+    <string name="deleted" formatted="false">Gyűjtemény törölve</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Alapoktól Androidra készült. Világos felület 40 nyelven.</string>
+    <string name="licenses" formatted="false">Könyvtárak licencei</string>
+    <string name="scan_hint" formatted="false">Irányítsd a kamerát a kódra. Érintsd meg a fókuszáláshoz.</string>
+    <string name="zoom" formatted="false">Nagyítás</string>
+    <string name="flash" formatted="false">Zseblámpa</string>
+    <string name="flash_on" formatted="false">Zseblámpa bekapcsolva</string>
+    <string name="flash_off" formatted="false">Zseblámpa kikapcsolva</string>
+    <string name="switch_camera" formatted="false">Kameraváltás</string>
+    <string name="batch" formatted="false">Több kód beolvasása</string>
+    <string name="batch_count" formatted="false">Összegyűjtött kódok:</string>
+    <string name="camera_permission" formatted="false">Kamerahozzáférés engedélyezése</string>
+    <string name="permission_hint" formatted="false">A beolvasáshoz engedélyezd a kamerát az alkalmazás beállításaiban. Képeket továbbra is importálhatsz a kezdőképernyőről.</string>
+    <string name="camera_error" formatted="false">A kamera nem érhető el. Lépj vissza, és próbáld újra, vagy importálj képet.</string>
+    <string name="unavailable" formatted="false">Ez a funkció nem érhető el ezen az eszközön.</string>
+    <string name="no_code" formatted="false">Nem található kód. Próbálj élesebb képet.</string>
+    <string name="choose_code" formatted="false">Válassz kódot</string>
+    <string name="reading_image" formatted="false">Kép beolvasása…</string>
+    <string name="image_error" formatted="false">A kép nem olvasható. Próbálj PNG- vagy JPEG-fájlt.</string>
+    <string name="export_error" formatted="false">Az exportálás sikertelen. Ellenőrizd a szabad helyet, vagy válassz másik mappát.</string>
+    <string name="saved" formatted="false">Fájl mentve</string>
+    <string name="copied" formatted="false">Vágólapra másolva</string>
+    <string name="no_handler" formatted="false">Nincs alkalmazás ehhez a művelethez.</string>
+</resources>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">สแกน สร้าง เก็บไว้</string>
+    <string name="scan" formatted="false">สแกน</string>
+    <string name="create" formatted="false">สร้าง</string>
+    <string name="collection" formatted="false">คอลเล็กชัน</string>
+    <string name="settings" formatted="false">การตั้งค่า</string>
+    <string name="language" formatted="false">ภาษา</string>
+    <string name="system_language" formatted="false">ใช้ภาษาของระบบ</string>
+    <string name="back" formatted="false">ย้อนกลับ</string>
+    <string name="close" formatted="false">ปิด</string>
+    <string name="cancel" formatted="false">ยกเลิก</string>
+    <string name="save" formatted="false">บันทึก</string>
+    <string name="done" formatted="false">จบการสแกน</string>
+    <string name="offline_badge" formatted="false">ง่าย เป็นส่วนตัว ออฟไลน์</string>
+    <string name="hero_title" formatted="false">โค้ดเล็ก ๆ\nความเป็นไปได้มากมาย</string>
+    <string name="hero_subtitle" formatted="false">ลิงก์ ไอเดีย และการเชื่อมต่อ เพียงสแกนครั้งเดียว</string>
+    <string name="scan_now" formatted="false">สแกนโค้ด</string>
+    <string name="import_image" formatted="false">นำเข้าจากรูปภาพ</string>
+    <string name="quick_create" formatted="false">สร้างด่วน</string>
+    <string name="view_all" formatted="false">ดูทั้งหมด</string>
+    <string name="recent" formatted="false">โค้ดล่าสุดของคุณ</string>
+    <string name="empty_recent" formatted="false">โค้ดถัดไปรอคุณอยู่</string>
+    <string name="empty_recent_hint" formatted="false">สแกนหรือสร้างโค้ดเพื่อให้แสดงที่นี่</string>
+    <string name="create_title" formatted="false">เปลี่ยนไอเดียให้เป็นโค้ด</string>
+    <string name="create_hint" formatted="false">เลือกสิ่งที่ต้องการแชร์</string>
+    <string name="url" formatted="false">ลิงก์</string>
+    <string name="text" formatted="false">ข้อความ</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">รายชื่อติดต่อ</string>
+    <string name="email" formatted="false">อีเมล</string>
+    <string name="sms" formatted="false">ข้อความ SMS</string>
+    <string name="phone" formatted="false">โทรศัพท์</string>
+    <string name="location" formatted="false">ตำแหน่ง</string>
+    <string name="event" formatted="false">กิจกรรม</string>
+    <string name="barcode" formatted="false">บาร์โค้ด</string>
+    <string name="url_hint" formatted="false">เว็บไซต์ หน้าเว็บ หรือโปรไฟล์</string>
+    <string name="text_hint" formatted="false">ถ้อยคำ โน้ต และไอเดียเล็ก ๆ</string>
+    <string name="wifi_hint" formatted="false">แชร์การเข้าถึงเครือข่าย</string>
+    <string name="contact_hint" formatted="false">นามบัตรดิจิทัล</string>
+    <string name="email_hint" formatted="false">ที่อยู่ หัวเรื่อง และข้อความ</string>
+    <string name="sms_hint" formatted="false">เตรียมข้อความ SMS</string>
+    <string name="phone_hint" formatted="false">หมายเลขที่ต้องการโทร</string>
+    <string name="location_hint" formatted="false">จุดที่แน่นอนบนแผนที่</string>
+    <string name="event_hint" formatted="false">กิจกรรมสำหรับปฏิทิน</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec และอื่น ๆ</string>
+    <string name="form_hint" formatted="false">กรอกรายละเอียด โค้ดจะถูกสร้างบนโทรศัพท์ของคุณ</string>
+    <string name="url_field" formatted="false">ที่อยู่เว็บ</string>
+    <string name="network" formatted="false">ชื่อเครือข่าย</string>
+    <string name="password" formatted="false">รหัสผ่าน</string>
+    <string name="name" formatted="false">ชื่อเต็ม</string>
+    <string name="phone_field" formatted="false">หมายเลขโทรศัพท์</string>
+    <string name="email_field" formatted="false">ที่อยู่อีเมล</string>
+    <string name="company" formatted="false">บริษัท</string>
+    <string name="website" formatted="false">เว็บไซต์</string>
+    <string name="subject" formatted="false">หัวเรื่อง</string>
+    <string name="message" formatted="false">ข้อความ</string>
+    <string name="latitude" formatted="false">ละติจูด</string>
+    <string name="longitude" formatted="false">ลองจิจูด</string>
+    <string name="event_title" formatted="false">ชื่อกิจกรรม</string>
+    <string name="start" formatted="false">เริ่ม</string>
+    <string name="end" formatted="false">สิ้นสุด</string>
+    <string name="place" formatted="false">สถานที่</string>
+    <string name="content" formatted="false">เนื้อหา</string>
+    <string name="security" formatted="false">ความปลอดภัยเครือข่าย</string>
+    <string name="open_network" formatted="false">เครือข่ายเปิด</string>
+    <string name="hidden_network" formatted="false">เครือข่ายที่ซ่อนอยู่</string>
+    <string name="format" formatted="false">รูปแบบ</string>
+    <string name="date_hint" formatted="false">รูปแบบ: 2026-12-31 18:30 (เวลาท้องถิ่น)</string>
+    <string name="barcode_help" formatted="false">EAN-13: ตัวเลข 12 หรือ 13 หลัก EAN-8: 7 หรือ 8 หลัก ITF: จำนวนหลักเป็นเลขคู่ Code 39: ตัวอักษรละตินพิมพ์ใหญ่และตัวเลข</string>
+    <string name="generate" formatted="false">สร้างโค้ด</string>
+    <string name="private_hint" formatted="false">ไม่มีการอัปโหลด ไม่ต้องมีบัญชี</string>
+    <string name="invalid_input" formatted="false">ตรวจสอบข้อมูลและรูปแบบ ย่อข้อความที่ยาวเกินไป</string>
+    <string name="collection_title" formatted="false">ทุกอย่างอยู่ในที่ของมัน</string>
+    <string name="collection_hint" formatted="false">โค้ดที่อยากเก็บ อยู่กับคุณเสมอ</string>
+    <string name="search" formatted="false">ค้นหาเนื้อหาหรือชื่อ</string>
+    <string name="all" formatted="false">โค้ดทั้งหมด</string>
+    <string name="favorites" formatted="false">รายการโปรด</string>
+    <string name="created" formatted="false">ที่สร้าง</string>
+    <string name="scanned" formatted="false">ที่สแกน</string>
+    <string name="empty_collection" formatted="false">ไม่พบโค้ด</string>
+    <string name="empty_collection_hint" formatted="false">สร้างหรือสแกนโค้ด หรือลองค้นหาใหม่</string>
+    <string name="your_code" formatted="false">โค้ดของคุณ</string>
+    <string name="result" formatted="false">พบโค้ด</string>
+    <string name="code_preview" formatted="false">ตัวอย่างโค้ด</string>
+    <string name="preview_unavailable" formatted="false">แสดงตัวอย่างเนื้อหานี้ไม่ได้</string>
+    <string name="show_content" formatted="false">แสดงเนื้อหาทั้งหมด</string>
+    <string name="copy" formatted="false">คัดลอก</string>
+    <string name="favorite" formatted="false">เพิ่มในรายการโปรด</string>
+    <string name="favorited" formatted="false">อยู่ในรายการโปรด</string>
+    <string name="color" formatted="false">เติมสีสัน</string>
+    <string name="sage" formatted="false">เขียวเสจ</string>
+    <string name="lavender" formatted="false">ม่วงลาเวนเดอร์</string>
+    <string name="cocoa" formatted="false">น้ำตาลโกโก้</string>
+    <string name="ink" formatted="false">ดำหมึก</string>
+    <string name="share_image" formatted="false">แชร์รูปภาพ</string>
+    <string name="save_png" formatted="false">บันทึกภาพ PNG</string>
+    <string name="save_svg" formatted="false">บันทึกเวกเตอร์ SVG</string>
+    <string name="share_text" formatted="false">แชร์เนื้อหา</string>
+    <string name="rename" formatted="false">เปลี่ยนชื่อ</string>
+    <string name="delete" formatted="false">ลบ</string>
+    <string name="delete_confirm" formatted="false">ลบโค้ดนี้หรือไม่</string>
+    <string name="open_link" formatted="false">เปิดลิงก์</string>
+    <string name="connect_wifi" formatted="false">เปิดการตั้งค่า Wi-Fi</string>
+    <string name="add_contact" formatted="false">เพิ่มในรายชื่อติดต่อ</string>
+    <string name="add_event" formatted="false">เพิ่มในปฏิทิน</string>
+    <string name="open_map" formatted="false">เปิดในแผนที่</string>
+    <string name="dial" formatted="false">เปิดแป้นโทรออก</string>
+    <string name="compose" formatted="false">เขียนข้อความ</string>
+    <string name="wifi_connect_hint" formatted="false">ระบบจะคัดลอกรหัสผ่าน เลือกเครือข่ายในการตั้งค่า Wi-Fi แล้ววางรหัสผ่าน</string>
+    <string name="open_confirm" formatted="false">ตรวจสอบเนื้อหาก่อนเปิดในแอปอื่น</string>
+    <string name="continue_action" formatted="false">ดำเนินการต่อ</string>
+    <string name="settings_title" formatted="false">ปรับให้เป็นแบบคุณ</string>
+    <string name="history_setting" formatted="false">เก็บประวัติ</string>
+    <string name="history_hint" formatted="false">บันทึกโค้ดใหม่ลงโทรศัพท์โดยอัตโนมัติ รายการโปรดจะถูกบันทึกเสมอ</string>
+    <string name="vibrate_setting" formatted="false">สั่นเมื่อสแกน</string>
+    <string name="vibrate_hint" formatted="false">สั่นเบา ๆ เมื่อพบโค้ด</string>
+    <string name="privacy_title" formatted="false">โค้ดของคุณยังเป็นของคุณ</string>
+    <string name="privacy_body" formatted="false">สแกนและสร้างโค้ดได้แบบออฟไลน์ ไม่มีบัญชี โฆษณา หรือการติดตาม กล้องใช้สำหรับอ่านโค้ดเท่านั้นและไม่บันทึกภาพ ประวัติอยู่ในแอปและลบได้ คุณเลือกได้ว่าจะแชร์หรือเปิดแอปภายนอกหรือไม่</string>
+    <string name="export_history" formatted="false">ส่งออกประวัติ</string>
+    <string name="export_history_hint" formatted="false">ไฟล์ JSON มีเนื้อหาของโค้ด รวมถึงรหัสผ่าน Wi-Fi เลือกที่เก็บไฟล์</string>
+    <string name="clear_history" formatted="false">ล้างคอลเล็กชัน</string>
+    <string name="clear_confirm" formatted="false">ลบโค้ดที่บันทึกทั้งหมด รวมรายการโปรดหรือไม่ ไฟล์ที่ส่งออกจะยังอยู่ในที่เดิม</string>
+    <string name="deleted" formatted="false">ล้างคอลเล็กชันแล้ว</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">สร้างขึ้นใหม่สำหรับ Android อินเทอร์เฟซเรียบง่าย รองรับ 40 ภาษา</string>
+    <string name="licenses" formatted="false">ใบอนุญาตไลบรารี</string>
+    <string name="scan_hint" formatted="false">เล็งโค้ดให้อยู่ในกรอบ แตะเพื่อโฟกัส</string>
+    <string name="zoom" formatted="false">ซูม</string>
+    <string name="flash" formatted="false">ไฟฉาย</string>
+    <string name="flash_on" formatted="false">เปิดไฟฉายแล้ว</string>
+    <string name="flash_off" formatted="false">ปิดไฟฉายแล้ว</string>
+    <string name="switch_camera" formatted="false">สลับกล้อง</string>
+    <string name="batch" formatted="false">สแกนต่อเนื่อง</string>
+    <string name="batch_count" formatted="false">โค้ดที่รวบรวม:</string>
+    <string name="camera_permission" formatted="false">อนุญาตให้ใช้กล้อง</string>
+    <string name="permission_hint" formatted="false">อนุญาตกล้องในการตั้งค่าแอปเพื่อสแกน คุณยังนำเข้ารูปภาพจากหน้าหลักได้</string>
+    <string name="camera_error" formatted="false">ใช้กล้องไม่ได้ ย้อนกลับแล้วลองใหม่ หรือนำเข้ารูปภาพ</string>
+    <string name="unavailable" formatted="false">ฟีเจอร์นี้ไม่พร้อมใช้งานบนอุปกรณ์นี้</string>
+    <string name="no_code" formatted="false">ไม่พบโค้ด ลองใช้รูปภาพที่ชัดขึ้น</string>
+    <string name="choose_code" formatted="false">เลือกโค้ด</string>
+    <string name="reading_image" formatted="false">กำลังอ่านรูปภาพ…</string>
+    <string name="image_error" formatted="false">อ่านรูปภาพไม่ได้ ลองใช้ไฟล์ PNG หรือ JPEG</string>
+    <string name="export_error" formatted="false">ส่งออกไม่สำเร็จ ตรวจสอบพื้นที่ว่างหรือเลือกโฟลเดอร์อื่น</string>
+    <string name="saved" formatted="false">บันทึกไฟล์แล้ว</string>
+    <string name="copied" formatted="false">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
+    <string name="no_handler" formatted="false">ไม่มีแอปสำหรับการดำเนินการนี้</string>
+</resources>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">امسح. أنشئ. احتفظ.</string>
+    <string name="scan" formatted="false">مسح</string>
+    <string name="create" formatted="false">إنشاء</string>
+    <string name="collection" formatted="false">المجموعة</string>
+    <string name="settings" formatted="false">الإعدادات</string>
+    <string name="language" formatted="false">اللغة</string>
+    <string name="system_language" formatted="false">اتباع لغة النظام</string>
+    <string name="back" formatted="false">رجوع</string>
+    <string name="close" formatted="false">إغلاق</string>
+    <string name="cancel" formatted="false">إلغاء</string>
+    <string name="save" formatted="false">حفظ</string>
+    <string name="done" formatted="false">إنهاء المسح</string>
+    <string name="offline_badge" formatted="false">بسيط. خاص. بلا إنترنت.</string>
+    <string name="hero_title" formatted="false">رمز صغير.\nإمكانات كثيرة.</string>
+    <string name="hero_subtitle" formatted="false">روابط وأفكار وتواصل. كل ذلك بمسحة واحدة.</string>
+    <string name="scan_now" formatted="false">مسح رمز</string>
+    <string name="import_image" formatted="false">استيراد من صورة</string>
+    <string name="quick_create" formatted="false">إنشاء سريع</string>
+    <string name="view_all" formatted="false">عرض الكل</string>
+    <string name="recent" formatted="false">رموزك الأخيرة</string>
+    <string name="empty_recent" formatted="false">رمزك التالي بانتظارك</string>
+    <string name="empty_recent_hint" formatted="false">امسح رمزًا أو أنشئه ليظهر هنا.</string>
+    <string name="create_title" formatted="false">امنح أفكارك رمزًا.</string>
+    <string name="create_hint" formatted="false">اختر ما تريد مشاركته.</string>
+    <string name="url" formatted="false">رابط</string>
+    <string name="text" formatted="false">نص</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">جهة اتصال</string>
+    <string name="email" formatted="false">بريد إلكتروني</string>
+    <string name="sms" formatted="false">رسالة</string>
+    <string name="phone" formatted="false">هاتف</string>
+    <string name="location" formatted="false">موقع</string>
+    <string name="event" formatted="false">حدث</string>
+    <string name="barcode" formatted="false">رمز شريطي</string>
+    <string name="url_hint" formatted="false">موقع أو صفحة أو ملف شخصي</string>
+    <string name="text_hint" formatted="false">كلمات وملاحظات وأفكار صغيرة</string>
+    <string name="wifi_hint" formatted="false">مشاركة الوصول إلى شبكة</string>
+    <string name="contact_hint" formatted="false">بطاقة عمل رقمية</string>
+    <string name="email_hint" formatted="false">عنوان وموضوع ورسالة</string>
+    <string name="sms_hint" formatted="false">إعداد رسالة نصية</string>
+    <string name="phone_hint" formatted="false">رقم للاتصال</string>
+    <string name="location_hint" formatted="false">نقطة محددة على الخريطة</string>
+    <string name="event_hint" formatted="false">حدث للتقويم</string>
+    <string name="barcode_hint" formatted="false">EAN وCode 128 وAztec وغيرها</string>
+    <string name="form_hint" formatted="false">أدخل التفاصيل. يُنشأ الرمز على هاتفك.</string>
+    <string name="url_field" formatted="false">عنوان الويب</string>
+    <string name="network" formatted="false">اسم الشبكة</string>
+    <string name="password" formatted="false">كلمة المرور</string>
+    <string name="name" formatted="false">الاسم الكامل</string>
+    <string name="phone_field" formatted="false">رقم الهاتف</string>
+    <string name="email_field" formatted="false">عنوان البريد الإلكتروني</string>
+    <string name="company" formatted="false">الشركة</string>
+    <string name="website" formatted="false">الموقع الإلكتروني</string>
+    <string name="subject" formatted="false">الموضوع</string>
+    <string name="message" formatted="false">الرسالة</string>
+    <string name="latitude" formatted="false">خط العرض</string>
+    <string name="longitude" formatted="false">خط الطول</string>
+    <string name="event_title" formatted="false">عنوان الحدث</string>
+    <string name="start" formatted="false">البداية</string>
+    <string name="end" formatted="false">النهاية</string>
+    <string name="place" formatted="false">المكان</string>
+    <string name="content" formatted="false">المحتوى</string>
+    <string name="security" formatted="false">أمان الشبكة</string>
+    <string name="open_network" formatted="false">شبكة مفتوحة</string>
+    <string name="hidden_network" formatted="false">شبكة مخفية</string>
+    <string name="format" formatted="false">التنسيق</string>
+    <string name="date_hint" formatted="false">التنسيق: 2026-12-31 18:30 (التوقيت المحلي)</string>
+    <string name="barcode_help" formatted="false">EAN-13: ‏12 أو 13 رقمًا. EAN-8: ‏7 أو 8 أرقام. ITF: عدد زوجي من الأرقام. Code 39: أحرف لاتينية كبيرة وأرقام.</string>
+    <string name="generate" formatted="false">إنشاء الرمز</string>
+    <string name="private_hint" formatted="false">بلا رفع بيانات. لا يلزم حساب.</string>
+    <string name="invalid_input" formatted="false">تحقق من الحقول والتنسيق. اختصر النص الطويل جدًا.</string>
+    <string name="collection_title" formatted="false">كل شيء في مكانه.</string>
+    <string name="collection_hint" formatted="false">الرموز التي تريد الاحتفاظ بها، معك دائمًا.</string>
+    <string name="search" formatted="false">البحث بالمحتوى أو الاسم</string>
+    <string name="all" formatted="false">كل الرموز</string>
+    <string name="favorites" formatted="false">المفضلة</string>
+    <string name="created" formatted="false">المُنشأة</string>
+    <string name="scanned" formatted="false">الممسوحة</string>
+    <string name="empty_collection" formatted="false">لم يُعثر على رموز</string>
+    <string name="empty_collection_hint" formatted="false">أنشئ رمزًا أو امسحه، أو جرّب بحثًا آخر.</string>
+    <string name="your_code" formatted="false">رمزك</string>
+    <string name="result" formatted="false">عُثر على رمز</string>
+    <string name="code_preview" formatted="false">معاينة الرمز</string>
+    <string name="preview_unavailable" formatted="false">المعاينة غير متاحة لهذا المحتوى.</string>
+    <string name="show_content" formatted="false">عرض المحتوى كاملًا</string>
+    <string name="copy" formatted="false">نسخ</string>
+    <string name="favorite" formatted="false">إضافة للمفضلة</string>
+    <string name="favorited" formatted="false">في المفضلة</string>
+    <string name="color" formatted="false">لمسة من اللون</string>
+    <string name="sage" formatted="false">مريمي</string>
+    <string name="lavender" formatted="false">لافندر</string>
+    <string name="cocoa" formatted="false">كاكاو</string>
+    <string name="ink" formatted="false">حبر</string>
+    <string name="share_image" formatted="false">مشاركة الصورة</string>
+    <string name="save_png" formatted="false">حفظ صورة PNG</string>
+    <string name="save_svg" formatted="false">حفظ رسم متجهي SVG</string>
+    <string name="share_text" formatted="false">مشاركة المحتوى</string>
+    <string name="rename" formatted="false">إعادة تسمية</string>
+    <string name="delete" formatted="false">حذف</string>
+    <string name="delete_confirm" formatted="false">هل تريد حذف هذا الرمز؟</string>
+    <string name="open_link" formatted="false">فتح الرابط</string>
+    <string name="connect_wifi" formatted="false">فتح إعدادات Wi-Fi</string>
+    <string name="add_contact" formatted="false">إضافة إلى جهات الاتصال</string>
+    <string name="add_event" formatted="false">إضافة إلى التقويم</string>
+    <string name="open_map" formatted="false">فتح في الخرائط</string>
+    <string name="dial" formatted="false">فتح لوحة الاتصال</string>
+    <string name="compose" formatted="false">كتابة رسالة</string>
+    <string name="wifi_connect_hint" formatted="false">ستُنسخ كلمة المرور. اختر الشبكة من إعدادات Wi-Fi والصقها.</string>
+    <string name="open_confirm" formatted="false">تحقق من المحتوى قبل فتحه في تطبيق آخر.</string>
+    <string name="continue_action" formatted="false">متابعة</string>
+    <string name="settings_title" formatted="false">اجعله كما تحب.</string>
+    <string name="history_setting" formatted="false">حفظ السجل</string>
+    <string name="history_hint" formatted="false">حفظ الرموز الجديدة تلقائيًا على هاتفك. تُحفظ المفضلة دائمًا.</string>
+    <string name="vibrate_setting" formatted="false">اهتزاز عند المسح</string>
+    <string name="vibrate_hint" formatted="false">إشارة لطيفة عند التعرّف على رمز.</string>
+    <string name="privacy_title" formatted="false">رموزك تبقى لك.</string>
+    <string name="privacy_body" formatted="false">يعمل المسح والإنشاء بلا إنترنت. لا حسابات ولا إعلانات ولا تتبّع. تُستخدم الكاميرا لقراءة الرموز فقط، ولا تُحفظ الصور. يبقى السجل داخل التطبيق ويمكن حذفه. أنت تختار المشاركة وفتح التطبيقات الخارجية.</string>
+    <string name="export_history" formatted="false">تصدير السجل</string>
+    <string name="export_history_hint" formatted="false">يتضمن ملف JSON محتويات الرموز، ومنها كلمات مرور Wi-Fi. اختر مكان حفظه.</string>
+    <string name="clear_history" formatted="false">مسح المجموعة</string>
+    <string name="clear_confirm" formatted="false">هل تريد حذف جميع الرموز المحفوظة، بما فيها المفضلة؟ ستبقى الملفات المصدّرة في مكان حفظها.</string>
+    <string name="deleted" formatted="false">تم مسح المجموعة</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">صُمّم من الصفر لنظام Android. واجهة خفيفة و40 لغة.</string>
+    <string name="licenses" formatted="false">تراخيص المكتبات</string>
+    <string name="scan_hint" formatted="false">وجّه الكاميرا إلى الرمز. انقر لضبط التركيز.</string>
+    <string name="zoom" formatted="false">تقريب</string>
+    <string name="flash" formatted="false">المصباح</string>
+    <string name="flash_on" formatted="false">المصباح مضاء</string>
+    <string name="flash_off" formatted="false">المصباح مطفأ</string>
+    <string name="switch_camera" formatted="false">تبديل الكاميرا</string>
+    <string name="batch" formatted="false">مسح متعدد</string>
+    <string name="batch_count" formatted="false">الرموز المجمّعة:</string>
+    <string name="camera_permission" formatted="false">السماح بالوصول إلى الكاميرا</string>
+    <string name="permission_hint" formatted="false">للمسح، فعّل الكاميرا من إعدادات التطبيق. يمكنك أيضًا استيراد صور من الشاشة الرئيسية.</string>
+    <string name="camera_error" formatted="false">الكاميرا غير متاحة. ارجع وحاول مجددًا أو استورد صورة.</string>
+    <string name="unavailable" formatted="false">هذه الميزة غير متاحة على هذا الجهاز.</string>
+    <string name="no_code" formatted="false">لم يُتعرّف على رمز. جرّب صورة أوضح.</string>
+    <string name="choose_code" formatted="false">اختيار رمز</string>
+    <string name="reading_image" formatted="false">جارٍ قراءة الصورة…</string>
+    <string name="image_error" formatted="false">تعذّرت قراءة الصورة. جرّب ملف PNG أو JPEG.</string>
+    <string name="export_error" formatted="false">فشل التصدير. تحقق من المساحة المتاحة أو اختر مجلدًا آخر.</string>
+    <string name="saved" formatted="false">تم حفظ الملف</string>
+    <string name="copied" formatted="false">نُسخ إلى الحافظة</string>
+    <string name="no_handler" formatted="false">لا يوجد تطبيق متاح لهذا الإجراء.</string>
+</resources>

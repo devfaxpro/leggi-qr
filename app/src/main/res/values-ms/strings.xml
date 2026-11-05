@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only; generato da tools/generate_locales.py -->
+<resources>
+    <string name="tagline" formatted="false">Imbas. Cipta. Simpan.</string>
+    <string name="scan" formatted="false">Imbas</string>
+    <string name="create" formatted="false">Cipta</string>
+    <string name="collection" formatted="false">Koleksi</string>
+    <string name="settings" formatted="false">Tetapan</string>
+    <string name="language" formatted="false">Bahasa</string>
+    <string name="system_language" formatted="false">Ikut bahasa sistem</string>
+    <string name="back" formatted="false">Kembali</string>
+    <string name="close" formatted="false">Tutup</string>
+    <string name="cancel" formatted="false">Batal</string>
+    <string name="save" formatted="false">Simpan</string>
+    <string name="done" formatted="false">Selesai mengimbas</string>
+    <string name="offline_badge" formatted="false">MUDAH. PERIBADI. LUAR TALIAN.</string>
+    <string name="hero_title" formatted="false">Kod kecil.\nPelbagai kemungkinan.</string>
+    <string name="hero_subtitle" formatted="false">Pautan, idea dan hubungan. Hanya satu imbasan.</string>
+    <string name="scan_now" formatted="false">Imbas kod</string>
+    <string name="import_image" formatted="false">Import daripada imej</string>
+    <string name="quick_create" formatted="false">Cipta pantas</string>
+    <string name="view_all" formatted="false">Lihat semua</string>
+    <string name="recent" formatted="false">Kod terkini anda</string>
+    <string name="empty_recent" formatted="false">Kod seterusnya menanti</string>
+    <string name="empty_recent_hint" formatted="false">Imbas atau cipta kod untuk melihatnya di sini.</string>
+    <string name="create_title" formatted="false">Berikan kod kepada idea anda.</string>
+    <string name="create_hint" formatted="false">Pilih perkara yang ingin dikongsi.</string>
+    <string name="url" formatted="false">Pautan</string>
+    <string name="text" formatted="false">Teks</string>
+    <string name="wifi" formatted="false">Wi-Fi</string>
+    <string name="contact" formatted="false">Kenalan</string>
+    <string name="email" formatted="false">E-mel</string>
+    <string name="sms" formatted="false">Mesej</string>
+    <string name="phone" formatted="false">Telefon</string>
+    <string name="location" formatted="false">Lokasi</string>
+    <string name="event" formatted="false">Acara</string>
+    <string name="barcode" formatted="false">Kod bar</string>
+    <string name="url_hint" formatted="false">Laman web, halaman atau profil</string>
+    <string name="text_hint" formatted="false">Perkataan, nota dan idea kecil</string>
+    <string name="wifi_hint" formatted="false">Kongsi akses rangkaian</string>
+    <string name="contact_hint" formatted="false">Kad nama digital</string>
+    <string name="email_hint" formatted="false">Alamat, subjek dan mesej</string>
+    <string name="sms_hint" formatted="false">Sediakan mesej teks</string>
+    <string name="phone_hint" formatted="false">Nombor untuk dihubungi</string>
+    <string name="location_hint" formatted="false">Titik tepat pada peta</string>
+    <string name="event_hint" formatted="false">Acara untuk kalendar</string>
+    <string name="barcode_hint" formatted="false">EAN, Code 128, Aztec dan lain-lain</string>
+    <string name="form_hint" formatted="false">Masukkan butiran. Kod dicipta pada telefon anda.</string>
+    <string name="url_field" formatted="false">Alamat web</string>
+    <string name="network" formatted="false">Nama rangkaian</string>
+    <string name="password" formatted="false">Kata laluan</string>
+    <string name="name" formatted="false">Nama penuh</string>
+    <string name="phone_field" formatted="false">Nombor telefon</string>
+    <string name="email_field" formatted="false">Alamat e-mel</string>
+    <string name="company" formatted="false">Syarikat</string>
+    <string name="website" formatted="false">Laman web</string>
+    <string name="subject" formatted="false">Subjek</string>
+    <string name="message" formatted="false">Mesej</string>
+    <string name="latitude" formatted="false">Latitud</string>
+    <string name="longitude" formatted="false">Longitud</string>
+    <string name="event_title" formatted="false">Tajuk acara</string>
+    <string name="start" formatted="false">Mula</string>
+    <string name="end" formatted="false">Tamat</string>
+    <string name="place" formatted="false">Tempat</string>
+    <string name="content" formatted="false">Kandungan</string>
+    <string name="security" formatted="false">Keselamatan rangkaian</string>
+    <string name="open_network" formatted="false">Rangkaian terbuka</string>
+    <string name="hidden_network" formatted="false">Rangkaian tersembunyi</string>
+    <string name="format" formatted="false">Format</string>
+    <string name="date_hint" formatted="false">Format: 2026-12-31 18:30 (waktu tempatan)</string>
+    <string name="barcode_help" formatted="false">EAN-13: 12 atau 13 digit. EAN-8: 7 atau 8 digit. ITF: bilangan digit genap. Code 39: huruf besar dan digit.</string>
+    <string name="generate" formatted="false">Cipta kod</string>
+    <string name="private_hint" formatted="false">Tiada muat naik. Tidak perlu akaun.</string>
+    <string name="invalid_input" formatted="false">Semak medan dan format. Pendekkan teks yang terlalu panjang.</string>
+    <string name="collection_title" formatted="false">Semuanya tersusun.</string>
+    <string name="collection_hint" formatted="false">Kod yang ingin disimpan, sentiasa bersama anda.</string>
+    <string name="search" formatted="false">Cari kandungan atau nama</string>
+    <string name="all" formatted="false">Semua kod</string>
+    <string name="favorites" formatted="false">Kegemaran</string>
+    <string name="created" formatted="false">Dicipta</string>
+    <string name="scanned" formatted="false">Diimbas</string>
+    <string name="empty_collection" formatted="false">Tiada kod ditemui</string>
+    <string name="empty_collection_hint" formatted="false">Cipta atau imbas kod, atau cuba carian lain.</string>
+    <string name="your_code" formatted="false">Kod anda</string>
+    <string name="result" formatted="false">Kod ditemui</string>
+    <string name="code_preview" formatted="false">Pratonton kod</string>
+    <string name="preview_unavailable" formatted="false">Pratonton tidak tersedia untuk kandungan ini.</string>
+    <string name="show_content" formatted="false">Tunjukkan semua kandungan</string>
+    <string name="copy" formatted="false">Salin</string>
+    <string name="favorite" formatted="false">Tambah ke kegemaran</string>
+    <string name="favorited" formatted="false">Dalam kegemaran</string>
+    <string name="color" formatted="false">Sentuhan warna</string>
+    <string name="sage" formatted="false">Hijau sage</string>
+    <string name="lavender" formatted="false">Lavender</string>
+    <string name="cocoa" formatted="false">Koko</string>
+    <string name="ink" formatted="false">Dakwat</string>
+    <string name="share_image" formatted="false">Kongsi imej</string>
+    <string name="save_png" formatted="false">Simpan imej PNG</string>
+    <string name="save_svg" formatted="false">Simpan vektor SVG</string>
+    <string name="share_text" formatted="false">Kongsi kandungan</string>
+    <string name="rename" formatted="false">Namakan semula</string>
+    <string name="delete" formatted="false">Padam</string>
+    <string name="delete_confirm" formatted="false">Padam kod ini?</string>
+    <string name="open_link" formatted="false">Buka pautan</string>
+    <string name="connect_wifi" formatted="false">Buka tetapan Wi-Fi</string>
+    <string name="add_contact" formatted="false">Tambah ke kenalan</string>
+    <string name="add_event" formatted="false">Tambah ke kalendar</string>
+    <string name="open_map" formatted="false">Buka dalam peta</string>
+    <string name="dial" formatted="false">Buka pendail</string>
+    <string name="compose" formatted="false">Karang mesej</string>
+    <string name="wifi_connect_hint" formatted="false">Kata laluan akan disalin. Pilih rangkaian dalam tetapan Wi-Fi dan tampalkannya.</string>
+    <string name="open_confirm" formatted="false">Semak kandungan sebelum membukanya dalam aplikasi lain.</string>
+    <string name="continue_action" formatted="false">Teruskan</string>
+    <string name="settings_title" formatted="false">Sesuaikan mengikut cita rasa.</string>
+    <string name="history_setting" formatted="false">Simpan sejarah</string>
+    <string name="history_hint" formatted="false">Simpan kod baharu secara automatik pada telefon. Kegemaran sentiasa disimpan.</string>
+    <string name="vibrate_setting" formatted="false">Getar semasa mengimbas</string>
+    <string name="vibrate_hint" formatted="false">Getaran lembut apabila kod dikenal pasti.</string>
+    <string name="privacy_title" formatted="false">Kod anda kekal milik anda.</string>
+    <string name="privacy_body" formatted="false">Imbasan dan penciptaan kod berfungsi di luar talian. Tiada akaun, iklan atau penjejakan. Kamera hanya untuk membaca kod; imej tidak disimpan. Sejarah kekal dalam aplikasi dan boleh dipadam. Anda memilih untuk berkongsi atau membuka aplikasi lain.</string>
+    <string name="export_history" formatted="false">Eksport sejarah</string>
+    <string name="export_history_hint" formatted="false">Fail JSON mengandungi kandungan kod, termasuk kata laluan Wi-Fi. Pilih tempat menyimpannya.</string>
+    <string name="clear_history" formatted="false">Kosongkan koleksi</string>
+    <string name="clear_confirm" formatted="false">Padam semua kod tersimpan, termasuk kegemaran? Fail yang dieksport kekal di tempatnya.</string>
+    <string name="deleted" formatted="false">Koleksi dikosongkan</string>
+    <string name="about" formatted="false">Leggi QR · 2.1.1 · GPLv3</string>
+    <string name="about_body" formatted="false">Dibina dari awal untuk Android. Antara muka ringan dan 40 bahasa.</string>
+    <string name="licenses" formatted="false">Lesen pustaka</string>
+    <string name="scan_hint" formatted="false">Letakkan kod dalam bingkai. Ketik untuk fokus.</string>
+    <string name="zoom" formatted="false">Zum</string>
+    <string name="flash" formatted="false">Lampu suluh</string>
+    <string name="flash_on" formatted="false">Lampu suluh dihidupkan</string>
+    <string name="flash_off" formatted="false">Lampu suluh dimatikan</string>
+    <string name="switch_camera" formatted="false">Tukar kamera</string>
+    <string name="batch" formatted="false">Imbasan berterusan</string>
+    <string name="batch_count" formatted="false">Kod dikumpulkan:</string>
+    <string name="camera_permission" formatted="false">Benarkan akses kamera</string>
+    <string name="permission_hint" formatted="false">Aktifkan kamera dalam tetapan aplikasi untuk mengimbas. Anda juga boleh mengimport imej dari skrin utama.</string>
+    <string name="camera_error" formatted="false">Kamera tidak tersedia. Kembali dan cuba lagi, atau import imej.</string>
+    <string name="unavailable" formatted="false">Ciri ini tidak tersedia pada peranti ini.</string>
+    <string name="no_code" formatted="false">Tiada kod dikenal pasti. Cuba imej yang lebih jelas.</string>
+    <string name="choose_code" formatted="false">Pilih kod</string>
+    <string name="reading_image" formatted="false">Membaca imej…</string>
+    <string name="image_error" formatted="false">Imej tidak dapat dibaca. Cuba fail PNG atau JPEG.</string>
+    <string name="export_error" formatted="false">Eksport gagal. Semak ruang kosong atau pilih folder lain.</string>
+    <string name="saved" formatted="false">Fail disimpan</string>
+    <string name="copied" formatted="false">Disalin ke papan klip</string>
+    <string name="no_handler" formatted="false">Tiada aplikasi untuk tindakan ini.</string>
+</resources>
